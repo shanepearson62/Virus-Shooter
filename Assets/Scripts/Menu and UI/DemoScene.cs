@@ -14,4 +14,8 @@ public class DemoScene : MonoBehaviour
     public void GoToLobby() {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex -4 );
     }
+
+    public void GoToGame(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex -3);
+    }
 }

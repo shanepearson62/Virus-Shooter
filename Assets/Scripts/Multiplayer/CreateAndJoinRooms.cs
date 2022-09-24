@@ -13,7 +13,7 @@ public class CreateAndJoinRooms : MonoBehaviourPunCallbacks
 
     public void CreateRoom(){
         // create a room using the create room input field text
-        PhotonNetwork.CreateRoom(createInput.text);
+        PhotonNetwork.CreateRoom("123");
     }
 
     public void JoinRoom(){

@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Loading.unity
     guid: 03c96bce3d9cf4e0ab2a7573c3179b3c
   - enabled: 1
-    path: Assets/Scenes/Lobby.unity
+    path: Assets/Scenes/NotUsed/Lobby.unity
     guid: 8adc03209806b40dfa1e63d53fc1d9e1
   - enabled: 1
     path: Assets/Scenes/Game.unity
@@ -27,7 +27,7 @@ EditorBuildSettings:
     path: Assets/Scenes/GameOver.unity
     guid: 3c6663277375d4f209aa87309af16f70
   - enabled: 1
-    path: Assets/Scenes/Login.unity
+    path: Assets/Scenes/NotUsed/Login.unity
     guid: 10c65d588a24042459b3f6676ef5b3dd
   - enabled: 1
     path: Assets/Scenes/Instructions.unity
