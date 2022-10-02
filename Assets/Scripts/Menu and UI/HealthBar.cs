@@ -7,12 +7,17 @@ using Photon.Pun;
 public class HealthBar : MonoBehaviour
 {
 
+    [SerializeField] GameObject Player;
     public Slider slider;
     PhotonView view;
     public Gradient gradient;
     public Image fill;
 
-     private void Start() {
+    void update(){
+        transform.rotation = Quaternion.identity;
+    }
+
+    private void Start() {
          view = GetComponent<PhotonView>();
     }
 
