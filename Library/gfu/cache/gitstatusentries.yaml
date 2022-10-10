@@ -13,12 +13,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-10-02T19:42:52.148-04:00
-  initializedAtString: 2022-10-02T19:19:20.307-04:00
+  lastUpdatedAtString: 2022-10-10T01:27:51.942-04:00
+  initializedAtString: 2022-10-10T00:58:33.172-04:00
   entries:
+  - path: .plastic\plastic.changes
+    fullPath: H:\VirusShooter\Virus-Shooter\.plastic\plastic.changes
+    projectPath: .plastic\plastic.changes
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .plastic\plastic.wktree
+    fullPath: H:\VirusShooter\Virus-Shooter\.plastic\plastic.wktree
+    projectPath: .plastic\plastic.wktree
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\Player.prefab
+    fullPath: H:\VirusShooter\Virus-Shooter\Assets\Resources\Player.prefab
+    projectPath: Assets\Resources\Player.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Game.unity
     fullPath: H:\VirusShooter\Virus-Shooter\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Menu.unity
+    fullPath: H:\VirusShooter\Virus-Shooter\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -28,15 +52,735 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\Player and Game Control\PlayerHealthBar.cs
+    fullPath: H:\VirusShooter\Virus-Shooter\Assets\Scripts\Player and Game Control\PlayerHealthBar.cs
+    projectPath: Assets\Scripts\Player and Game Control\PlayerHealthBar.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Player and Game Control\PlayerHealthBar.cs.meta
+    fullPath: H:\VirusShooter\Virus-Shooter\Assets\Scripts\Player and Game Control\PlayerHealthBar.cs.meta
+    projectPath: Assets\Scripts\Player and Game Control\PlayerHealthBar.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Player and Game Control\PlayerScript.cs
+    fullPath: H:\VirusShooter\Virus-Shooter\Assets\Scripts\Player and Game Control\PlayerScript.cs
+    projectPath: Assets\Scripts\Player and Game Control\PlayerScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\57\57dac2158028b779c04c9686cf73018f
-    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\57\57dac2158028b779c04c9686cf73018f
-    projectPath: Library\Artifacts\57\57dac2158028b779c04c9686cf73018f
+  - path: Library\Artifacts\00\004d381de7921d86e67728f956e41a6c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\00\004d381de7921d86e67728f956e41a6c
+    projectPath: Library\Artifacts\00\004d381de7921d86e67728f956e41a6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\00\007eb80579ae0dcb197255f86cb56479
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\00\007eb80579ae0dcb197255f86cb56479
+    projectPath: Library\Artifacts\00\007eb80579ae0dcb197255f86cb56479
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\01\01d7a9d32e7300ffe7fcecb85445dab0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\01\01d7a9d32e7300ffe7fcecb85445dab0
+    projectPath: Library\Artifacts\01\01d7a9d32e7300ffe7fcecb85445dab0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\02\023c34948aa9af4982e897d3b40de55c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\02\023c34948aa9af4982e897d3b40de55c
+    projectPath: Library\Artifacts\02\023c34948aa9af4982e897d3b40de55c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\03\033c9a2eca8bb46328551da2db06655c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\03\033c9a2eca8bb46328551da2db06655c
+    projectPath: Library\Artifacts\03\033c9a2eca8bb46328551da2db06655c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\04\0436b4d16a8d73749d9ad7ad3268c00a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\04\0436b4d16a8d73749d9ad7ad3268c00a
+    projectPath: Library\Artifacts\04\0436b4d16a8d73749d9ad7ad3268c00a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\04\04cb3647d73fcfa2830fd16bdfdb7885
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\04\04cb3647d73fcfa2830fd16bdfdb7885
+    projectPath: Library\Artifacts\04\04cb3647d73fcfa2830fd16bdfdb7885
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\05\05e0d23aae88e0d39ed088974396fe79
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\05\05e0d23aae88e0d39ed088974396fe79
+    projectPath: Library\Artifacts\05\05e0d23aae88e0d39ed088974396fe79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\06\06179813192b39f2d30b2c084483c2be
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\06\06179813192b39f2d30b2c084483c2be
+    projectPath: Library\Artifacts\06\06179813192b39f2d30b2c084483c2be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\06\064395e048709d821cc1f0aab4e3dfa2
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\06\064395e048709d821cc1f0aab4e3dfa2
+    projectPath: Library\Artifacts\06\064395e048709d821cc1f0aab4e3dfa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\08\083a79ec8c2a708a69539ce04d5e1ab8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\08\083a79ec8c2a708a69539ce04d5e1ab8
+    projectPath: Library\Artifacts\08\083a79ec8c2a708a69539ce04d5e1ab8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\08\08586dab6687093e04badff8e54857cf
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\08\08586dab6687093e04badff8e54857cf
+    projectPath: Library\Artifacts\08\08586dab6687093e04badff8e54857cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a165aa600c5135440cdb44b21249a46
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0a\0a165aa600c5135440cdb44b21249a46
+    projectPath: Library\Artifacts\0a\0a165aa600c5135440cdb44b21249a46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a4e9107f213f00e4eb2ffc8e7977936
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0a\0a4e9107f213f00e4eb2ffc8e7977936
+    projectPath: Library\Artifacts\0a\0a4e9107f213f00e4eb2ffc8e7977936
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a5b01fc55088c2502777264a6e075bd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0a\0a5b01fc55088c2502777264a6e075bd
+    projectPath: Library\Artifacts\0a\0a5b01fc55088c2502777264a6e075bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a6d8cccd1ea0fdcb990cea8d5a780b1
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0a\0a6d8cccd1ea0fdcb990cea8d5a780b1
+    projectPath: Library\Artifacts\0a\0a6d8cccd1ea0fdcb990cea8d5a780b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0b0df23ae8a6291e663f349993abc465
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0b\0b0df23ae8a6291e663f349993abc465
+    projectPath: Library\Artifacts\0b\0b0df23ae8a6291e663f349993abc465
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0b37b8012b13c7d955f43d8ab305d42f
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0b\0b37b8012b13c7d955f43d8ab305d42f
+    projectPath: Library\Artifacts\0b\0b37b8012b13c7d955f43d8ab305d42f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0c\0cd015fe36ca561c0d0f131a6aa42bdc
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0c\0cd015fe36ca561c0d0f131a6aa42bdc
+    projectPath: Library\Artifacts\0c\0cd015fe36ca561c0d0f131a6aa42bdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0d59d4441db5e86c41b2af02ad2d5246
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0d\0d59d4441db5e86c41b2af02ad2d5246
+    projectPath: Library\Artifacts\0d\0d59d4441db5e86c41b2af02ad2d5246
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0d6ba016a813ccb9fb6b67c10fd63ca0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0d\0d6ba016a813ccb9fb6b67c10fd63ca0
+    projectPath: Library\Artifacts\0d\0d6ba016a813ccb9fb6b67c10fd63ca0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0df6f52cb09d575e508c1f9088bdb528
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0d\0df6f52cb09d575e508c1f9088bdb528
+    projectPath: Library\Artifacts\0d\0df6f52cb09d575e508c1f9088bdb528
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0e3bde28e85ec10de1f5914c07e404bc
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0e\0e3bde28e85ec10de1f5914c07e404bc
+    projectPath: Library\Artifacts\0e\0e3bde28e85ec10de1f5914c07e404bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0ed59c9c7a3feaf7f659a970044160bc
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0e\0ed59c9c7a3feaf7f659a970044160bc
+    projectPath: Library\Artifacts\0e\0ed59c9c7a3feaf7f659a970044160bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0eed52590e28476f7212d0378890d908
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0e\0eed52590e28476f7212d0378890d908
+    projectPath: Library\Artifacts\0e\0eed52590e28476f7212d0378890d908
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0f\0f8502ea64218e94ce6465f434a20b89
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0f\0f8502ea64218e94ce6465f434a20b89
+    projectPath: Library\Artifacts\0f\0f8502ea64218e94ce6465f434a20b89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0f\0fac6293b7c47ada71d1e59521b78bc4
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\0f\0fac6293b7c47ada71d1e59521b78bc4
+    projectPath: Library\Artifacts\0f\0fac6293b7c47ada71d1e59521b78bc4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\10\10850a106532d3aff42c4b09b7ceff63
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\10\10850a106532d3aff42c4b09b7ceff63
+    projectPath: Library\Artifacts\10\10850a106532d3aff42c4b09b7ceff63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\10\10b10bc2cbe8f2f4b203620c0a42b53a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\10\10b10bc2cbe8f2f4b203620c0a42b53a
+    projectPath: Library\Artifacts\10\10b10bc2cbe8f2f4b203620c0a42b53a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\11590801dbb5cc5b79ca7700b3452d98
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\11\11590801dbb5cc5b79ca7700b3452d98
+    projectPath: Library\Artifacts\11\11590801dbb5cc5b79ca7700b3452d98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\11bd50961d2a1f8d8b8c53e8a7c7d607
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\11\11bd50961d2a1f8d8b8c53e8a7c7d607
+    projectPath: Library\Artifacts\11\11bd50961d2a1f8d8b8c53e8a7c7d607
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\130be90f5c74bbe0ff32043cb34e0d16
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\13\130be90f5c74bbe0ff32043cb34e0d16
+    projectPath: Library\Artifacts\13\130be90f5c74bbe0ff32043cb34e0d16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\1455c6ae9b36e50d4e8ea80758e68126
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\14\1455c6ae9b36e50d4e8ea80758e68126
+    projectPath: Library\Artifacts\14\1455c6ae9b36e50d4e8ea80758e68126
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\18\18356de8547a1a67f1a03fc554f998a9
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\18\18356de8547a1a67f1a03fc554f998a9
+    projectPath: Library\Artifacts\18\18356de8547a1a67f1a03fc554f998a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\18\18ac298d158e411321ea50a065977d40
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\18\18ac298d158e411321ea50a065977d40
+    projectPath: Library\Artifacts\18\18ac298d158e411321ea50a065977d40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\19808e2123b24cb400ed251c8c1b1625
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\19\19808e2123b24cb400ed251c8c1b1625
+    projectPath: Library\Artifacts\19\19808e2123b24cb400ed251c8c1b1625
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\19c90f56ded2118b250d2069b45ad944
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\19\19c90f56ded2118b250d2069b45ad944
+    projectPath: Library\Artifacts\19\19c90f56ded2118b250d2069b45ad944
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\19eb7cc1cd21116d4fd36d3ff6766ec2
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\19\19eb7cc1cd21116d4fd36d3ff6766ec2
+    projectPath: Library\Artifacts\19\19eb7cc1cd21116d4fd36d3ff6766ec2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1a\1a06e9d993ee8a20497a3fe3cc6ed803
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\1a\1a06e9d993ee8a20497a3fe3cc6ed803
+    projectPath: Library\Artifacts\1a\1a06e9d993ee8a20497a3fe3cc6ed803
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1a\1af02387e2f289eb051c7f8549a4f507
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\1a\1af02387e2f289eb051c7f8549a4f507
+    projectPath: Library\Artifacts\1a\1af02387e2f289eb051c7f8549a4f507
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1ba1cd05b8b22281b25b57a5793cf1a9
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\1b\1ba1cd05b8b22281b25b57a5793cf1a9
+    projectPath: Library\Artifacts\1b\1ba1cd05b8b22281b25b57a5793cf1a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1bbe8ca3218d15e098bd8d71091d1d7a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\1b\1bbe8ca3218d15e098bd8d71091d1d7a
+    projectPath: Library\Artifacts\1b\1bbe8ca3218d15e098bd8d71091d1d7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1cf1b020773c17235ac1005d422130b1
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\1c\1cf1b020773c17235ac1005d422130b1
+    projectPath: Library\Artifacts\1c\1cf1b020773c17235ac1005d422130b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1d\1d36b7250d09938dcd1da00bade3b10f
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\1d\1d36b7250d09938dcd1da00bade3b10f
+    projectPath: Library\Artifacts\1d\1d36b7250d09938dcd1da00bade3b10f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20a86b096828fa2ae4a97b54de1dec87
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\20\20a86b096828fa2ae4a97b54de1dec87
+    projectPath: Library\Artifacts\20\20a86b096828fa2ae4a97b54de1dec87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20afa72b7b4f895da0d910c93c16e13b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\20\20afa72b7b4f895da0d910c93c16e13b
+    projectPath: Library\Artifacts\20\20afa72b7b4f895da0d910c93c16e13b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\21\214461efbe798cc158292188d4885dcd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\21\214461efbe798cc158292188d4885dcd
+    projectPath: Library\Artifacts\21\214461efbe798cc158292188d4885dcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\232ac0ae0b59ed1867f8d7eb8b71baae
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\23\232ac0ae0b59ed1867f8d7eb8b71baae
+    projectPath: Library\Artifacts\23\232ac0ae0b59ed1867f8d7eb8b71baae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23962030e0a245e38421651e28d89c6c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\23\23962030e0a245e38421651e28d89c6c
+    projectPath: Library\Artifacts\23\23962030e0a245e38421651e28d89c6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23b194fa98f22186f3278365a4e12797
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\23\23b194fa98f22186f3278365a4e12797
+    projectPath: Library\Artifacts\23\23b194fa98f22186f3278365a4e12797
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23d07a301ccf44c554ef645bdcf5cbc9
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\23\23d07a301ccf44c554ef645bdcf5cbc9
+    projectPath: Library\Artifacts\23\23d07a301ccf44c554ef645bdcf5cbc9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\246cdb177eb113ed3bf9976f256d666f
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\24\246cdb177eb113ed3bf9976f256d666f
+    projectPath: Library\Artifacts\24\246cdb177eb113ed3bf9976f256d666f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\24e0900b4c170175909a1a153b57bde0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\24\24e0900b4c170175909a1a153b57bde0
+    projectPath: Library\Artifacts\24\24e0900b4c170175909a1a153b57bde0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26286162c1c4598455a2cfe66d6df49b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\26\26286162c1c4598455a2cfe66d6df49b
+    projectPath: Library\Artifacts\26\26286162c1c4598455a2cfe66d6df49b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26c2e0cc90550a667f018a2e87424632
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\26\26c2e0cc90550a667f018a2e87424632
+    projectPath: Library\Artifacts\26\26c2e0cc90550a667f018a2e87424632
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26c7a6cd59a5dd992603053876198e95
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\26\26c7a6cd59a5dd992603053876198e95
+    projectPath: Library\Artifacts\26\26c7a6cd59a5dd992603053876198e95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\27\2763c836fa0a43fee7bbcbf43527be17
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\27\2763c836fa0a43fee7bbcbf43527be17
+    projectPath: Library\Artifacts\27\2763c836fa0a43fee7bbcbf43527be17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2a\2ab50c2754588540c13d0f60bc0403b3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\2a\2ab50c2754588540c13d0f60bc0403b3
+    projectPath: Library\Artifacts\2a\2ab50c2754588540c13d0f60bc0403b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d3a6b7732a4ab46dfa5abfd959cfb96
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\2d\2d3a6b7732a4ab46dfa5abfd959cfb96
+    projectPath: Library\Artifacts\2d\2d3a6b7732a4ab46dfa5abfd959cfb96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d5d5f5b509b13d47f81d47464aa30a9
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\2d\2d5d5f5b509b13d47f81d47464aa30a9
+    projectPath: Library\Artifacts\2d\2d5d5f5b509b13d47f81d47464aa30a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2f5542f7c277a2596b44387f21c1038a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\2f\2f5542f7c277a2596b44387f21c1038a
+    projectPath: Library\Artifacts\2f\2f5542f7c277a2596b44387f21c1038a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\316f7849bb6e10938723f1751efe9d31
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\31\316f7849bb6e10938723f1751efe9d31
+    projectPath: Library\Artifacts\31\316f7849bb6e10938723f1751efe9d31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\31769d73addc2efbd531709aeffa3ba5
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\31\31769d73addc2efbd531709aeffa3ba5
+    projectPath: Library\Artifacts\31\31769d73addc2efbd531709aeffa3ba5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\3196e3f64e6d8b9f3857d8fa35bcd43a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\31\3196e3f64e6d8b9f3857d8fa35bcd43a
+    projectPath: Library\Artifacts\31\3196e3f64e6d8b9f3857d8fa35bcd43a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\31c37f88437ce3807cd8b0e897b1d8fd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\31\31c37f88437ce3807cd8b0e897b1d8fd
+    projectPath: Library\Artifacts\31\31c37f88437ce3807cd8b0e897b1d8fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\33\33b925c73db9441608e73621b2a05e18
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\33\33b925c73db9441608e73621b2a05e18
+    projectPath: Library\Artifacts\33\33b925c73db9441608e73621b2a05e18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\340b6176e03dea920310470031af4ec9
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\34\340b6176e03dea920310470031af4ec9
+    projectPath: Library\Artifacts\34\340b6176e03dea920310470031af4ec9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\347c5bce3ccffcd299b4b120087ca592
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\34\347c5bce3ccffcd299b4b120087ca592
+    projectPath: Library\Artifacts\34\347c5bce3ccffcd299b4b120087ca592
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\34e46853820b8dde29c0a48d7b951386
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\34\34e46853820b8dde29c0a48d7b951386
+    projectPath: Library\Artifacts\34\34e46853820b8dde29c0a48d7b951386
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\35\35422324677b59432fc74bee01812ef4
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\35\35422324677b59432fc74bee01812ef4
+    projectPath: Library\Artifacts\35\35422324677b59432fc74bee01812ef4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\37\37673b2be3a59143a0ff0a6cd4c499df
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\37\37673b2be3a59143a0ff0a6cd4c499df
+    projectPath: Library\Artifacts\37\37673b2be3a59143a0ff0a6cd4c499df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\37\378ab9eb731da2587037bb92b7f851a0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\37\378ab9eb731da2587037bb92b7f851a0
+    projectPath: Library\Artifacts\37\378ab9eb731da2587037bb92b7f851a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\383552c844d5c6bd22d2df41ee3d6073
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\38\383552c844d5c6bd22d2df41ee3d6073
+    projectPath: Library\Artifacts\38\383552c844d5c6bd22d2df41ee3d6073
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\38fa0cc76c4c8dd17e5846b6b2ddf141
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\38\38fa0cc76c4c8dd17e5846b6b2ddf141
+    projectPath: Library\Artifacts\38\38fa0cc76c4c8dd17e5846b6b2ddf141
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\39a9c533ffe3becde77083961d43cbb3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\39\39a9c533ffe3becde77083961d43cbb3
+    projectPath: Library\Artifacts\39\39a9c533ffe3becde77083961d43cbb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3a7c037070c4bd6b4310ae84e081991d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\3a\3a7c037070c4bd6b4310ae84e081991d
+    projectPath: Library\Artifacts\3a\3a7c037070c4bd6b4310ae84e081991d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3c8c63f4b5a697df0c508235a9cc9672
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\3c\3c8c63f4b5a697df0c508235a9cc9672
+    projectPath: Library\Artifacts\3c\3c8c63f4b5a697df0c508235a9cc9672
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3cacbe0aac40f84f2b95fbbeed7b6138
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\3c\3cacbe0aac40f84f2b95fbbeed7b6138
+    projectPath: Library\Artifacts\3c\3cacbe0aac40f84f2b95fbbeed7b6138
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3dfe567a39067c6864bfb1a5b1e707fe
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\3d\3dfe567a39067c6864bfb1a5b1e707fe
+    projectPath: Library\Artifacts\3d\3dfe567a39067c6864bfb1a5b1e707fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3e\3e76fe6628ea46d899bcd589677f4e96
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\3e\3e76fe6628ea46d899bcd589677f4e96
+    projectPath: Library\Artifacts\3e\3e76fe6628ea46d899bcd589677f4e96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\420f496c38e9ebdf5edbb30d47faef04
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\42\420f496c38e9ebdf5edbb30d47faef04
+    projectPath: Library\Artifacts\42\420f496c38e9ebdf5edbb30d47faef04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\4234c639138289a0340cbbd18e90fe7e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\42\4234c639138289a0340cbbd18e90fe7e
+    projectPath: Library\Artifacts\42\4234c639138289a0340cbbd18e90fe7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\4284b0637ff0c970c2db46bf0a2207d3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\42\4284b0637ff0c970c2db46bf0a2207d3
+    projectPath: Library\Artifacts\42\4284b0637ff0c970c2db46bf0a2207d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\42f3133c5dc911fe9fadbd26f5d2f9a3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\42\42f3133c5dc911fe9fadbd26f5d2f9a3
+    projectPath: Library\Artifacts\42\42f3133c5dc911fe9fadbd26f5d2f9a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\44dba12f0f2750d808c6e1e85d9608fa
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\44\44dba12f0f2750d808c6e1e85d9608fa
+    projectPath: Library\Artifacts\44\44dba12f0f2750d808c6e1e85d9608fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\44f57fd2d0dc912ea83df2b7834f64a4
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\44\44f57fd2d0dc912ea83df2b7834f64a4
+    projectPath: Library\Artifacts\44\44f57fd2d0dc912ea83df2b7834f64a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\45\45ce3e654802a5c91333a6058e9ac4cb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\45\45ce3e654802a5c91333a6058e9ac4cb
+    projectPath: Library\Artifacts\45\45ce3e654802a5c91333a6058e9ac4cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\46\46352f07cd5a2c78fb928c97777a01a1
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\46\46352f07cd5a2c78fb928c97777a01a1
+    projectPath: Library\Artifacts\46\46352f07cd5a2c78fb928c97777a01a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\46\463fd46cd7c5f144a1f5ca46610ebc3a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\46\463fd46cd7c5f144a1f5ca46610ebc3a
+    projectPath: Library\Artifacts\46\463fd46cd7c5f144a1f5ca46610ebc3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\46\46f6c0c476fb0b9f06ade7c84556795a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\46\46f6c0c476fb0b9f06ade7c84556795a
+    projectPath: Library\Artifacts\46\46f6c0c476fb0b9f06ade7c84556795a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\47\470f6039bef16b88cae5610504338123
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\47\470f6039bef16b88cae5610504338123
+    projectPath: Library\Artifacts\47\470f6039bef16b88cae5610504338123
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\48\4849d36da6c460cf58c351e8db861097
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\48\4849d36da6c460cf58c351e8db861097
+    projectPath: Library\Artifacts\48\4849d36da6c460cf58c351e8db861097
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\4920ffbce605d19cff89f199f3bcec97
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\49\4920ffbce605d19cff89f199f3bcec97
+    projectPath: Library\Artifacts\49\4920ffbce605d19cff89f199f3bcec97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a959e34d84d41b4e4836ad4cbd2e96f
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\4a\4a959e34d84d41b4e4836ad4cbd2e96f
+    projectPath: Library\Artifacts\4a\4a959e34d84d41b4e4836ad4cbd2e96f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4b63eb1dc4583376b7163dc7d730e4d8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\4b\4b63eb1dc4583376b7163dc7d730e4d8
+    projectPath: Library\Artifacts\4b\4b63eb1dc4583376b7163dc7d730e4d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4cf191851f68f5d39265b79bf134d8d4
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\4c\4cf191851f68f5d39265b79bf134d8d4
+    projectPath: Library\Artifacts\4c\4cf191851f68f5d39265b79bf134d8d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4d88b20e4d7971fb4178b2f4ae950d25
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\4d\4d88b20e4d7971fb4178b2f4ae950d25
+    projectPath: Library\Artifacts\4d\4d88b20e4d7971fb4178b2f4ae950d25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4ed4365ec616ea95b2a3c52c5a627920
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\4e\4ed4365ec616ea95b2a3c52c5a627920
+    projectPath: Library\Artifacts\4e\4ed4365ec616ea95b2a3c52c5a627920
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4ee744ff3b2df73b26dff0b6095ebd22
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\4e\4ee744ff3b2df73b26dff0b6095ebd22
+    projectPath: Library\Artifacts\4e\4ee744ff3b2df73b26dff0b6095ebd22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4f6a38aad60dac83120f0ff811cd03f4
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\4f\4f6a38aad60dac83120f0ff811cd03f4
+    projectPath: Library\Artifacts\4f\4f6a38aad60dac83120f0ff811cd03f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4ff119b5347afc18f35de013eee65326
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\4f\4ff119b5347afc18f35de013eee65326
+    projectPath: Library\Artifacts\4f\4ff119b5347afc18f35de013eee65326
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\50c5a688dbd750a89274d97d76465c97
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\50\50c5a688dbd750a89274d97d76465c97
+    projectPath: Library\Artifacts\50\50c5a688dbd750a89274d97d76465c97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\51\514a58b61587ea19c6f2de6edc8e81c1
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\51\514a58b61587ea19c6f2de6edc8e81c1
+    projectPath: Library\Artifacts\51\514a58b61587ea19c6f2de6edc8e81c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\51\51d96c598afa6c8a6f95837cf4b6a9a3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\51\51d96c598afa6c8a6f95837cf4b6a9a3
+    projectPath: Library\Artifacts\51\51d96c598afa6c8a6f95837cf4b6a9a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\52\52b3f45634ff06618bd410d508295ecc
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\52\52b3f45634ff06618bd410d508295ecc
+    projectPath: Library\Artifacts\52\52b3f45634ff06618bd410d508295ecc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\54113a150773913769a1407387ebd544
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\54\54113a150773913769a1407387ebd544
+    projectPath: Library\Artifacts\54\54113a150773913769a1407387ebd544
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\54aa9b5b08b7378f1326b6793d658446
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\54\54aa9b5b08b7378f1326b6793d658446
+    projectPath: Library\Artifacts\54\54aa9b5b08b7378f1326b6793d658446
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55975b861caaa5d0cd9e2956bc16cf8b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\55\55975b861caaa5d0cd9e2956bc16cf8b
+    projectPath: Library\Artifacts\55\55975b861caaa5d0cd9e2956bc16cf8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55dacd38dc060f8cae7d5a2f89614792
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\55\55dacd38dc060f8cae7d5a2f89614792
+    projectPath: Library\Artifacts\55\55dacd38dc060f8cae7d5a2f89614792
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56ce03a6c92d5bbabd3f9c5891d92370
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\56\56ce03a6c92d5bbabd3f9c5891d92370
+    projectPath: Library\Artifacts\56\56ce03a6c92d5bbabd3f9c5891d92370
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56d2337c1c26c49e0a6c2f9553928c83
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\56\56d2337c1c26c49e0a6c2f9553928c83
+    projectPath: Library\Artifacts\56\56d2337c1c26c49e0a6c2f9553928c83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\57\5761dcb76bc53322d80d90cb020933d8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\57\5761dcb76bc53322d80d90cb020933d8
+    projectPath: Library\Artifacts\57\5761dcb76bc53322d80d90cb020933d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\57\57b78c2ace1b211459546dc662df5e98
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\57\57b78c2ace1b211459546dc662df5e98
+    projectPath: Library\Artifacts\57\57b78c2ace1b211459546dc662df5e98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\57\57bcb2652c77038183154d7cadd10d2d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\57\57bcb2652c77038183154d7cadd10d2d
+    projectPath: Library\Artifacts\57\57bcb2652c77038183154d7cadd10d2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5a\5a96e16d0dd67b40dda4e044f7b33ec3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\5a\5a96e16d0dd67b40dda4e044f7b33ec3
+    projectPath: Library\Artifacts\5a\5a96e16d0dd67b40dda4e044f7b33ec3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5a\5ae6add1f912e828c023c5ce4452e57e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\5a\5ae6add1f912e828c023c5ce4452e57e
+    projectPath: Library\Artifacts\5a\5ae6add1f912e828c023c5ce4452e57e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5c0af5364a8da90a9ede8f850c03a86d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\5c\5c0af5364a8da90a9ede8f850c03a86d
+    projectPath: Library\Artifacts\5c\5c0af5364a8da90a9ede8f850c03a86d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\60038f016b40c71aa8bce7c59732cd43
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\60\60038f016b40c71aa8bce7c59732cd43
+    projectPath: Library\Artifacts\60\60038f016b40c71aa8bce7c59732cd43
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -44,17 +788,185 @@ MonoBehaviour:
     fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\60\603761108b1d83b5cc1cc1672fe103bd
     projectPath: Library\Artifacts\60\603761108b1d83b5cc1cc1672fe103bd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\68\68b12cf937b5900ed4c664d30f1e2c10
-    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\68\68b12cf937b5900ed4c664d30f1e2c10
-    projectPath: Library\Artifacts\68\68b12cf937b5900ed4c664d30f1e2c10
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\60\60a184ef08385f53719d844c96b1c37f
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\60\60a184ef08385f53719d844c96b1c37f
+    projectPath: Library\Artifacts\60\60a184ef08385f53719d844c96b1c37f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\6a\6a28900325201892d3047b5638fe1da7
-    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6a\6a28900325201892d3047b5638fe1da7
-    projectPath: Library\Artifacts\6a\6a28900325201892d3047b5638fe1da7
+  - path: Library\Artifacts\60\60a61557850c3722f29e0b6624f01fe6
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\60\60a61557850c3722f29e0b6624f01fe6
+    projectPath: Library\Artifacts\60\60a61557850c3722f29e0b6624f01fe6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\61b193a17c8e6508f66c36e7f8318c02
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\61\61b193a17c8e6508f66c36e7f8318c02
+    projectPath: Library\Artifacts\61\61b193a17c8e6508f66c36e7f8318c02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\62\626ec73176d2134e168e632df4d0ad58
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\62\626ec73176d2134e168e632df4d0ad58
+    projectPath: Library\Artifacts\62\626ec73176d2134e168e632df4d0ad58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\63\63485586a697c77eb532a3d6c00e9e52
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\63\63485586a697c77eb532a3d6c00e9e52
+    projectPath: Library\Artifacts\63\63485586a697c77eb532a3d6c00e9e52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\63\6391d4afe22ee45a02ac0edab3ad584d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\63\6391d4afe22ee45a02ac0edab3ad584d
+    projectPath: Library\Artifacts\63\6391d4afe22ee45a02ac0edab3ad584d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\65\65069cc02433db9566d67fe438513225
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\65\65069cc02433db9566d67fe438513225
+    projectPath: Library\Artifacts\65\65069cc02433db9566d67fe438513225
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\68\6816acfd9ea9858c57be411f096f97a8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\68\6816acfd9ea9858c57be411f096f97a8
+    projectPath: Library\Artifacts\68\6816acfd9ea9858c57be411f096f97a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\68\68482428efd6cbc007234eb3f77daf1b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\68\68482428efd6cbc007234eb3f77daf1b
+    projectPath: Library\Artifacts\68\68482428efd6cbc007234eb3f77daf1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6a75008202ac3c81ff1b306c86ef04b8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6a\6a75008202ac3c81ff1b306c86ef04b8
+    projectPath: Library\Artifacts\6a\6a75008202ac3c81ff1b306c86ef04b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6adf2601c30e2218becb155c71001621
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6a\6adf2601c30e2218becb155c71001621
+    projectPath: Library\Artifacts\6a\6adf2601c30e2218becb155c71001621
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6b04d3c1c4580a8661f2d61d78c03f66
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6b\6b04d3c1c4580a8661f2d61d78c03f66
+    projectPath: Library\Artifacts\6b\6b04d3c1c4580a8661f2d61d78c03f66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6b20c89edd1ef22ce31a9541fdcf10b0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6b\6b20c89edd1ef22ce31a9541fdcf10b0
+    projectPath: Library\Artifacts\6b\6b20c89edd1ef22ce31a9541fdcf10b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6c\6ce8fe8db68d6cf9b988796022f754ce
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6c\6ce8fe8db68d6cf9b988796022f754ce
+    projectPath: Library\Artifacts\6c\6ce8fe8db68d6cf9b988796022f754ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6d28b32295707710064251f1ce656dbb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6d\6d28b32295707710064251f1ce656dbb
+    projectPath: Library\Artifacts\6d\6d28b32295707710064251f1ce656dbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6da17fe83d3756062b46b964435a9271
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6d\6da17fe83d3756062b46b964435a9271
+    projectPath: Library\Artifacts\6d\6da17fe83d3756062b46b964435a9271
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6e\6e89331e20670ddd552aa0ac8ea56ffa
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6e\6e89331e20670ddd552aa0ac8ea56ffa
+    projectPath: Library\Artifacts\6e\6e89331e20670ddd552aa0ac8ea56ffa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6e\6ecd3c68c380f757b8db6deb19e93539
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6e\6ecd3c68c380f757b8db6deb19e93539
+    projectPath: Library\Artifacts\6e\6ecd3c68c380f757b8db6deb19e93539
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6e\6ee9a500a3ce19eefc1f96d218f783fd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\6e\6ee9a500a3ce19eefc1f96d218f783fd
+    projectPath: Library\Artifacts\6e\6ee9a500a3ce19eefc1f96d218f783fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\701a6b56e7a49e681b5199d0eea67b34
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\70\701a6b56e7a49e681b5199d0eea67b34
+    projectPath: Library\Artifacts\70\701a6b56e7a49e681b5199d0eea67b34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\723cac47ccd60f7ba5d8b1e43ecd5136
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\72\723cac47ccd60f7ba5d8b1e43ecd5136
+    projectPath: Library\Artifacts\72\723cac47ccd60f7ba5d8b1e43ecd5136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\73\73104458a1b239a7653331e16623125a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\73\73104458a1b239a7653331e16623125a
+    projectPath: Library\Artifacts\73\73104458a1b239a7653331e16623125a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\73\73a840f67d055a6810138be69e6b203c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\73\73a840f67d055a6810138be69e6b203c
+    projectPath: Library\Artifacts\73\73a840f67d055a6810138be69e6b203c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\75\753d3d7bd591015beeaa159e4503be36
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\75\753d3d7bd591015beeaa159e4503be36
+    projectPath: Library\Artifacts\75\753d3d7bd591015beeaa159e4503be36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
+    projectPath: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\75\757e0d194a6019a57c0902ec8f8c5d26
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\75\757e0d194a6019a57c0902ec8f8c5d26
+    projectPath: Library\Artifacts\75\757e0d194a6019a57c0902ec8f8c5d26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\75\75be3c897ff162f91826f0f3079e3bfd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\75\75be3c897ff162f91826f0f3079e3bfd
+    projectPath: Library\Artifacts\75\75be3c897ff162f91826f0f3079e3bfd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
+    projectPath: Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\78\789408e282eea4f95965cd2470b21173
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\78\789408e282eea4f95965cd2470b21173
+    projectPath: Library\Artifacts\78\789408e282eea4f95965cd2470b21173
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\79\794b717e0b5cc0a8c5dfa36306f1bb68
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\79\794b717e0b5cc0a8c5dfa36306f1bb68
+    projectPath: Library\Artifacts\79\794b717e0b5cc0a8c5dfa36306f1bb68
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -62,23 +974,863 @@ MonoBehaviour:
     fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\79\79a10d88f3464a37d4b34164d3235d4b
     projectPath: Library\Artifacts\79\79a10d88f3464a37d4b34164d3235d4b
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7e\7e3ee5b8062fc22a49de2768efc915c8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\7e\7e3ee5b8062fc22a49de2768efc915c8
+    projectPath: Library\Artifacts\7e\7e3ee5b8062fc22a49de2768efc915c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7e\7e6cc96f4436ad99cdc6ca60a29964bf
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\7e\7e6cc96f4436ad99cdc6ca60a29964bf
+    projectPath: Library\Artifacts\7e\7e6cc96f4436ad99cdc6ca60a29964bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7f\7f05bda6ba88ecc9d296f112c29bcdfa
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\7f\7f05bda6ba88ecc9d296f112c29bcdfa
+    projectPath: Library\Artifacts\7f\7f05bda6ba88ecc9d296f112c29bcdfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\80\803ed27feae366f86e6cc66c44ab3634
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\80\803ed27feae366f86e6cc66c44ab3634
+    projectPath: Library\Artifacts\80\803ed27feae366f86e6cc66c44ab3634
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\80\80c79bdd6c0818098a45cf8167423c6c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\80\80c79bdd6c0818098a45cf8167423c6c
+    projectPath: Library\Artifacts\80\80c79bdd6c0818098a45cf8167423c6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\81ff5145a004c7fe6d5c1b431947fd7c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\81\81ff5145a004c7fe6d5c1b431947fd7c
+    projectPath: Library\Artifacts\81\81ff5145a004c7fe6d5c1b431947fd7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\83\83972343e3f7f12702105c0414c994f7
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\83\83972343e3f7f12702105c0414c994f7
+    projectPath: Library\Artifacts\83\83972343e3f7f12702105c0414c994f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\83\83f91e56c1db0b5b2be42659f16c8d2d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\83\83f91e56c1db0b5b2be42659f16c8d2d
+    projectPath: Library\Artifacts\83\83f91e56c1db0b5b2be42659f16c8d2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\840bcc41d66a608edebf3152fdf613e2
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\84\840bcc41d66a608edebf3152fdf613e2
+    projectPath: Library\Artifacts\84\840bcc41d66a608edebf3152fdf613e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\847d35e005a4932873a94aed25d45ad2
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\84\847d35e005a4932873a94aed25d45ad2
+    projectPath: Library\Artifacts\84\847d35e005a4932873a94aed25d45ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\84d27beb85072dda87d555a0ec1bb501
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\84\84d27beb85072dda87d555a0ec1bb501
+    projectPath: Library\Artifacts\84\84d27beb85072dda87d555a0ec1bb501
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\85\857b5902e69f30c2100305f8fffc5322
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\85\857b5902e69f30c2100305f8fffc5322
+    projectPath: Library\Artifacts\85\857b5902e69f30c2100305f8fffc5322
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\85\85e9203058f9556c09be93a370850bcd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\85\85e9203058f9556c09be93a370850bcd
+    projectPath: Library\Artifacts\85\85e9203058f9556c09be93a370850bcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\875060be32f911506cebbae40aa2847f
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\87\875060be32f911506cebbae40aa2847f
+    projectPath: Library\Artifacts\87\875060be32f911506cebbae40aa2847f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\87578f68fa5001a40f818d779eaf734e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\87\87578f68fa5001a40f818d779eaf734e
+    projectPath: Library\Artifacts\87\87578f68fa5001a40f818d779eaf734e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\8769dbee98db6005b993b1e7d47c7112
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\87\8769dbee98db6005b993b1e7d47c7112
+    projectPath: Library\Artifacts\87\8769dbee98db6005b993b1e7d47c7112
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\8794cca24de45a29ddb154dcef40cdca
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\87\8794cca24de45a29ddb154dcef40cdca
+    projectPath: Library\Artifacts\87\8794cca24de45a29ddb154dcef40cdca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\88\889528c8b2b4bf77747bcd3ad3eab691
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\88\889528c8b2b4bf77747bcd3ad3eab691
+    projectPath: Library\Artifacts\88\889528c8b2b4bf77747bcd3ad3eab691
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\893181b836c22b81bafa62134ff608c0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\89\893181b836c22b81bafa62134ff608c0
+    projectPath: Library\Artifacts\89\893181b836c22b81bafa62134ff608c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\898170a9ea057aa45b7d4aa08381b7cb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\89\898170a9ea057aa45b7d4aa08381b7cb
+    projectPath: Library\Artifacts\89\898170a9ea057aa45b7d4aa08381b7cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\89dafcda03e20868b3374bb369cd25a7
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\89\89dafcda03e20868b3374bb369cd25a7
+    projectPath: Library\Artifacts\89\89dafcda03e20868b3374bb369cd25a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\89f25e48ae2196a5fe42b030ef0ed7c1
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\89\89f25e48ae2196a5fe42b030ef0ed7c1
+    projectPath: Library\Artifacts\89\89f25e48ae2196a5fe42b030ef0ed7c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8b\8ba078132ce838fb345251c50b260cce
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8b\8ba078132ce838fb345251c50b260cce
+    projectPath: Library\Artifacts\8b\8ba078132ce838fb345251c50b260cce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8b\8bf4803b0d87c8973f086eb5750176b3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8b\8bf4803b0d87c8973f086eb5750176b3
+    projectPath: Library\Artifacts\8b\8bf4803b0d87c8973f086eb5750176b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8c661110d187d892006592d1c176b35c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8c\8c661110d187d892006592d1c176b35c
+    projectPath: Library\Artifacts\8c\8c661110d187d892006592d1c176b35c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8c80d7adc8218d20944f3c6586f46d69
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8c\8c80d7adc8218d20944f3c6586f46d69
+    projectPath: Library\Artifacts\8c\8c80d7adc8218d20944f3c6586f46d69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8d\8dde8999e2127981f43574a1e7f5a8e6
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8d\8dde8999e2127981f43574a1e7f5a8e6
+    projectPath: Library\Artifacts\8d\8dde8999e2127981f43574a1e7f5a8e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8eea52a6ecf2bf588ec9f90f95cffaac
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8e\8eea52a6ecf2bf588ec9f90f95cffaac
+    projectPath: Library\Artifacts\8e\8eea52a6ecf2bf588ec9f90f95cffaac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8ef237eb4bf17d7ccd3d5ba7a3d33375
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8e\8ef237eb4bf17d7ccd3d5ba7a3d33375
+    projectPath: Library\Artifacts\8e\8ef237eb4bf17d7ccd3d5ba7a3d33375
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8f\8fa61a539fc6f25278497f04be86ffed
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8f\8fa61a539fc6f25278497f04be86ffed
+    projectPath: Library\Artifacts\8f\8fa61a539fc6f25278497f04be86ffed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8f\8ff2b530b1ce47afd51ce22277c805f8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\8f\8ff2b530b1ce47afd51ce22277c805f8
+    projectPath: Library\Artifacts\8f\8ff2b530b1ce47afd51ce22277c805f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\905a2f000a6bbef6004f7d66e23b8701
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\90\905a2f000a6bbef6004f7d66e23b8701
+    projectPath: Library\Artifacts\90\905a2f000a6bbef6004f7d66e23b8701
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\91\91b2e850cbcbf8ab8af824fa3c32e3d7
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\91\91b2e850cbcbf8ab8af824fa3c32e3d7
+    projectPath: Library\Artifacts\91\91b2e850cbcbf8ab8af824fa3c32e3d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\92cda59b5cd82b0a19fab7d22b91ba24
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\92\92cda59b5cd82b0a19fab7d22b91ba24
+    projectPath: Library\Artifacts\92\92cda59b5cd82b0a19fab7d22b91ba24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\933fd64ac155f9c4c4a9551900cf931c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\93\933fd64ac155f9c4c4a9551900cf931c
+    projectPath: Library\Artifacts\93\933fd64ac155f9c4c4a9551900cf931c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\94\94b5b0ac25e985530d9acfdfcffc95a3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\94\94b5b0ac25e985530d9acfdfcffc95a3
+    projectPath: Library\Artifacts\94\94b5b0ac25e985530d9acfdfcffc95a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\96\960c4f72ab8af90bc3faca89c0cb3a7b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\96\960c4f72ab8af90bc3faca89c0cb3a7b
+    projectPath: Library\Artifacts\96\960c4f72ab8af90bc3faca89c0cb3a7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\97d6a230aa81831189ae96b12bc0466b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\97\97d6a230aa81831189ae96b12bc0466b
+    projectPath: Library\Artifacts\97\97d6a230aa81831189ae96b12bc0466b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\98055e187770094f6caaae0bf442d15e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\98\98055e187770094f6caaae0bf442d15e
+    projectPath: Library\Artifacts\98\98055e187770094f6caaae0bf442d15e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\982e007572635bb5f7e72245a96bf562
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\98\982e007572635bb5f7e72245a96bf562
+    projectPath: Library\Artifacts\98\982e007572635bb5f7e72245a96bf562
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\984f3d6e8ce21d7a1793affbfbbabf3d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\98\984f3d6e8ce21d7a1793affbfbbabf3d
+    projectPath: Library\Artifacts\98\984f3d6e8ce21d7a1793affbfbbabf3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\99\99929a1ba2a29eeaff1ac36887549b5b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\99\99929a1ba2a29eeaff1ac36887549b5b
+    projectPath: Library\Artifacts\99\99929a1ba2a29eeaff1ac36887549b5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9b3461bec07ee6b0691af0fefe2532dd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\9b\9b3461bec07ee6b0691af0fefe2532dd
+    projectPath: Library\Artifacts\9b\9b3461bec07ee6b0691af0fefe2532dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9e\9eb2517932e212047d654b8d465982be
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\9e\9eb2517932e212047d654b8d465982be
+    projectPath: Library\Artifacts\9e\9eb2517932e212047d654b8d465982be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9f\9f1b39b56bf58435e98fdc15b29763b5
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\9f\9f1b39b56bf58435e98fdc15b29763b5
+    projectPath: Library\Artifacts\9f\9f1b39b56bf58435e98fdc15b29763b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a018461c96650e9d5d829a9992fcfd1b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a0\a018461c96650e9d5d829a9992fcfd1b
+    projectPath: Library\Artifacts\a0\a018461c96650e9d5d829a9992fcfd1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a0ef93f57b347045946198e86941928b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a0\a0ef93f57b347045946198e86941928b
+    projectPath: Library\Artifacts\a0\a0ef93f57b347045946198e86941928b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a1\a1227c4768d9b9620f6e350562f4a198
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a1\a1227c4768d9b9620f6e350562f4a198
+    projectPath: Library\Artifacts\a1\a1227c4768d9b9620f6e350562f4a198
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a1\a1aa4f5b7639f05c35c7b37df3014d1e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a1\a1aa4f5b7639f05c35c7b37df3014d1e
+    projectPath: Library\Artifacts\a1\a1aa4f5b7639f05c35c7b37df3014d1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a2\a2a2548276ea042d3b304f318793b1ed
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a2\a2a2548276ea042d3b304f318793b1ed
+    projectPath: Library\Artifacts\a2\a2a2548276ea042d3b304f318793b1ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a377fe85ab2feeb9090375e88617457a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a3\a377fe85ab2feeb9090375e88617457a
+    projectPath: Library\Artifacts\a3\a377fe85ab2feeb9090375e88617457a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a3da5182501f80c830089ef34354bcf7
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a3\a3da5182501f80c830089ef34354bcf7
+    projectPath: Library\Artifacts\a3\a3da5182501f80c830089ef34354bcf7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a3f3284cbeed4de48bd77edb358cd6ff
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a3\a3f3284cbeed4de48bd77edb358cd6ff
+    projectPath: Library\Artifacts\a3\a3f3284cbeed4de48bd77edb358cd6ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a42d565bafd9f187102c192d69247fa3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a4\a42d565bafd9f187102c192d69247fa3
+    projectPath: Library\Artifacts\a4\a42d565bafd9f187102c192d69247fa3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a5\a5ec19b87ac9dfb91c2e8493fe86e3e8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a5\a5ec19b87ac9dfb91c2e8493fe86e3e8
+    projectPath: Library\Artifacts\a5\a5ec19b87ac9dfb91c2e8493fe86e3e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a6\a6ff28a44f20b173fa1da6bc4f47a0a1
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\a6\a6ff28a44f20b173fa1da6bc4f47a0a1
+    projectPath: Library\Artifacts\a6\a6ff28a44f20b173fa1da6bc4f47a0a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa8a057098dbd153be189806fa209c4a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\aa\aa8a057098dbd153be189806fa209c4a
+    projectPath: Library\Artifacts\aa\aa8a057098dbd153be189806fa209c4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa9c1ecb29d81a2d9da24783dabfc807
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\aa\aa9c1ecb29d81a2d9da24783dabfc807
+    projectPath: Library\Artifacts\aa\aa9c1ecb29d81a2d9da24783dabfc807
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ab\aba1a0438befdfd7cdd6aa14362762bb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ab\aba1a0438befdfd7cdd6aa14362762bb
+    projectPath: Library\Artifacts\ab\aba1a0438befdfd7cdd6aa14362762bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ab\abb16b6d16fcedd28c135dd80786e74b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ab\abb16b6d16fcedd28c135dd80786e74b
+    projectPath: Library\Artifacts\ab\abb16b6d16fcedd28c135dd80786e74b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ac\acc949eec73fbdd6881f1e7c5d8bb559
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ac\acc949eec73fbdd6881f1e7c5d8bb559
+    projectPath: Library\Artifacts\ac\acc949eec73fbdd6881f1e7c5d8bb559
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ad\adaf28c5ee1a99d9fbd748a3683d156f
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ad\adaf28c5ee1a99d9fbd748a3683d156f
+    projectPath: Library\Artifacts\ad\adaf28c5ee1a99d9fbd748a3683d156f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\af\af7ebe065d5ddc939f4e20d4cfec61c6
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\af\af7ebe065d5ddc939f4e20d4cfec61c6
+    projectPath: Library\Artifacts\af\af7ebe065d5ddc939f4e20d4cfec61c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b0\b0984112f8fe0830f39dc014c6d5a6ce
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b0\b0984112f8fe0830f39dc014c6d5a6ce
+    projectPath: Library\Artifacts\b0\b0984112f8fe0830f39dc014c6d5a6ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b4\b4356f76e096a01ea47b8f8d11ddab06
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b4\b4356f76e096a01ea47b8f8d11ddab06
+    projectPath: Library\Artifacts\b4\b4356f76e096a01ea47b8f8d11ddab06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b5\b53ac176e0cab0dd6e2e26aa66663dfa
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b5\b53ac176e0cab0dd6e2e26aa66663dfa
+    projectPath: Library\Artifacts\b5\b53ac176e0cab0dd6e2e26aa66663dfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b5\b5984b6038d28183a7db69c58d2c465e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b5\b5984b6038d28183a7db69c58d2c465e
+    projectPath: Library\Artifacts\b5\b5984b6038d28183a7db69c58d2c465e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b6\b6a0f919ba4a996dfa9675e73ed28704
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b6\b6a0f919ba4a996dfa9675e73ed28704
+    projectPath: Library\Artifacts\b6\b6a0f919ba4a996dfa9675e73ed28704
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7006a50a437e4b6c71b8805e25a3f0f
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b7\b7006a50a437e4b6c71b8805e25a3f0f
+    projectPath: Library\Artifacts\b7\b7006a50a437e4b6c71b8805e25a3f0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b74b55a48624fc4447b53217d91cac8c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b7\b74b55a48624fc4447b53217d91cac8c
+    projectPath: Library\Artifacts\b7\b74b55a48624fc4447b53217d91cac8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7e96b7b05720942d466559f6fccf9fd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b7\b7e96b7b05720942d466559f6fccf9fd
+    projectPath: Library\Artifacts\b7\b7e96b7b05720942d466559f6fccf9fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b97fbe26fc6833c3786efa3ccf9b4428
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b9\b97fbe26fc6833c3786efa3ccf9b4428
+    projectPath: Library\Artifacts\b9\b97fbe26fc6833c3786efa3ccf9b4428
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b996ed6ed5ff0932e7d75200c4c3fb5a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\b9\b996ed6ed5ff0932e7d75200c4c3fb5a
+    projectPath: Library\Artifacts\b9\b996ed6ed5ff0932e7d75200c4c3fb5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bcc3283822d48cdc4353ca5ef3a716a4
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\bc\bcc3283822d48cdc4353ca5ef3a716a4
+    projectPath: Library\Artifacts\bc\bcc3283822d48cdc4353ca5ef3a716a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bd\bd2e21c2eead212a26facd1f9bd65803
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\bd\bd2e21c2eead212a26facd1f9bd65803
+    projectPath: Library\Artifacts\bd\bd2e21c2eead212a26facd1f9bd65803
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bf7497bc969e5191886af28bb04d68f9
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\bf\bf7497bc969e5191886af28bb04d68f9
+    projectPath: Library\Artifacts\bf\bf7497bc969e5191886af28bb04d68f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c020ef910d3f5eada1e7bed4efab3c49
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\c0\c020ef910d3f5eada1e7bed4efab3c49
+    projectPath: Library\Artifacts\c0\c020ef910d3f5eada1e7bed4efab3c49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c054e9ca1689b8561c6f55f32ac18500
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\c0\c054e9ca1689b8561c6f55f32ac18500
+    projectPath: Library\Artifacts\c0\c054e9ca1689b8561c6f55f32ac18500
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c0a8cb98ea506f114c73a3099dd9de66
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\c0\c0a8cb98ea506f114c73a3099dd9de66
+    projectPath: Library\Artifacts\c0\c0a8cb98ea506f114c73a3099dd9de66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c2b6a72930433f46bb71a5b5cea36d96
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\c2\c2b6a72930433f46bb71a5b5cea36d96
+    projectPath: Library\Artifacts\c2\c2b6a72930433f46bb71a5b5cea36d96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c6f3b627432e80759785b7772a11edff
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\c6\c6f3b627432e80759785b7772a11edff
+    projectPath: Library\Artifacts\c6\c6f3b627432e80759785b7772a11edff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c9d0dca3b7c91876816d61427729c9f0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\c9\c9d0dca3b7c91876816d61427729c9f0
+    projectPath: Library\Artifacts\c9\c9d0dca3b7c91876816d61427729c9f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\ca8134769cc1d9d972c009cea2eec20c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ca\ca8134769cc1d9d972c009cea2eec20c
+    projectPath: Library\Artifacts\ca\ca8134769cc1d9d972c009cea2eec20c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb266d571ad1c5a0ea7baec8a7b0ba80
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\cb\cb266d571ad1c5a0ea7baec8a7b0ba80
+    projectPath: Library\Artifacts\cb\cb266d571ad1c5a0ea7baec8a7b0ba80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb33fbd8cdb12e208f08747a32ed3295
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\cb\cb33fbd8cdb12e208f08747a32ed3295
+    projectPath: Library\Artifacts\cb\cb33fbd8cdb12e208f08747a32ed3295
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ce\ce0aa19b22a970341685557a96d2101e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ce\ce0aa19b22a970341685557a96d2101e
+    projectPath: Library\Artifacts\ce\ce0aa19b22a970341685557a96d2101e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cf\cf877636111e8d0c764638d17cdbdaa6
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\cf\cf877636111e8d0c764638d17cdbdaa6
+    projectPath: Library\Artifacts\cf\cf877636111e8d0c764638d17cdbdaa6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d09e17a1b291775b449fbe9de691574e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d0\d09e17a1b291775b449fbe9de691574e
+    projectPath: Library\Artifacts\d0\d09e17a1b291775b449fbe9de691574e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d2\d231253fa12efb13232d6c75ee10f65d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d2\d231253fa12efb13232d6c75ee10f65d
+    projectPath: Library\Artifacts\d2\d231253fa12efb13232d6c75ee10f65d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d2\d2b08da587bbc0beeb0588a430b67853
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d2\d2b08da587bbc0beeb0588a430b67853
+    projectPath: Library\Artifacts\d2\d2b08da587bbc0beeb0588a430b67853
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d2\d2d98510d67d7416a8165e49be397f65
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d2\d2d98510d67d7416a8165e49be397f65
+    projectPath: Library\Artifacts\d2\d2d98510d67d7416a8165e49be397f65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d4eaa207b70888823d8ba789a9e0fa93
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d4\d4eaa207b70888823d8ba789a9e0fa93
+    projectPath: Library\Artifacts\d4\d4eaa207b70888823d8ba789a9e0fa93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d4f063197ce374307fed6f171be7bad3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d4\d4f063197ce374307fed6f171be7bad3
+    projectPath: Library\Artifacts\d4\d4f063197ce374307fed6f171be7bad3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d6c42f87219c225da6b4bc323e15571e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d6\d6c42f87219c225da6b4bc323e15571e
+    projectPath: Library\Artifacts\d6\d6c42f87219c225da6b4bc323e15571e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d6e7049a20c5aad21eae17fc1072aae0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d6\d6e7049a20c5aad21eae17fc1072aae0
+    projectPath: Library\Artifacts\d6\d6e7049a20c5aad21eae17fc1072aae0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d7\d754b584833f0fa057e2f2b2aa83ad79
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d7\d754b584833f0fa057e2f2b2aa83ad79
+    projectPath: Library\Artifacts\d7\d754b584833f0fa057e2f2b2aa83ad79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d7\d76f91bed10d141fa6dd99551f85ec3d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d7\d76f91bed10d141fa6dd99551f85ec3d
+    projectPath: Library\Artifacts\d7\d76f91bed10d141fa6dd99551f85ec3d
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\Artifacts\d7\d7845fc929d49ec218bf24be39f3f7b6
     fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d7\d7845fc929d49ec218bf24be39f3f7b6
     projectPath: Library\Artifacts\d7\d7845fc929d49ec218bf24be39f3f7b6
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d8\d8b755c2f374ace299a4950905447dce
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d8\d8b755c2f374ace299a4950905447dce
+    projectPath: Library\Artifacts\d8\d8b755c2f374ace299a4950905447dce
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\Artifacts\d9\d9e19d9fcc128809c08ffdb53ab7adca
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\d9\d9e19d9fcc128809c08ffdb53ab7adca
+    projectPath: Library\Artifacts\d9\d9e19d9fcc128809c08ffdb53ab7adca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\db3043abb2930c3e32ec07cd21b6b269
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\db\db3043abb2930c3e32ec07cd21b6b269
+    projectPath: Library\Artifacts\db\db3043abb2930c3e32ec07cd21b6b269
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dc992dcc4d129ed2b2f0972528f95304
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\dc\dc992dcc4d129ed2b2f0972528f95304
+    projectPath: Library\Artifacts\dc\dc992dcc4d129ed2b2f0972528f95304
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dda0470d477c0a5b4eb08c2eab16282a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\dd\dda0470d477c0a5b4eb08c2eab16282a
+    projectPath: Library\Artifacts\dd\dda0470d477c0a5b4eb08c2eab16282a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dda2a04bfc304ed3255b4ffb9e6af497
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\dd\dda2a04bfc304ed3255b4ffb9e6af497
+    projectPath: Library\Artifacts\dd\dda2a04bfc304ed3255b4ffb9e6af497
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\df\dfbdc6713b85d68b0d52e52d0e8bdbfb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\df\dfbdc6713b85d68b0d52e52d0e8bdbfb
+    projectPath: Library\Artifacts\df\dfbdc6713b85d68b0d52e52d0e8bdbfb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e06059af638612ef9fda2b6ea5354981
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e0\e06059af638612ef9fda2b6ea5354981
+    projectPath: Library\Artifacts\e0\e06059af638612ef9fda2b6ea5354981
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e0628a4a5f513d706cc02ebdd93eea20
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e0\e0628a4a5f513d706cc02ebdd93eea20
+    projectPath: Library\Artifacts\e0\e0628a4a5f513d706cc02ebdd93eea20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e06f67e2e159f3aa8543fcf3d8164969
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e0\e06f67e2e159f3aa8543fcf3d8164969
+    projectPath: Library\Artifacts\e0\e06f67e2e159f3aa8543fcf3d8164969
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e178201282c4a25d8f413326680a7c9e
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e1\e178201282c4a25d8f413326680a7c9e
+    projectPath: Library\Artifacts\e1\e178201282c4a25d8f413326680a7c9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e304a462821c8cb3cc4fc3d315611091
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e3\e304a462821c8cb3cc4fc3d315611091
+    projectPath: Library\Artifacts\e3\e304a462821c8cb3cc4fc3d315611091
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e3d8953a3468f437e5ccae86338f3b39
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e3\e3d8953a3468f437e5ccae86338f3b39
+    projectPath: Library\Artifacts\e3\e3d8953a3468f437e5ccae86338f3b39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e442bc387a3265b7714d5493f4d6ee64
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e4\e442bc387a3265b7714d5493f4d6ee64
+    projectPath: Library\Artifacts\e4\e442bc387a3265b7714d5493f4d6ee64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e44990b3b0193fe4be48e90d5f7dd791
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e4\e44990b3b0193fe4be48e90d5f7dd791
+    projectPath: Library\Artifacts\e4\e44990b3b0193fe4be48e90d5f7dd791
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e5\e554d0c557ab611cfcd08c2b11f1e445
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e5\e554d0c557ab611cfcd08c2b11f1e445
+    projectPath: Library\Artifacts\e5\e554d0c557ab611cfcd08c2b11f1e445
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e5\e56e6676b717de7060d598567aa65cea
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e5\e56e6676b717de7060d598567aa65cea
+    projectPath: Library\Artifacts\e5\e56e6676b717de7060d598567aa65cea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e6\e60742cfdd5a1a3ec48e0b3af8d0bc57
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e6\e60742cfdd5a1a3ec48e0b3af8d0bc57
+    projectPath: Library\Artifacts\e6\e60742cfdd5a1a3ec48e0b3af8d0bc57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e6\e6927639db4772cf4ac8c98d085fe0cd
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e6\e6927639db4772cf4ac8c98d085fe0cd
+    projectPath: Library\Artifacts\e6\e6927639db4772cf4ac8c98d085fe0cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e83f1adad575c5c4cc18fc7f99d8a455
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\e8\e83f1adad575c5c4cc18fc7f99d8a455
+    projectPath: Library\Artifacts\e8\e83f1adad575c5c4cc18fc7f99d8a455
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\eab08e8c89ec9c6dfbc131b5f7a9df87
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ea\eab08e8c89ec9c6dfbc131b5f7a9df87
+    projectPath: Library\Artifacts\ea\eab08e8c89ec9c6dfbc131b5f7a9df87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\eb\eb129055e619bd3b9d88bf86b2b02b3a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\eb\eb129055e619bd3b9d88bf86b2b02b3a
+    projectPath: Library\Artifacts\eb\eb129055e619bd3b9d88bf86b2b02b3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\eb\ebf4d0f759f9511121c9f5f33eeaed3a
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\eb\ebf4d0f759f9511121c9f5f33eeaed3a
+    projectPath: Library\Artifacts\eb\ebf4d0f759f9511121c9f5f33eeaed3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ed\ed43f7679b9d8a489589042393e7e629
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ed\ed43f7679b9d8a489589042393e7e629
+    projectPath: Library\Artifacts\ed\ed43f7679b9d8a489589042393e7e629
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\ee17683644344fc71d1371b46c477039
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ee\ee17683644344fc71d1371b46c477039
+    projectPath: Library\Artifacts\ee\ee17683644344fc71d1371b46c477039
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\ee3ad18d738d66d2d6999981479097c2
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ee\ee3ad18d738d66d2d6999981479097c2
+    projectPath: Library\Artifacts\ee\ee3ad18d738d66d2d6999981479097c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f1\f1b16d00e67989497925f5a420ffd98c
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f1\f1b16d00e67989497925f5a420ffd98c
+    projectPath: Library\Artifacts\f1\f1b16d00e67989497925f5a420ffd98c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f2656fe92e720953017d60983bc7d528
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f2\f2656fe92e720953017d60983bc7d528
+    projectPath: Library\Artifacts\f2\f2656fe92e720953017d60983bc7d528
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f366740b924d9083871d57ae620a91e3
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f3\f366740b924d9083871d57ae620a91e3
+    projectPath: Library\Artifacts\f3\f366740b924d9083871d57ae620a91e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f370bc7e83dbcfbcc0b6dc4f640dea84
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f3\f370bc7e83dbcfbcc0b6dc4f640dea84
+    projectPath: Library\Artifacts\f3\f370bc7e83dbcfbcc0b6dc4f640dea84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f3d21df9a59b371e822a958691860110
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f3\f3d21df9a59b371e822a958691860110
+    projectPath: Library\Artifacts\f3\f3d21df9a59b371e822a958691860110
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f4577e4d5815489111bdc105a41920d9
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f4\f4577e4d5815489111bdc105a41920d9
+    projectPath: Library\Artifacts\f4\f4577e4d5815489111bdc105a41920d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f4a3eb35451b227803351c103f4f56c0
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f4\f4a3eb35451b227803351c103f4f56c0
+    projectPath: Library\Artifacts\f4\f4a3eb35451b227803351c103f4f56c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f5\f53da1c11d3937a64bd16d442202fbab
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f5\f53da1c11d3937a64bd16d442202fbab
+    projectPath: Library\Artifacts\f5\f53da1c11d3937a64bd16d442202fbab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f5\f5c9243f24e2344ebc379fff23712a3b
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f5\f5c9243f24e2344ebc379fff23712a3b
+    projectPath: Library\Artifacts\f5\f5c9243f24e2344ebc379fff23712a3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f8\f85cec44aebe7981d01bfc67020b781d
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\f8\f85cec44aebe7981d01bfc67020b781d
+    projectPath: Library\Artifacts\f8\f85cec44aebe7981d01bfc67020b781d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fc\fc9134f508bf7bc1988c21a208cb4305
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\fc\fc9134f508bf7bc1988c21a208cb4305
+    projectPath: Library\Artifacts\fc\fc9134f508bf7bc1988c21a208cb4305
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ff0554b088c7552ff00861aedbfc51e8
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ff\ff0554b088c7552ff00861aedbfc51e8
+    projectPath: Library\Artifacts\ff\ff0554b088c7552ff00861aedbfc51e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ffaf7da7309dfba445f39485802f1ec9
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Artifacts\ff\ffaf7da7309dfba445f39485802f1ec9
+    projectPath: Library\Artifacts\ff\ffaf7da7309dfba445f39485802f1ec9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Collab\CollabSnapshot_31944524-b079-44c6-a216-7b42da8df1ef.txt
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\Collab\CollabSnapshot_31944524-b079-44c6-a216-7b42da8df1ef.txt
+    projectPath: Library\Collab\CollabSnapshot_31944524-b079-44c6-a216-7b42da8df1ef.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: H:\VirusShooter\Virus-Shooter\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: H:\VirusShooter\Virus-Shooter\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -97,6 +1849,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: H:\VirusShooter\Virus-Shooter\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -124,9 +1882,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\PhotonChat.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonChat.dll
     projectPath: Library\ScriptAssemblies\PhotonChat.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PhotonChat.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonChat.pdb
+    projectPath: Library\ScriptAssemblies\PhotonChat.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -136,9 +1906,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PhotonRealtime.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonRealtime.pdb
+    projectPath: Library\ScriptAssemblies\PhotonRealtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
     projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PhotonUnityNetworking.Demos.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.pdb
+    projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Demos.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -154,9 +1936,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PhotonUnityNetworking.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.pdb
+    projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PhotonUnityNetworking.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.pdb
+    projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
     projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.pdb
+    projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -166,9 +1966,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.pdb
+    projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
     projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.pdb
+    projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -178,9 +1990,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PlayFab.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PlayFab.pdb
+    projectPath: Library\ScriptAssemblies\PlayFab.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\PlayFabEditorExtensions.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PlayFabEditorExtensions.dll
     projectPath: Library\ScriptAssemblies\PlayFabEditorExtensions.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PlayFabEditorExtensions.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PlayFabEditorExtensions.pdb
+    projectPath: Library\ScriptAssemblies\PlayFabEditorExtensions.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -190,9 +2014,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PlayFabSDKEditor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PlayFabSDKEditor.pdb
+    projectPath: Library\ScriptAssemblies\PlayFabSDKEditor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\PsdPlugin.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PsdPlugin.dll
     projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PsdPlugin.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PsdPlugin.pdb
+    projectPath: Library\ScriptAssemblies\PsdPlugin.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -202,9 +2038,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PunDemos.DemoHubEditor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PunDemos.DemoHubEditor.pdb
+    projectPath: Library\ScriptAssemblies\PunDemos.DemoHubEditor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
     projectPath: Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.pdb
+    projectPath: Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -214,9 +2062,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -226,9 +2086,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -238,9 +2110,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Common.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.IK.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.IK.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.IK.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -250,9 +2134,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.IK.Runtime.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.IK.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.IK.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -268,9 +2164,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -280,9 +2194,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -292,9 +2218,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -304,9 +2242,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -316,9 +2266,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -334,9 +2296,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Mathematics.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -346,9 +2326,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
     projectPath: Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Subsystem.Registration.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Subsystem.Registration.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Subsystem.Registration.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -364,6 +2356,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
@@ -373,6 +2377,18 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -388,6 +2404,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
@@ -397,6 +2425,18 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -412,15 +2452,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -436,6 +2500,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.XR.ARFoundation.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.XR.ARFoundation.pdb
+    projectPath: Library\ScriptAssemblies\Unity.XR.ARFoundation.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
     projectPath: Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
@@ -445,6 +2521,18 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.XR.ARSubsystems.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.XR.ARSubsystems.pdb
+    projectPath: Library\ScriptAssemblies\Unity.XR.ARSubsystems.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -460,9 +2548,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.XR.Management.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\Unity.XR.Management.pdb
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -472,9 +2578,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -484,9 +2602,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -496,9 +2626,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -508,12 +2650,162 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\VSSettingsProvider.dll
     fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\VSSettingsProvider.dll
     projectPath: Library\ScriptAssemblies\VSSettingsProvider.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VSSettingsProvider.pdb
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ScriptAssemblies\VSSettingsProvider.pdb
+    projectPath: Library\ScriptAssemblies\VSSettingsProvider.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\06b3137dfcb5f7260abb5156ad2a155f.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\0\06b3137dfcb5f7260abb5156ad2a155f.bin
+    projectPath: Library\ShaderCache\0\06b3137dfcb5f7260abb5156ad2a155f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\101436e6f82fcf06a661a7df5b642ffe.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\1\101436e6f82fcf06a661a7df5b642ffe.bin
+    projectPath: Library\ShaderCache\1\101436e6f82fcf06a661a7df5b642ffe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3758c7a48149d4332d3d28cf55af6066.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\3\3758c7a48149d4332d3d28cf55af6066.bin
+    projectPath: Library\ShaderCache\3\3758c7a48149d4332d3d28cf55af6066.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\37a7eaa3070db1f8c0cf79513a8607b1.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\3\37a7eaa3070db1f8c0cf79513a8607b1.bin
+    projectPath: Library\ShaderCache\3\37a7eaa3070db1f8c0cf79513a8607b1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3d4669e21fea4569468795b7e8a4f300.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\3\3d4669e21fea4569468795b7e8a4f300.bin
+    projectPath: Library\ShaderCache\3\3d4669e21fea4569468795b7e8a4f300.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\44792d13a273a838ab0f342b53808ac1.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\4\44792d13a273a838ab0f342b53808ac1.bin
+    projectPath: Library\ShaderCache\4\44792d13a273a838ab0f342b53808ac1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4f3481887228e61768f1ee0f95c7aa41.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\4\4f3481887228e61768f1ee0f95c7aa41.bin
+    projectPath: Library\ShaderCache\4\4f3481887228e61768f1ee0f95c7aa41.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6aed4603036b9eb9e5d55a47a1f65bd1.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\6\6aed4603036b9eb9e5d55a47a1f65bd1.bin
+    projectPath: Library\ShaderCache\6\6aed4603036b9eb9e5d55a47a1f65bd1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6df53ecf53d05051769c75b9f2c85418.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\6\6df53ecf53d05051769c75b9f2c85418.bin
+    projectPath: Library\ShaderCache\6\6df53ecf53d05051769c75b9f2c85418.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\815884a672c12b89fdc3b217f115c899.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\8\815884a672c12b89fdc3b217f115c899.bin
+    projectPath: Library\ShaderCache\8\815884a672c12b89fdc3b217f115c899.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\894521c5c2d33fa4564073cf024b7b8c.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\8\894521c5c2d33fa4564073cf024b7b8c.bin
+    projectPath: Library\ShaderCache\8\894521c5c2d33fa4564073cf024b7b8c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b14e838f06750e0ef5ac9fd7fd1413b3.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\b\b14e838f06750e0ef5ac9fd7fd1413b3.bin
+    projectPath: Library\ShaderCache\b\b14e838f06750e0ef5ac9fd7fd1413b3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c11ccea68c99ce14fb184d3f9d28cc73.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\c\c11ccea68c99ce14fb184d3f9d28cc73.bin
+    projectPath: Library\ShaderCache\c\c11ccea68c99ce14fb184d3f9d28cc73.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\ca307fc8b25e65f4d49a7b264ddfeaf8.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\c\ca307fc8b25e65f4d49a7b264ddfeaf8.bin
+    projectPath: Library\ShaderCache\c\ca307fc8b25e65f4d49a7b264ddfeaf8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cbccd9c45368c2d0c00a6fca0c61ae2d.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\c\cbccd9c45368c2d0c00a6fca0c61ae2d.bin
+    projectPath: Library\ShaderCache\c\cbccd9c45368c2d0c00a6fca0c61ae2d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d084529032854648109cfe661e4776eb.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\d\d084529032854648109cfe661e4776eb.bin
+    projectPath: Library\ShaderCache\d\d084529032854648109cfe661e4776eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e10ff7c9e9b36344af810a769e8aba74.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\e\e10ff7c9e9b36344af810a769e8aba74.bin
+    projectPath: Library\ShaderCache\e\e10ff7c9e9b36344af810a769e8aba74.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e21f927bb18bb781259c94f7cd1a2015.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\e\e21f927bb18bb781259c94f7cd1a2015.bin
+    projectPath: Library\ShaderCache\e\e21f927bb18bb781259c94f7cd1a2015.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e423c4f37f41e88748b28c6ffca290ea.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\e\e423c4f37f41e88748b28c6ffca290ea.bin
+    projectPath: Library\ShaderCache\e\e423c4f37f41e88748b28c6ffca290ea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ed5e47c5b1a78476f49868506aaf7513.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\e\ed5e47c5b1a78476f49868506aaf7513.bin
+    projectPath: Library\ShaderCache\e\ed5e47c5b1a78476f49868506aaf7513.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f99d5a27fa8282933c850b69d1db2540.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\f\f99d5a27fa8282933c850b69d1db2540.bin
+    projectPath: Library\ShaderCache\f\f99d5a27fa8282933c850b69d1db2540.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fa0ee76d5baee0df180be209ca2f125a.bin
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\ShaderCache\f\fa0ee76d5baee0df180be209ca2f125a.bin
+    projectPath: Library\ShaderCache\f\fa0ee76d5baee0df180be209ca2f125a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: H:\VirusShooter\Virus-Shooter\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -526,6 +2818,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\PrefabStageHierarchy\e3\e3712ff0869672939eea3e593ee6c71d.json
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\StateCache\PrefabStageHierarchy\e3\e3712ff0869672939eea3e593ee6c71d.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\e3\e3712ff0869672939eea3e593ee6c71d.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\01\01c2b7ebe2d4b77bcd8ad76cb9286461.json
+    fullPath: H:\VirusShooter\Virus-Shooter\Library\StateCache\SceneView\01\01c2b7ebe2d4b77bcd8ad76cb9286461.json
+    projectPath: Library\StateCache\SceneView\01\01c2b7ebe2d4b77bcd8ad76cb9286461.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: H:\VirusShooter\Virus-Shooter\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
@@ -542,20 +2846,20 @@ MonoBehaviour:
     fullPath: H:\VirusShooter\Virus-Shooter\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: H:\VirusShooter\Virus-Shooter\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: H:\VirusShooter\Virus-Shooter\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: H:\VirusShooter\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -577,6 +2881,12 @@ MonoBehaviour:
   - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     fullPath: H:\VirusShooter\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: H:\VirusShooter\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -604,15 +2914,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\ApiUpdater_CheckMovedFrom63d53624d5b05ea449ee20ea9f9a61b5
-    fullPath: H:\VirusShooter\Virus-Shooter\Temp\ApiUpdater_CheckMovedFrom63d53624d5b05ea449ee20ea9f9a61b5
-    projectPath: Temp\ApiUpdater_CheckMovedFrom63d53624d5b05ea449ee20ea9f9a61b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ApiUpdater_CheckMovedFromae178bc12753c4a4c95382a144148ae3
-    fullPath: H:\VirusShooter\Virus-Shooter\Temp\ApiUpdater_CheckMovedFromae178bc12753c4a4c95382a144148ae3
-    projectPath: Temp\ApiUpdater_CheckMovedFromae178bc12753c4a4c95382a144148ae3
+  - path: Temp\ApiUpdater_CheckMovedFrom7b12709d47f6a7349af05876446afc87
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\ApiUpdater_CheckMovedFrom7b12709d47f6a7349af05876446afc87
+    projectPath: Temp\ApiUpdater_CheckMovedFrom7b12709d47f6a7349af05876446afc87
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -628,9 +2932,399 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\CompilationLog.txt
     fullPath: H:\VirusShooter\Virus-Shooter\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonChat.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PhotonChat.dll.hash
+    projectPath: Temp\PhotonChat.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonRealtime.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PhotonRealtime.dll.hash
+    projectPath: Temp\PhotonRealtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Demos.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PhotonUnityNetworking.Demos.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Demos.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PhotonUnityNetworking.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PhotonUnityNetworking.Editor.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Utilities.Culling.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PhotonUnityNetworking.Utilities.Culling.Editor.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Utilities.Culling.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Utilities.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PhotonUnityNetworking.Utilities.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Utilities.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll.hash
+    projectPath: Temp\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PlayFab.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PlayFab.dll.hash
+    projectPath: Temp\PlayFab.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PlayFabEditorExtensions.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PlayFabEditorExtensions.dll.hash
+    projectPath: Temp\PlayFabEditorExtensions.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PlayFabSDKEditor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PlayFabSDKEditor.dll.hash
+    projectPath: Temp\PlayFabSDKEditor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PsdPlugin.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PsdPlugin.dll.hash
+    projectPath: Temp\PsdPlugin.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PunDemos.DemoHubEditor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PunDemos.DemoHubEditor.dll.hash
+    projectPath: Temp\PunDemos.DemoHubEditor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\PunDemos.DemoSlotcarEditor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\PunDemos.DemoSlotcarEditor.dll.hash
+    projectPath: Temp\PunDemos.DemoSlotcarEditor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Animation.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Animation.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Animation.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Animation.Runtime.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Animation.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.Animation.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Animation.Triangle.Runtime.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Animation.Triangle.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.Animation.Triangle.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Common.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Common.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Common.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Common.Runtime.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Common.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.Common.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.IK.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.IK.Editor.dll.hash
+    projectPath: Temp\Unity.2D.IK.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.IK.Runtime.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.IK.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.IK.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Path.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Path.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Path.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.PixelPerfect.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.PixelPerfect.dll.hash
+    projectPath: Temp\Unity.2D.PixelPerfect.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.PixelPerfect.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.PixelPerfect.Editor.dll.hash
+    projectPath: Temp\Unity.2D.PixelPerfect.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Psdimporter.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Psdimporter.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Psdimporter.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Sprite.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Sprite.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Sprite.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.SpriteShape.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.SpriteShape.Editor.dll.hash
+    projectPath: Temp\Unity.2D.SpriteShape.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.SpriteShape.Runtime.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.SpriteShape.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.SpriteShape.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.2D.Tilemap.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.2D.Tilemap.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Tilemap.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.InternalAPIEditorBridge.001.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.InternalAPIEditorBridge.001.dll.hash
+    projectPath: Temp\Unity.InternalAPIEditorBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.InternalAPIEditorBridge.005.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.InternalAPIEditorBridge.005.dll.hash
+    projectPath: Temp\Unity.InternalAPIEditorBridge.005.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.InternalAPIEngineBridge.001.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.InternalAPIEngineBridge.001.dll.hash
+    projectPath: Temp\Unity.InternalAPIEngineBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Mathematics.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.Mathematics.dll.hash
+    projectPath: Temp\Unity.Mathematics.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Mathematics.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.Mathematics.Editor.dll.hash
+    projectPath: Temp\Unity.Mathematics.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.PlasticSCM.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp\Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Rider.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Subsystem.Registration.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.Subsystem.Registration.dll.hash
+    projectPath: Temp\Unity.Subsystem.Registration.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualScripting.Core.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.VisualScripting.Core.dll.hash
+    projectPath: Temp\Unity.VisualScripting.Core.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualScripting.Core.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.VisualScripting.Core.Editor.dll.hash
+    projectPath: Temp\Unity.VisualScripting.Core.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualScripting.Flow.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.VisualScripting.Flow.dll.hash
+    projectPath: Temp\Unity.VisualScripting.Flow.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualScripting.Flow.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.VisualScripting.Flow.Editor.dll.hash
+    projectPath: Temp\Unity.VisualScripting.Flow.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualScripting.State.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.VisualScripting.State.dll.hash
+    projectPath: Temp\Unity.VisualScripting.State.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualScripting.State.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.VisualScripting.State.Editor.dll.hash
+    projectPath: Temp\Unity.VisualScripting.State.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.XR.ARFoundation.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.XR.ARFoundation.dll.hash
+    projectPath: Temp\Unity.XR.ARFoundation.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.XR.ARFoundation.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.XR.ARFoundation.Editor.dll.hash
+    projectPath: Temp\Unity.XR.ARFoundation.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.XR.ARSubsystems.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.XR.ARSubsystems.dll.hash
+    projectPath: Temp\Unity.XR.ARSubsystems.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.XR.ARSubsystems.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.XR.ARSubsystems.Editor.dll.hash
+    projectPath: Temp\Unity.XR.ARSubsystems.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.XR.Management.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.XR.Management.dll.hash
+    projectPath: Temp\Unity.XR.Management.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.XR.Management.Editor.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\Unity.XR.Management.Editor.dll.hash
+    projectPath: Temp\Unity.XR.Management.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.SpatialTracking.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityEditor.SpatialTracking.dll.hash
+    projectPath: Temp\UnityEditor.SpatialTracking.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.UI.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    projectPath: Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.SpatialTracking.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityEngine.SpatialTracking.dll.hash
+    projectPath: Temp\UnityEngine.SpatialTracking.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.UI.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
+    projectPath: Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -640,39 +3334,543 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-06b11f90f78f1db44b46ecb8b08383a0
-    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-06b11f90f78f1db44b46ecb8b08383a0
-    projectPath: Temp\UnityTempFile-06b11f90f78f1db44b46ecb8b08383a0
+  - path: Temp\UnityTempFile-00ecfdf1ebd4bb6409887baa61c1d6c1
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-00ecfdf1ebd4bb6409887baa61c1d6c1
+    projectPath: Temp\UnityTempFile-00ecfdf1ebd4bb6409887baa61c1d6c1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3c7ecef2150856a4b8478ceadfa4ec62
-    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-3c7ecef2150856a4b8478ceadfa4ec62
-    projectPath: Temp\UnityTempFile-3c7ecef2150856a4b8478ceadfa4ec62
+  - path: Temp\UnityTempFile-03f5b7844b9d59e4693b7248d5703c90
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-03f5b7844b9d59e4693b7248d5703c90
+    projectPath: Temp\UnityTempFile-03f5b7844b9d59e4693b7248d5703c90
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-73a0e11f28bef4b40bd5941ab937cdb7
-    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-73a0e11f28bef4b40bd5941ab937cdb7
-    projectPath: Temp\UnityTempFile-73a0e11f28bef4b40bd5941ab937cdb7
+  - path: Temp\UnityTempFile-04e1716ef875cf24e9b6e3e848d82ee6
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-04e1716ef875cf24e9b6e3e848d82ee6
+    projectPath: Temp\UnityTempFile-04e1716ef875cf24e9b6e3e848d82ee6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-812b39b351488984792ac6aca7f344c0
-    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-812b39b351488984792ac6aca7f344c0
-    projectPath: Temp\UnityTempFile-812b39b351488984792ac6aca7f344c0
+  - path: Temp\UnityTempFile-04e2618d9a677d144a5ebf84e1e4ee8e
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-04e2618d9a677d144a5ebf84e1e4ee8e
+    projectPath: Temp\UnityTempFile-04e2618d9a677d144a5ebf84e1e4ee8e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-85834fc02bb2d2d4d9755821458e730b
-    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-85834fc02bb2d2d4d9755821458e730b
-    projectPath: Temp\UnityTempFile-85834fc02bb2d2d4d9755821458e730b
+  - path: Temp\UnityTempFile-06267d560c72a8344a523e9ee449a78f
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-06267d560c72a8344a523e9ee449a78f
+    projectPath: Temp\UnityTempFile-06267d560c72a8344a523e9ee449a78f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-dabed064d97a8b343aa210b8667352de
-    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-dabed064d97a8b343aa210b8667352de
-    projectPath: Temp\UnityTempFile-dabed064d97a8b343aa210b8667352de
+  - path: Temp\UnityTempFile-06335e9c3f4f56f4f8cc79daf74d1319
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-06335e9c3f4f56f4f8cc79daf74d1319
+    projectPath: Temp\UnityTempFile-06335e9c3f4f56f4f8cc79daf74d1319
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0734bcfe10011e94098773dbf4a9d627
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-0734bcfe10011e94098773dbf4a9d627
+    projectPath: Temp\UnityTempFile-0734bcfe10011e94098773dbf4a9d627
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-07e3beebd2076544f902f930513a60ce
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-07e3beebd2076544f902f930513a60ce
+    projectPath: Temp\UnityTempFile-07e3beebd2076544f902f930513a60ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-09888adb9c679624f8ce64397ecce650
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-09888adb9c679624f8ce64397ecce650
+    projectPath: Temp\UnityTempFile-09888adb9c679624f8ce64397ecce650
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0dfddf6b3695a5b45b923bbd482db55a
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-0dfddf6b3695a5b45b923bbd482db55a
+    projectPath: Temp\UnityTempFile-0dfddf6b3695a5b45b923bbd482db55a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0e4970afb2aa9e44f84fc0387cface9d
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-0e4970afb2aa9e44f84fc0387cface9d
+    projectPath: Temp\UnityTempFile-0e4970afb2aa9e44f84fc0387cface9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-14ed36196d532fb4391da3a681b3a0e5
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-14ed36196d532fb4391da3a681b3a0e5
+    projectPath: Temp\UnityTempFile-14ed36196d532fb4391da3a681b3a0e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-16007fe6f76cf264b96dca65a64e789b
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-16007fe6f76cf264b96dca65a64e789b
+    projectPath: Temp\UnityTempFile-16007fe6f76cf264b96dca65a64e789b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1d2335853e8ab554588411fa9135bf2e
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-1d2335853e8ab554588411fa9135bf2e
+    projectPath: Temp\UnityTempFile-1d2335853e8ab554588411fa9135bf2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1e83d38670d0f604e8893ff337f62c4c
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-1e83d38670d0f604e8893ff337f62c4c
+    projectPath: Temp\UnityTempFile-1e83d38670d0f604e8893ff337f62c4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-22894bd16d3e7e842ba158f3e997fb3f
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-22894bd16d3e7e842ba158f3e997fb3f
+    projectPath: Temp\UnityTempFile-22894bd16d3e7e842ba158f3e997fb3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-22e3d5f1614baaf47ac873df42a41551
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-22e3d5f1614baaf47ac873df42a41551
+    projectPath: Temp\UnityTempFile-22e3d5f1614baaf47ac873df42a41551
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-280abaabdd0c76b44a1502994d433ccc
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-280abaabdd0c76b44a1502994d433ccc
+    projectPath: Temp\UnityTempFile-280abaabdd0c76b44a1502994d433ccc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2bb0f28f27b37cf45a9befbbe6bb5e24
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-2bb0f28f27b37cf45a9befbbe6bb5e24
+    projectPath: Temp\UnityTempFile-2bb0f28f27b37cf45a9befbbe6bb5e24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-301784c440b96b1449739b7f3b6fea39
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-301784c440b96b1449739b7f3b6fea39
+    projectPath: Temp\UnityTempFile-301784c440b96b1449739b7f3b6fea39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-31070c1145e4ae64e8b7639d62f78ff4
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-31070c1145e4ae64e8b7639d62f78ff4
+    projectPath: Temp\UnityTempFile-31070c1145e4ae64e8b7639d62f78ff4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-349ae57dc5362334bb83ba5e9ea9b2f4
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-349ae57dc5362334bb83ba5e9ea9b2f4
+    projectPath: Temp\UnityTempFile-349ae57dc5362334bb83ba5e9ea9b2f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-360cb72a8fea830438f29aeb13c09c1c
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-360cb72a8fea830438f29aeb13c09c1c
+    projectPath: Temp\UnityTempFile-360cb72a8fea830438f29aeb13c09c1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3c1f315a5d6166044b9f6964b4d870d7
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-3c1f315a5d6166044b9f6964b4d870d7
+    projectPath: Temp\UnityTempFile-3c1f315a5d6166044b9f6964b4d870d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3d7c69c183d1a044781154e75b75cdaf
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-3d7c69c183d1a044781154e75b75cdaf
+    projectPath: Temp\UnityTempFile-3d7c69c183d1a044781154e75b75cdaf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4096773422a4b734bb89435f0ef191cd
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-4096773422a4b734bb89435f0ef191cd
+    projectPath: Temp\UnityTempFile-4096773422a4b734bb89435f0ef191cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-470f0647dfddbdf4ba8fc370befd6537
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-470f0647dfddbdf4ba8fc370befd6537
+    projectPath: Temp\UnityTempFile-470f0647dfddbdf4ba8fc370befd6537
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-482416129aee5ac468768012fd9bbe46
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-482416129aee5ac468768012fd9bbe46
+    projectPath: Temp\UnityTempFile-482416129aee5ac468768012fd9bbe46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-48ca57365c9c60c4ea49d9b92f79e7ae
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-48ca57365c9c60c4ea49d9b92f79e7ae
+    projectPath: Temp\UnityTempFile-48ca57365c9c60c4ea49d9b92f79e7ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4917cf3f162991346b1725d497492404
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-4917cf3f162991346b1725d497492404
+    projectPath: Temp\UnityTempFile-4917cf3f162991346b1725d497492404
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4b2cc3f58dee6a14bb90430f08c9808b
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-4b2cc3f58dee6a14bb90430f08c9808b
+    projectPath: Temp\UnityTempFile-4b2cc3f58dee6a14bb90430f08c9808b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4d7e5830691756f48a8d6aff9bfc45a4
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-4d7e5830691756f48a8d6aff9bfc45a4
+    projectPath: Temp\UnityTempFile-4d7e5830691756f48a8d6aff9bfc45a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4e966b4008f93d14cbdebb41de04064b
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-4e966b4008f93d14cbdebb41de04064b
+    projectPath: Temp\UnityTempFile-4e966b4008f93d14cbdebb41de04064b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4ec6ea5e0641ece41bb2d9a1026e1f55
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-4ec6ea5e0641ece41bb2d9a1026e1f55
+    projectPath: Temp\UnityTempFile-4ec6ea5e0641ece41bb2d9a1026e1f55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4ff14b3779ed46d4eb11b93c04880c1b
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-4ff14b3779ed46d4eb11b93c04880c1b
+    projectPath: Temp\UnityTempFile-4ff14b3779ed46d4eb11b93c04880c1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-503d57573c4192e4383a49dd040cecd3
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-503d57573c4192e4383a49dd040cecd3
+    projectPath: Temp\UnityTempFile-503d57573c4192e4383a49dd040cecd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-50edb93ee2388124fb16f03893e7855c
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-50edb93ee2388124fb16f03893e7855c
+    projectPath: Temp\UnityTempFile-50edb93ee2388124fb16f03893e7855c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-59568c2f38ac2c543a745c73f09b1c4f
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-59568c2f38ac2c543a745c73f09b1c4f
+    projectPath: Temp\UnityTempFile-59568c2f38ac2c543a745c73f09b1c4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5ff377fe5738d774e9a9d85fc1b1a568
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-5ff377fe5738d774e9a9d85fc1b1a568
+    projectPath: Temp\UnityTempFile-5ff377fe5738d774e9a9d85fc1b1a568
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-628d72f0a4960b84186f74632076332d
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-628d72f0a4960b84186f74632076332d
+    projectPath: Temp\UnityTempFile-628d72f0a4960b84186f74632076332d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-649c78665f998ac419486ae1d01753c7
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-649c78665f998ac419486ae1d01753c7
+    projectPath: Temp\UnityTempFile-649c78665f998ac419486ae1d01753c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-66956c468d708244f8edae172f76413f
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-66956c468d708244f8edae172f76413f
+    projectPath: Temp\UnityTempFile-66956c468d708244f8edae172f76413f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-68d8de8873445084a93dbe0f90247fb3
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-68d8de8873445084a93dbe0f90247fb3
+    projectPath: Temp\UnityTempFile-68d8de8873445084a93dbe0f90247fb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6a3dd4a240c161e47a9d8ae954db4907
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-6a3dd4a240c161e47a9d8ae954db4907
+    projectPath: Temp\UnityTempFile-6a3dd4a240c161e47a9d8ae954db4907
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-76c1e1399a61b314fbc17b3e57ff6602
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-76c1e1399a61b314fbc17b3e57ff6602
+    projectPath: Temp\UnityTempFile-76c1e1399a61b314fbc17b3e57ff6602
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7932b40d83abf3e448b24c8c851ce901
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-7932b40d83abf3e448b24c8c851ce901
+    projectPath: Temp\UnityTempFile-7932b40d83abf3e448b24c8c851ce901
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7a93d9a4501b96e4498199362c5535f0
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-7a93d9a4501b96e4498199362c5535f0
+    projectPath: Temp\UnityTempFile-7a93d9a4501b96e4498199362c5535f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7db37c73d3b46c341aa48883d6f78da2
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-7db37c73d3b46c341aa48883d6f78da2
+    projectPath: Temp\UnityTempFile-7db37c73d3b46c341aa48883d6f78da2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-81afed9b87451304fb3b9468f05c7529
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-81afed9b87451304fb3b9468f05c7529
+    projectPath: Temp\UnityTempFile-81afed9b87451304fb3b9468f05c7529
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8335101d2cbe08a45ba37e65596d640d
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-8335101d2cbe08a45ba37e65596d640d
+    projectPath: Temp\UnityTempFile-8335101d2cbe08a45ba37e65596d640d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-89fa5d03b804335438890e8e426ff0af
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-89fa5d03b804335438890e8e426ff0af
+    projectPath: Temp\UnityTempFile-89fa5d03b804335438890e8e426ff0af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8bc8cc8ca8a540642b570966865c312d
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-8bc8cc8ca8a540642b570966865c312d
+    projectPath: Temp\UnityTempFile-8bc8cc8ca8a540642b570966865c312d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8c47dc4657bdc684abbecf78b17a1825
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-8c47dc4657bdc684abbecf78b17a1825
+    projectPath: Temp\UnityTempFile-8c47dc4657bdc684abbecf78b17a1825
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-93c5bcaf95378ee42940e6d41ca02adf
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-93c5bcaf95378ee42940e6d41ca02adf
+    projectPath: Temp\UnityTempFile-93c5bcaf95378ee42940e6d41ca02adf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-97c2169f9dfd2d2488d9e2815e1cf9a7
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-97c2169f9dfd2d2488d9e2815e1cf9a7
+    projectPath: Temp\UnityTempFile-97c2169f9dfd2d2488d9e2815e1cf9a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9a1f47b946074d04cabbaa35232a0dcb
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-9a1f47b946074d04cabbaa35232a0dcb
+    projectPath: Temp\UnityTempFile-9a1f47b946074d04cabbaa35232a0dcb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9ecce6d38a1f2774894b5a0c17cbd547
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-9ecce6d38a1f2774894b5a0c17cbd547
+    projectPath: Temp\UnityTempFile-9ecce6d38a1f2774894b5a0c17cbd547
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a67a225623532854791c10247f630130
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-a67a225623532854791c10247f630130
+    projectPath: Temp\UnityTempFile-a67a225623532854791c10247f630130
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-aaa22f08cadf9b5469b03a5f63c71cdf
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-aaa22f08cadf9b5469b03a5f63c71cdf
+    projectPath: Temp\UnityTempFile-aaa22f08cadf9b5469b03a5f63c71cdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ad1a74856b40f1840a234dee65ab2760
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-ad1a74856b40f1840a234dee65ab2760
+    projectPath: Temp\UnityTempFile-ad1a74856b40f1840a234dee65ab2760
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-af6bfd338fcb3464caf6d9d7b88fbee9
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-af6bfd338fcb3464caf6d9d7b88fbee9
+    projectPath: Temp\UnityTempFile-af6bfd338fcb3464caf6d9d7b88fbee9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b3b4fcbe9c35647459c18cb2edc4ca92
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-b3b4fcbe9c35647459c18cb2edc4ca92
+    projectPath: Temp\UnityTempFile-b3b4fcbe9c35647459c18cb2edc4ca92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b7d707a9b2fd6a540b32429387a79174
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-b7d707a9b2fd6a540b32429387a79174
+    projectPath: Temp\UnityTempFile-b7d707a9b2fd6a540b32429387a79174
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b8c36bdaafcc5fe4bba4848d077586f4
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-b8c36bdaafcc5fe4bba4848d077586f4
+    projectPath: Temp\UnityTempFile-b8c36bdaafcc5fe4bba4848d077586f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b9345178c651a574fa40dc060313d11b
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-b9345178c651a574fa40dc060313d11b
+    projectPath: Temp\UnityTempFile-b9345178c651a574fa40dc060313d11b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c04c333c5214d6a4f86fc02140748092
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-c04c333c5214d6a4f86fc02140748092
+    projectPath: Temp\UnityTempFile-c04c333c5214d6a4f86fc02140748092
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c673a936143e2d948bcee6083055ac6d
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-c673a936143e2d948bcee6083055ac6d
+    projectPath: Temp\UnityTempFile-c673a936143e2d948bcee6083055ac6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c7027ff57986040439ac6e25b2e35209
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-c7027ff57986040439ac6e25b2e35209
+    projectPath: Temp\UnityTempFile-c7027ff57986040439ac6e25b2e35209
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c7c87aa77fb3aeb4390a5a44af56297b
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-c7c87aa77fb3aeb4390a5a44af56297b
+    projectPath: Temp\UnityTempFile-c7c87aa77fb3aeb4390a5a44af56297b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ca59e47565463754a96ffad6c4824744
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-ca59e47565463754a96ffad6c4824744
+    projectPath: Temp\UnityTempFile-ca59e47565463754a96ffad6c4824744
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cbb07de9d277a8e48a5cbbb421517829
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-cbb07de9d277a8e48a5cbbb421517829
+    projectPath: Temp\UnityTempFile-cbb07de9d277a8e48a5cbbb421517829
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ce28da0dd3d1ffc44ba32910efa5fe78
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-ce28da0dd3d1ffc44ba32910efa5fe78
+    projectPath: Temp\UnityTempFile-ce28da0dd3d1ffc44ba32910efa5fe78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d01dc58aa4b343f438191a130691e6f0
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-d01dc58aa4b343f438191a130691e6f0
+    projectPath: Temp\UnityTempFile-d01dc58aa4b343f438191a130691e6f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d119552d49159274a80d40bfd36781d6
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-d119552d49159274a80d40bfd36781d6
+    projectPath: Temp\UnityTempFile-d119552d49159274a80d40bfd36781d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d310f400479f3424ca9d2391a1b436d0
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-d310f400479f3424ca9d2391a1b436d0
+    projectPath: Temp\UnityTempFile-d310f400479f3424ca9d2391a1b436d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d7714d4c130e0924c8c7ff64a2331883
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-d7714d4c130e0924c8c7ff64a2331883
+    projectPath: Temp\UnityTempFile-d7714d4c130e0924c8c7ff64a2331883
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d7b2b8730a3f26843ab4bd6e60c1e748
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-d7b2b8730a3f26843ab4bd6e60c1e748
+    projectPath: Temp\UnityTempFile-d7b2b8730a3f26843ab4bd6e60c1e748
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d8d7c3061b99bf446ba59eac7925a0a4
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-d8d7c3061b99bf446ba59eac7925a0a4
+    projectPath: Temp\UnityTempFile-d8d7c3061b99bf446ba59eac7925a0a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e2e68ceff27962041b2379c69aa4f761
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-e2e68ceff27962041b2379c69aa4f761
+    projectPath: Temp\UnityTempFile-e2e68ceff27962041b2379c69aa4f761
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e46fac731b4d9c04e86be2cd2894e514
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-e46fac731b4d9c04e86be2cd2894e514
+    projectPath: Temp\UnityTempFile-e46fac731b4d9c04e86be2cd2894e514
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e569eed77f603224da8e5bc891135fe4
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-e569eed77f603224da8e5bc891135fe4
+    projectPath: Temp\UnityTempFile-e569eed77f603224da8e5bc891135fe4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e9b9b5a9704da3a40a6a26467d163db6
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-e9b9b5a9704da3a40a6a26467d163db6
+    projectPath: Temp\UnityTempFile-e9b9b5a9704da3a40a6a26467d163db6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ea62e37bb670f28498f053f9ae57ce84
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-ea62e37bb670f28498f053f9ae57ce84
+    projectPath: Temp\UnityTempFile-ea62e37bb670f28498f053f9ae57ce84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ed8be8e6a686c6c498f6aec90510dc25
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-ed8be8e6a686c6c498f6aec90510dc25
+    projectPath: Temp\UnityTempFile-ed8be8e6a686c6c498f6aec90510dc25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f30b0b7444d6f5e4aa22f1a196fa4415
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-f30b0b7444d6f5e4aa22f1a196fa4415
+    projectPath: Temp\UnityTempFile-f30b0b7444d6f5e4aa22f1a196fa4415
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f310e5314a9904d46b1e85d0d4b57491
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-f310e5314a9904d46b1e85d0d4b57491
+    projectPath: Temp\UnityTempFile-f310e5314a9904d46b1e85d0d4b57491
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f54bc3ca03d8f0e40ab308bc907f06ad
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-f54bc3ca03d8f0e40ab308bc907f06ad
+    projectPath: Temp\UnityTempFile-f54bc3ca03d8f0e40ab308bc907f06ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f78b7e243de5c1e42b4dc607b8bc289f
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-f78b7e243de5c1e42b4dc607b8bc289f
+    projectPath: Temp\UnityTempFile-f78b7e243de5c1e42b4dc607b8bc289f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fa8551e9a80eddb4cb298fa739efc3c0
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\UnityTempFile-fa8551e9a80eddb4cb298fa739efc3c0
+    projectPath: Temp\UnityTempFile-fa8551e9a80eddb4cb298fa739efc3c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\VSSettingsProvider.dll.hash
+    fullPath: H:\VirusShooter\Virus-Shooter\Temp\VSSettingsProvider.dll.hash
+    projectPath: Temp\VSSettingsProvider.dll.hash
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

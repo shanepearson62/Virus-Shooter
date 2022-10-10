@@ -8,6 +8,7 @@ public class PlayerScript : MonoBehaviour
     private SpriteRenderer _spriteRenderer;
     public static int maxHealth = 10;
     public int currentHealth = 10;
+    public static int playerHealth = 10;
     public HealthBar healthBar;
     public float rotateSpeed = 5f;
     public GameObject bulletPrefab;
@@ -124,6 +125,7 @@ public class PlayerScript : MonoBehaviour
             _rigidbody.velocity = Vector3.zero;
             _rigidbody.angularVelocity = 0.0f;
             currentHealth -= 2;
+            playerHealth = currentHealth;
             healthBar.SetHealth(currentHealth);
             if (currentHealth <= 0)
             {

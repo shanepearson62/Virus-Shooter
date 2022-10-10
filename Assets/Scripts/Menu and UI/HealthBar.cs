@@ -14,7 +14,7 @@ public class HealthBar : MonoBehaviour
     public Image fill;
 
     void update(){
-        transform.rotation = Quaternion.identity;
+        //transform.rotation = Quaternion.identity;
     }
 
     private void Start() {
