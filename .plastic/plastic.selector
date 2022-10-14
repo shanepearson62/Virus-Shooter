@@ -1,4 +1,0 @@
-repository "BPT Game App@Berkeley_Pharma_Tech@cloud"
-  path "/"
-    smartbranch "/main/Tony_Test" 
-     
