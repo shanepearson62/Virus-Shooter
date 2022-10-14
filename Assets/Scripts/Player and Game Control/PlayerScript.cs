@@ -1,5 +1,6 @@
 using UnityEngine;
 using Photon.Pun;
+using UnityEngine.UI;
 
 public class PlayerScript : MonoBehaviour
 {
@@ -18,6 +19,8 @@ public class PlayerScript : MonoBehaviour
     private bool _thrusting;
     private float _turnDirection;
     private bool _touched = false;
+    public float fireRate = 0.8f;
+    private float lastShot = 0.0f;
 
     PhotonView view;
 
@@ -39,14 +42,20 @@ public class PlayerScript : MonoBehaviour
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
     }
+
     private void Update()
     {
         if (view.IsMine) //this is used for photon so that you only control one player
         {
+            
             /////////// MOUSE CONTROLS
             // Move and shoot bullets with left mouse click
             if (Input.GetMouseButton(0))
             {
+                if (Time.time > fireRate + lastShot) {
+                    Shoot();
+                    lastShot = Time.time;
+                }
                 // Locating mouse and player object
                 Vector3 mousePos = Input.mousePosition;
                 mousePos.z = 0;
@@ -66,12 +75,17 @@ public class PlayerScript : MonoBehaviour
                 targetPos.z = 0;
                 transform.position = Vector3.MoveTowards(transform.position, targetPos, thrustSpeed * Time.deltaTime);
             }
-
+            
             // Shooting function (only shoot once per click and not hold down)
-            if (Input.GetMouseButtonDown(0))
+            
+            /*if (Input.GetMouseButtonDown(0))
             {
                 Shoot();
             }
+            if (Input.GetKeyDown("space"))
+            {
+                Shoot();
+            }*/
 
             /////////// TOUCH CONTROLS
             /*if (Input.touchCount > 0)
@@ -110,7 +124,7 @@ public class PlayerScript : MonoBehaviour
         }
     }
 
-    private void Shoot()
+    void Shoot()
     {
         GameObject bulletobj = PhotonNetwork.Instantiate(this.bulletPrefab.name, this.transform.position, this.transform.rotation);
         BulletScript bullet = bulletobj.GetComponent<BulletScript>();

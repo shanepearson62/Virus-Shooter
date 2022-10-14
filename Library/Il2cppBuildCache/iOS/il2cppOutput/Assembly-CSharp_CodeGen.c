@@ -607,352 +607,362 @@ extern void ViewportHandler_Update_m095A6FC126212367C8BDF30950FF8B94D3908577 (vo
 extern void ViewportHandler_OnDrawGizmos_m83DBE3695ED4AF2DBF9BBD0108565C49BDE745B9 (void);
 // 0x00000125 System.Void ViewportHandler::.ctor()
 extern void ViewportHandler__ctor_m61F5D85E30048B2A38EB337E035433382CFC028D (void);
-// 0x00000126 System.Int32 WebGLSupport.WebGLInputMobilePlugin::WebGLInputMobileRegister(System.Action`1<System.Int32>)
+// 0x00000126 System.Void shootButton::Start()
+extern void shootButton_Start_m7AD3D2B1917DAAD67A97C66058DAAD2602A5A3FF (void);
+// 0x00000127 System.Void shootButton::shoot()
+extern void shootButton_shoot_m7F6829527F8BF7DB717D2C3C8A682D3E5E053A4D (void);
+// 0x00000128 System.Void shootButton::Update()
+extern void shootButton_Update_mFC60B1358A7C5ED9722DBEDF78244766C325A747 (void);
+// 0x00000129 System.Void shootButton::.ctor()
+extern void shootButton__ctor_mAFCC00406BCB420DC102B15C334C099FC0E544CF (void);
+// 0x0000012A System.Void shootButton::.cctor()
+extern void shootButton__cctor_m3130D4617E1165AA663F54C07B9C0D9E5F290F39 (void);
+// 0x0000012B System.Int32 WebGLSupport.WebGLInputMobilePlugin::WebGLInputMobileRegister(System.Action`1<System.Int32>)
 extern void WebGLInputMobilePlugin_WebGLInputMobileRegister_m007C587A50494B444BACEC68CD1246D3DB67D9AA (void);
-// 0x00000127 System.Void WebGLSupport.WebGLInputMobilePlugin::WebGLInputMobileOnFocusOut(System.Int32,System.Action`1<System.Int32>)
+// 0x0000012C System.Void WebGLSupport.WebGLInputMobilePlugin::WebGLInputMobileOnFocusOut(System.Int32,System.Action`1<System.Int32>)
 extern void WebGLInputMobilePlugin_WebGLInputMobileOnFocusOut_m66F405C81605B292E31F8FCAFA9293368DC3EA3E (void);
-// 0x00000128 System.Void WebGLSupport.WebGLInputMobilePlugin::.ctor()
+// 0x0000012D System.Void WebGLSupport.WebGLInputMobilePlugin::.ctor()
 extern void WebGLInputMobilePlugin__ctor_m93A4B491E81F2D872B7AFAC7A27DCBF564B94072 (void);
-// 0x00000129 System.Void WebGLSupport.WebGLInputMobile::Awake()
+// 0x0000012E System.Void WebGLSupport.WebGLInputMobile::Awake()
 extern void WebGLInputMobile_Awake_m5644435D38C80D68960537EE41C2E7529AFB839E (void);
-// 0x0000012A System.Void WebGLSupport.WebGLInputMobile::OnPointerDown(UnityEngine.EventSystems.PointerEventData)
+// 0x0000012F System.Void WebGLSupport.WebGLInputMobile::OnPointerDown(UnityEngine.EventSystems.PointerEventData)
 extern void WebGLInputMobile_OnPointerDown_mA38261FC27B70CFD6B0CAB8704556A459E65044A (void);
-// 0x0000012B System.Void WebGLSupport.WebGLInputMobile::OnTouchEnd(System.Int32)
+// 0x00000130 System.Void WebGLSupport.WebGLInputMobile::OnTouchEnd(System.Int32)
 extern void WebGLInputMobile_OnTouchEnd_m90B19075535C3E185CFF1575F439126B413DC73F (void);
-// 0x0000012C System.Collections.IEnumerator WebGLSupport.WebGLInputMobile::RegisterOnFocusOut(System.Int32)
+// 0x00000131 System.Collections.IEnumerator WebGLSupport.WebGLInputMobile::RegisterOnFocusOut(System.Int32)
 extern void WebGLInputMobile_RegisterOnFocusOut_m8F1A54D20EEE75C453DA1F7F56BBCA8F98A989F7 (void);
-// 0x0000012D System.Void WebGLSupport.WebGLInputMobile::OnFocusOut(System.Int32)
+// 0x00000132 System.Void WebGLSupport.WebGLInputMobile::OnFocusOut(System.Int32)
 extern void WebGLInputMobile_OnFocusOut_mC86EEF882BE472EDC61CABCDF37C7E4581356E6C (void);
-// 0x0000012E System.Void WebGLSupport.WebGLInputMobile::.ctor()
+// 0x00000133 System.Void WebGLSupport.WebGLInputMobile::.ctor()
 extern void WebGLInputMobile__ctor_mD7E6F773524380FC109BDB8C4C0E24A6FB231499 (void);
-// 0x0000012F System.Void WebGLSupport.WebGLInputMobile::.cctor()
+// 0x00000134 System.Void WebGLSupport.WebGLInputMobile::.cctor()
 extern void WebGLInputMobile__cctor_m3F4002CB90A381B6E0CEF557653BAECCFEC5F5D4 (void);
-// 0x00000130 System.Void WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::.ctor(System.Int32)
+// 0x00000135 System.Void WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::.ctor(System.Int32)
 extern void U3CRegisterOnFocusOutU3Ed__5__ctor_m1D5DC7615C371E4315AC135C587589799C4000DA (void);
-// 0x00000131 System.Void WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::System.IDisposable.Dispose()
+// 0x00000136 System.Void WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::System.IDisposable.Dispose()
 extern void U3CRegisterOnFocusOutU3Ed__5_System_IDisposable_Dispose_m050C95FEBC168CAFAD3EC203BBA70E0FBCD01272 (void);
-// 0x00000132 System.Boolean WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::MoveNext()
+// 0x00000137 System.Boolean WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::MoveNext()
 extern void U3CRegisterOnFocusOutU3Ed__5_MoveNext_m042DBB67A4CCD049456CE009B53F81610EAD6C4E (void);
-// 0x00000133 System.Object WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000138 System.Object WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CRegisterOnFocusOutU3Ed__5_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m7E7199BF254E59395E4028FE3BB0FB21BBBF29BE (void);
-// 0x00000134 System.Void WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::System.Collections.IEnumerator.Reset()
+// 0x00000139 System.Void WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::System.Collections.IEnumerator.Reset()
 extern void U3CRegisterOnFocusOutU3Ed__5_System_Collections_IEnumerator_Reset_m77D8C7D4527CEA1F1436EE64AA82AE9B5FBFEB84 (void);
-// 0x00000135 System.Object WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::System.Collections.IEnumerator.get_Current()
+// 0x0000013A System.Object WebGLSupport.WebGLInputMobile/<RegisterOnFocusOut>d__5::System.Collections.IEnumerator.get_Current()
 extern void U3CRegisterOnFocusOutU3Ed__5_System_Collections_IEnumerator_get_Current_m340DD3AEF07F4775C3696FC6178187DF71D42075 (void);
-// 0x00000136 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputInit()
+// 0x0000013B System.Void WebGLSupport.WebGLInputPlugin::WebGLInputInit()
 extern void WebGLInputPlugin_WebGLInputInit_m8134813407088F9DBA772D08D58B6A729AD813E3 (void);
-// 0x00000137 System.Int32 WebGLSupport.WebGLInputPlugin::WebGLInputCreate(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String,System.String,System.Boolean,System.Boolean,System.Boolean)
+// 0x0000013C System.Int32 WebGLSupport.WebGLInputPlugin::WebGLInputCreate(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String,System.String,System.Boolean,System.Boolean,System.Boolean)
 extern void WebGLInputPlugin_WebGLInputCreate_m059578E092B741C1E478140F93701B98757BA85E (void);
-// 0x00000138 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputEnterSubmit(System.Int32,System.Boolean)
+// 0x0000013D System.Void WebGLSupport.WebGLInputPlugin::WebGLInputEnterSubmit(System.Int32,System.Boolean)
 extern void WebGLInputPlugin_WebGLInputEnterSubmit_mDEECE98F90DDB0295CBC41CFD6102F50FFEDFE30 (void);
-// 0x00000139 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputTab(System.Int32,System.Action`2<System.Int32,System.Int32>)
+// 0x0000013E System.Void WebGLSupport.WebGLInputPlugin::WebGLInputTab(System.Int32,System.Action`2<System.Int32,System.Int32>)
 extern void WebGLInputPlugin_WebGLInputTab_mEB832ECA91A1361091B7370C7BD6464C17C484C5 (void);
-// 0x0000013A System.Void WebGLSupport.WebGLInputPlugin::WebGLInputFocus(System.Int32)
+// 0x0000013F System.Void WebGLSupport.WebGLInputPlugin::WebGLInputFocus(System.Int32)
 extern void WebGLInputPlugin_WebGLInputFocus_m662CF751BBFB79A719D3FA4F924B481343FBDBFF (void);
-// 0x0000013B System.Void WebGLSupport.WebGLInputPlugin::WebGLInputOnFocus(System.Int32,System.Action`1<System.Int32>)
+// 0x00000140 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputOnFocus(System.Int32,System.Action`1<System.Int32>)
 extern void WebGLInputPlugin_WebGLInputOnFocus_mEB15D680A8891A138B981DEEF837D0001E4B215C (void);
-// 0x0000013C System.Void WebGLSupport.WebGLInputPlugin::WebGLInputOnBlur(System.Int32,System.Action`1<System.Int32>)
+// 0x00000141 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputOnBlur(System.Int32,System.Action`1<System.Int32>)
 extern void WebGLInputPlugin_WebGLInputOnBlur_m627A3CFED0F597D7BC13F2B2CE3F1CDE1883429A (void);
-// 0x0000013D System.Void WebGLSupport.WebGLInputPlugin::WebGLInputOnValueChange(System.Int32,System.Action`2<System.Int32,System.String>)
+// 0x00000142 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputOnValueChange(System.Int32,System.Action`2<System.Int32,System.String>)
 extern void WebGLInputPlugin_WebGLInputOnValueChange_m937644E09DBA771588719AE156C313688A667CDE (void);
-// 0x0000013E System.Void WebGLSupport.WebGLInputPlugin::WebGLInputOnEditEnd(System.Int32,System.Action`2<System.Int32,System.String>)
+// 0x00000143 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputOnEditEnd(System.Int32,System.Action`2<System.Int32,System.String>)
 extern void WebGLInputPlugin_WebGLInputOnEditEnd_mACB8C0CEF6BF2E99F96ED1F9A57F8A45B471598D (void);
-// 0x0000013F System.Int32 WebGLSupport.WebGLInputPlugin::WebGLInputSelectionStart(System.Int32)
+// 0x00000144 System.Int32 WebGLSupport.WebGLInputPlugin::WebGLInputSelectionStart(System.Int32)
 extern void WebGLInputPlugin_WebGLInputSelectionStart_m5DD6E7EB98F51586D5F99DF738A211943DB4CD73 (void);
-// 0x00000140 System.Int32 WebGLSupport.WebGLInputPlugin::WebGLInputSelectionEnd(System.Int32)
+// 0x00000145 System.Int32 WebGLSupport.WebGLInputPlugin::WebGLInputSelectionEnd(System.Int32)
 extern void WebGLInputPlugin_WebGLInputSelectionEnd_m2E9A3D4D1609AC8712E2FE7C27575EDA931D790F (void);
-// 0x00000141 System.Int32 WebGLSupport.WebGLInputPlugin::WebGLInputSelectionDirection(System.Int32)
+// 0x00000146 System.Int32 WebGLSupport.WebGLInputPlugin::WebGLInputSelectionDirection(System.Int32)
 extern void WebGLInputPlugin_WebGLInputSelectionDirection_m42FEB2FF6CF19318C249623E42519013B51906A7 (void);
-// 0x00000142 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputSetSelectionRange(System.Int32,System.Int32,System.Int32)
+// 0x00000147 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputSetSelectionRange(System.Int32,System.Int32,System.Int32)
 extern void WebGLInputPlugin_WebGLInputSetSelectionRange_m7D4039C5365EF951D8048EDFB06D893D6BAECC12 (void);
-// 0x00000143 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputMaxLength(System.Int32,System.Int32)
+// 0x00000148 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputMaxLength(System.Int32,System.Int32)
 extern void WebGLInputPlugin_WebGLInputMaxLength_m35189F38B0F9CD3B1A443647CFDE0182DAE39A98 (void);
-// 0x00000144 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputText(System.Int32,System.String)
+// 0x00000149 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputText(System.Int32,System.String)
 extern void WebGLInputPlugin_WebGLInputText_m4D7539FBAC967AE65403FFCC8C147FA24F93A873 (void);
-// 0x00000145 System.Boolean WebGLSupport.WebGLInputPlugin::WebGLInputIsFocus(System.Int32)
+// 0x0000014A System.Boolean WebGLSupport.WebGLInputPlugin::WebGLInputIsFocus(System.Int32)
 extern void WebGLInputPlugin_WebGLInputIsFocus_mACD15EF06F53E3F3754508617420EFC2655C6A08 (void);
-// 0x00000146 System.Void WebGLSupport.WebGLInputPlugin::WebGLInputDelete(System.Int32)
+// 0x0000014B System.Void WebGLSupport.WebGLInputPlugin::WebGLInputDelete(System.Int32)
 extern void WebGLInputPlugin_WebGLInputDelete_m76010CD89F02DA2D7F1B29FA5B0D2778ACAFA4AA (void);
-// 0x00000147 System.Void WebGLSupport.WebGLInputPlugin::.ctor()
+// 0x0000014C System.Void WebGLSupport.WebGLInputPlugin::.ctor()
 extern void WebGLInputPlugin__ctor_m1A5B99CF3FFE6392210A5028BB21B11EB8951563 (void);
-// 0x00000148 System.String WebGLSupport.WebGLInput::get_CanvasId()
+// 0x0000014D System.String WebGLSupport.WebGLInput::get_CanvasId()
 extern void WebGLInput_get_CanvasId_mC870B7FF7B388FED5257D01A80DF3ADB6C3D2A47 (void);
-// 0x00000149 System.Void WebGLSupport.WebGLInput::set_CanvasId(System.String)
+// 0x0000014E System.Void WebGLSupport.WebGLInput::set_CanvasId(System.String)
 extern void WebGLInput_set_CanvasId_mC9CD4D6D53A8A490B1F0F983CB093363DBF025CF (void);
-// 0x0000014A System.Void WebGLSupport.WebGLInput::.cctor()
+// 0x0000014F System.Void WebGLSupport.WebGLInput::.cctor()
 extern void WebGLInput__cctor_mB598B54BDC4F81D93B28710B2030DFB665FCFC12 (void);
-// 0x0000014B WebGLSupport.IInputField WebGLSupport.WebGLInput::Setup()
+// 0x00000150 WebGLSupport.IInputField WebGLSupport.WebGLInput::Setup()
 extern void WebGLInput_Setup_mC1C4F0F1E1EC7E50396E43B33B58577ADEAC2012 (void);
-// 0x0000014C System.Void WebGLSupport.WebGLInput::Awake()
+// 0x00000151 System.Void WebGLSupport.WebGLInput::Awake()
 extern void WebGLInput_Awake_m95A62687648ACF8A10ECC7A2C96BCEE6C5B8B847 (void);
-// 0x0000014D System.Void WebGLSupport.WebGLInput::OnSelect()
+// 0x00000152 System.Void WebGLSupport.WebGLInput::OnSelect()
 extern void WebGLInput_OnSelect_mA26F770E527D1E37BA62A28B7202E2491C9D5CDF (void);
-// 0x0000014E System.Void WebGLSupport.WebGLInput::OnWindowBlur()
+// 0x00000153 System.Void WebGLSupport.WebGLInput::OnWindowBlur()
 extern void WebGLInput_OnWindowBlur_mC4CED1795E3E1E762AA50D242572449B9C9EF770 (void);
-// 0x0000014F UnityEngine.Rect WebGLSupport.WebGLInput::GetScreenCoordinates(UnityEngine.RectTransform)
+// 0x00000154 UnityEngine.Rect WebGLSupport.WebGLInput::GetScreenCoordinates(UnityEngine.RectTransform)
 extern void WebGLInput_GetScreenCoordinates_m60D84BAF682BD320C8AF342FEB8F247E46566335 (void);
-// 0x00000150 System.Void WebGLSupport.WebGLInput::DeactivateInputField()
+// 0x00000155 System.Void WebGLSupport.WebGLInput::DeactivateInputField()
 extern void WebGLInput_DeactivateInputField_mCA38412BE2C3E6DBD365892F9B743E7EC763B7FD (void);
-// 0x00000151 System.Void WebGLSupport.WebGLInput::OnFocus(System.Int32)
+// 0x00000156 System.Void WebGLSupport.WebGLInput::OnFocus(System.Int32)
 extern void WebGLInput_OnFocus_m26ABACDEFB45E9C81054A27D78A863FD8BB55BAF (void);
-// 0x00000152 System.Void WebGLSupport.WebGLInput::OnBlur(System.Int32)
+// 0x00000157 System.Void WebGLSupport.WebGLInput::OnBlur(System.Int32)
 extern void WebGLInput_OnBlur_mB2CF5ED94DF27CA18C76BE9E94513D75F9B4DB18 (void);
-// 0x00000153 System.Collections.IEnumerator WebGLSupport.WebGLInput::Blur(System.Int32)
+// 0x00000158 System.Collections.IEnumerator WebGLSupport.WebGLInput::Blur(System.Int32)
 extern void WebGLInput_Blur_m0D32FDDC061A9D4F59C88617234E31599D436D19 (void);
-// 0x00000154 System.Void WebGLSupport.WebGLInput::OnValueChange(System.Int32,System.String)
+// 0x00000159 System.Void WebGLSupport.WebGLInput::OnValueChange(System.Int32,System.String)
 extern void WebGLInput_OnValueChange_m472D61D3230BFA2C53FA78B2FFE35423B84408A3 (void);
-// 0x00000155 System.Void WebGLSupport.WebGLInput::OnEditEnd(System.Int32,System.String)
+// 0x0000015A System.Void WebGLSupport.WebGLInput::OnEditEnd(System.Int32,System.String)
 extern void WebGLInput_OnEditEnd_mBD3602F61AC1F5EDA05AFF12658615A64D89A49F (void);
-// 0x00000156 System.Void WebGLSupport.WebGLInput::OnTab(System.Int32,System.Int32)
+// 0x0000015B System.Void WebGLSupport.WebGLInput::OnTab(System.Int32,System.Int32)
 extern void WebGLInput_OnTab_mBC2521B52C021E7C8FE1A6C9E13A4F09EC81CC47 (void);
-// 0x00000157 System.Void WebGLSupport.WebGLInput::Update()
+// 0x0000015C System.Void WebGLSupport.WebGLInput::Update()
 extern void WebGLInput_Update_mB2E249ED9D67301C1B3993B0C6087CA81D2D4066 (void);
-// 0x00000158 System.Void WebGLSupport.WebGLInput::OnDestroy()
+// 0x0000015D System.Void WebGLSupport.WebGLInput::OnDestroy()
 extern void WebGLInput_OnDestroy_m65635DA503EFF05AE7C85FFB98A55F6FA8845CC1 (void);
-// 0x00000159 System.Void WebGLSupport.WebGLInput::OnEnable()
+// 0x0000015E System.Void WebGLSupport.WebGLInput::OnEnable()
 extern void WebGLInput_OnEnable_mBEA5CE5A047737FADBB09B7188B38C61BBE85F5F (void);
-// 0x0000015A System.Void WebGLSupport.WebGLInput::OnDisable()
+// 0x0000015F System.Void WebGLSupport.WebGLInput::OnDisable()
 extern void WebGLInput_OnDisable_m6417F1D7911E147C2480603F4A31DA6676118CB1 (void);
-// 0x0000015B System.Int32 WebGLSupport.WebGLInput::CompareTo(WebGLSupport.WebGLInput)
+// 0x00000160 System.Int32 WebGLSupport.WebGLInput::CompareTo(WebGLSupport.WebGLInput)
 extern void WebGLInput_CompareTo_m13D78BB3B0EF383D9417D63B478B0412382D0A15 (void);
-// 0x0000015C System.Void WebGLSupport.WebGLInput::.ctor()
+// 0x00000161 System.Void WebGLSupport.WebGLInput::.ctor()
 extern void WebGLInput__ctor_m34E2CA2AE23070FF13B1F9FAC69392BAB493D5F4 (void);
-// 0x0000015D System.Void WebGLSupport.WebGLInput/WebGLInputTabFocus::Add(WebGLSupport.WebGLInput)
+// 0x00000162 System.Void WebGLSupport.WebGLInput/WebGLInputTabFocus::Add(WebGLSupport.WebGLInput)
 extern void WebGLInputTabFocus_Add_m781C3E8C1288A997E098C2747C4CCCB6A3694BA5 (void);
-// 0x0000015E System.Void WebGLSupport.WebGLInput/WebGLInputTabFocus::Remove(WebGLSupport.WebGLInput)
+// 0x00000163 System.Void WebGLSupport.WebGLInput/WebGLInputTabFocus::Remove(WebGLSupport.WebGLInput)
 extern void WebGLInputTabFocus_Remove_m3E98EFED36C560C6B31D1BA73B1CE9834CA1FEA5 (void);
-// 0x0000015F System.Void WebGLSupport.WebGLInput/WebGLInputTabFocus::OnTab(WebGLSupport.WebGLInput,System.Int32)
+// 0x00000164 System.Void WebGLSupport.WebGLInput/WebGLInputTabFocus::OnTab(WebGLSupport.WebGLInput,System.Int32)
 extern void WebGLInputTabFocus_OnTab_m9333F66D327AF70146DB3E944AFDBAB7EAE4B296 (void);
-// 0x00000160 System.Void WebGLSupport.WebGLInput/WebGLInputTabFocus::.cctor()
+// 0x00000165 System.Void WebGLSupport.WebGLInput/WebGLInputTabFocus::.cctor()
 extern void WebGLInputTabFocus__cctor_mBEC41BAB213333BB8FD60CB7A65F45564EE82CF1 (void);
-// 0x00000161 System.Void WebGLSupport.WebGLInput/<Blur>d__18::.ctor(System.Int32)
+// 0x00000166 System.Void WebGLSupport.WebGLInput/<Blur>d__18::.ctor(System.Int32)
 extern void U3CBlurU3Ed__18__ctor_m5DD7ECFB360D476F04E6E25ED5B1C9E43F232C65 (void);
-// 0x00000162 System.Void WebGLSupport.WebGLInput/<Blur>d__18::System.IDisposable.Dispose()
+// 0x00000167 System.Void WebGLSupport.WebGLInput/<Blur>d__18::System.IDisposable.Dispose()
 extern void U3CBlurU3Ed__18_System_IDisposable_Dispose_mA8763379DC44FE42B5C0584383116EA58304FD17 (void);
-// 0x00000163 System.Boolean WebGLSupport.WebGLInput/<Blur>d__18::MoveNext()
+// 0x00000168 System.Boolean WebGLSupport.WebGLInput/<Blur>d__18::MoveNext()
 extern void U3CBlurU3Ed__18_MoveNext_m3A7955B6BBE989AE023E7B2CE9EF227957AA8AF5 (void);
-// 0x00000164 System.Object WebGLSupport.WebGLInput/<Blur>d__18::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000169 System.Object WebGLSupport.WebGLInput/<Blur>d__18::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CBlurU3Ed__18_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m020A5F7C93D0AF1501E881E96EAE482307388A2A (void);
-// 0x00000165 System.Void WebGLSupport.WebGLInput/<Blur>d__18::System.Collections.IEnumerator.Reset()
+// 0x0000016A System.Void WebGLSupport.WebGLInput/<Blur>d__18::System.Collections.IEnumerator.Reset()
 extern void U3CBlurU3Ed__18_System_Collections_IEnumerator_Reset_m88D40785B706B8EEFE73A5C224BC360EE3D9E9EB (void);
-// 0x00000166 System.Object WebGLSupport.WebGLInput/<Blur>d__18::System.Collections.IEnumerator.get_Current()
+// 0x0000016B System.Object WebGLSupport.WebGLInput/<Blur>d__18::System.Collections.IEnumerator.get_Current()
 extern void U3CBlurU3Ed__18_System_Collections_IEnumerator_get_Current_mC0A78004C8770C733DD7AFE86EDBB570E5ABF767 (void);
-// 0x00000167 WebGLSupport.ContentType WebGLSupport.IInputField::get_contentType()
-// 0x00000168 WebGLSupport.LineType WebGLSupport.IInputField::get_lineType()
-// 0x00000169 System.Int32 WebGLSupport.IInputField::get_fontSize()
-// 0x0000016A System.String WebGLSupport.IInputField::get_text()
-// 0x0000016B System.Void WebGLSupport.IInputField::set_text(System.String)
-// 0x0000016C System.String WebGLSupport.IInputField::get_placeholder()
-// 0x0000016D System.Int32 WebGLSupport.IInputField::get_characterLimit()
-// 0x0000016E System.Int32 WebGLSupport.IInputField::get_caretPosition()
-// 0x0000016F System.Boolean WebGLSupport.IInputField::get_isFocused()
-// 0x00000170 System.Int32 WebGLSupport.IInputField::get_selectionFocusPosition()
-// 0x00000171 System.Void WebGLSupport.IInputField::set_selectionFocusPosition(System.Int32)
-// 0x00000172 System.Int32 WebGLSupport.IInputField::get_selectionAnchorPosition()
-// 0x00000173 System.Void WebGLSupport.IInputField::set_selectionAnchorPosition(System.Int32)
-// 0x00000174 System.Boolean WebGLSupport.IInputField::get_ReadOnly()
-// 0x00000175 System.Boolean WebGLSupport.IInputField::get_OnFocusSelectAll()
-// 0x00000176 UnityEngine.RectTransform WebGLSupport.IInputField::RectTransform()
-// 0x00000177 System.Void WebGLSupport.IInputField::ActivateInputField()
-// 0x00000178 System.Void WebGLSupport.IInputField::DeactivateInputField()
-// 0x00000179 System.Void WebGLSupport.IInputField::Rebuild()
-// 0x0000017A System.Boolean WebGLSupport.WrappedInputField::get_ReadOnly()
+// 0x0000016C WebGLSupport.ContentType WebGLSupport.IInputField::get_contentType()
+// 0x0000016D WebGLSupport.LineType WebGLSupport.IInputField::get_lineType()
+// 0x0000016E System.Int32 WebGLSupport.IInputField::get_fontSize()
+// 0x0000016F System.String WebGLSupport.IInputField::get_text()
+// 0x00000170 System.Void WebGLSupport.IInputField::set_text(System.String)
+// 0x00000171 System.String WebGLSupport.IInputField::get_placeholder()
+// 0x00000172 System.Int32 WebGLSupport.IInputField::get_characterLimit()
+// 0x00000173 System.Int32 WebGLSupport.IInputField::get_caretPosition()
+// 0x00000174 System.Boolean WebGLSupport.IInputField::get_isFocused()
+// 0x00000175 System.Int32 WebGLSupport.IInputField::get_selectionFocusPosition()
+// 0x00000176 System.Void WebGLSupport.IInputField::set_selectionFocusPosition(System.Int32)
+// 0x00000177 System.Int32 WebGLSupport.IInputField::get_selectionAnchorPosition()
+// 0x00000178 System.Void WebGLSupport.IInputField::set_selectionAnchorPosition(System.Int32)
+// 0x00000179 System.Boolean WebGLSupport.IInputField::get_ReadOnly()
+// 0x0000017A System.Boolean WebGLSupport.IInputField::get_OnFocusSelectAll()
+// 0x0000017B UnityEngine.RectTransform WebGLSupport.IInputField::RectTransform()
+// 0x0000017C System.Void WebGLSupport.IInputField::ActivateInputField()
+// 0x0000017D System.Void WebGLSupport.IInputField::DeactivateInputField()
+// 0x0000017E System.Void WebGLSupport.IInputField::Rebuild()
+// 0x0000017F System.Boolean WebGLSupport.WrappedInputField::get_ReadOnly()
 extern void WrappedInputField_get_ReadOnly_m7EFC98742F3A690BB73FB027BD8A389DF158FD86 (void);
-// 0x0000017B System.String WebGLSupport.WrappedInputField::get_text()
+// 0x00000180 System.String WebGLSupport.WrappedInputField::get_text()
 extern void WrappedInputField_get_text_mC57300F0B1AA53DA39C878DBA1BFEC2DBD9073B3 (void);
-// 0x0000017C System.Void WebGLSupport.WrappedInputField::set_text(System.String)
+// 0x00000181 System.Void WebGLSupport.WrappedInputField::set_text(System.String)
 extern void WrappedInputField_set_text_m5D967938A287BEE989DD48B2626FBE0B81015A17 (void);
-// 0x0000017D System.String WebGLSupport.WrappedInputField::get_placeholder()
+// 0x00000182 System.String WebGLSupport.WrappedInputField::get_placeholder()
 extern void WrappedInputField_get_placeholder_m41E68D9444F4C7488D5C246B3A9DBA13F5D03363 (void);
-// 0x0000017E System.Int32 WebGLSupport.WrappedInputField::get_fontSize()
+// 0x00000183 System.Int32 WebGLSupport.WrappedInputField::get_fontSize()
 extern void WrappedInputField_get_fontSize_m0C439FF121F294846EE46628E8E4F1A5F1474009 (void);
-// 0x0000017F WebGLSupport.ContentType WebGLSupport.WrappedInputField::get_contentType()
+// 0x00000184 WebGLSupport.ContentType WebGLSupport.WrappedInputField::get_contentType()
 extern void WrappedInputField_get_contentType_mFECA26AD90C13CEEE2FFF1CA3CA7CE2AF8E8E39F (void);
-// 0x00000180 WebGLSupport.LineType WebGLSupport.WrappedInputField::get_lineType()
+// 0x00000185 WebGLSupport.LineType WebGLSupport.WrappedInputField::get_lineType()
 extern void WrappedInputField_get_lineType_mF4AB609F9997960538A15706639AE483E1A26C56 (void);
-// 0x00000181 System.Int32 WebGLSupport.WrappedInputField::get_characterLimit()
+// 0x00000186 System.Int32 WebGLSupport.WrappedInputField::get_characterLimit()
 extern void WrappedInputField_get_characterLimit_m1D1AF730D5B9361D088F8F2E11A12D36D2521392 (void);
-// 0x00000182 System.Int32 WebGLSupport.WrappedInputField::get_caretPosition()
+// 0x00000187 System.Int32 WebGLSupport.WrappedInputField::get_caretPosition()
 extern void WrappedInputField_get_caretPosition_mDA9C79F90E25FB33BBE81972CF2D8FE5CEB0F91A (void);
-// 0x00000183 System.Boolean WebGLSupport.WrappedInputField::get_isFocused()
+// 0x00000188 System.Boolean WebGLSupport.WrappedInputField::get_isFocused()
 extern void WrappedInputField_get_isFocused_mEBB58AC1F71E4A2CD836790C3526E8B9BBE2625E (void);
-// 0x00000184 System.Int32 WebGLSupport.WrappedInputField::get_selectionFocusPosition()
+// 0x00000189 System.Int32 WebGLSupport.WrappedInputField::get_selectionFocusPosition()
 extern void WrappedInputField_get_selectionFocusPosition_m14C4BB585ACD1B3916640569ADE8690584801184 (void);
-// 0x00000185 System.Void WebGLSupport.WrappedInputField::set_selectionFocusPosition(System.Int32)
+// 0x0000018A System.Void WebGLSupport.WrappedInputField::set_selectionFocusPosition(System.Int32)
 extern void WrappedInputField_set_selectionFocusPosition_mC09F9F6A9ADDC234DB4239166EAC8F8890B86074 (void);
-// 0x00000186 System.Int32 WebGLSupport.WrappedInputField::get_selectionAnchorPosition()
+// 0x0000018B System.Int32 WebGLSupport.WrappedInputField::get_selectionAnchorPosition()
 extern void WrappedInputField_get_selectionAnchorPosition_m8E5A6342B0BD1A4A0C59378744C3A2F94D761E8A (void);
-// 0x00000187 System.Void WebGLSupport.WrappedInputField::set_selectionAnchorPosition(System.Int32)
+// 0x0000018C System.Void WebGLSupport.WrappedInputField::set_selectionAnchorPosition(System.Int32)
 extern void WrappedInputField_set_selectionAnchorPosition_m20D8D5B623CB6F772EEE287FFB54BED75DFA99D4 (void);
-// 0x00000188 System.Boolean WebGLSupport.WrappedInputField::get_OnFocusSelectAll()
+// 0x0000018D System.Boolean WebGLSupport.WrappedInputField::get_OnFocusSelectAll()
 extern void WrappedInputField_get_OnFocusSelectAll_m441C441048A498F80DFCBBCFF8F88D7C17BAD1DD (void);
-// 0x00000189 System.Void WebGLSupport.WrappedInputField::.ctor(UnityEngine.UI.InputField)
+// 0x0000018E System.Void WebGLSupport.WrappedInputField::.ctor(UnityEngine.UI.InputField)
 extern void WrappedInputField__ctor_m48D6F784834F5C4855A94115AD49584058DFE837 (void);
-// 0x0000018A UnityEngine.RectTransform WebGLSupport.WrappedInputField::RectTransform()
+// 0x0000018F UnityEngine.RectTransform WebGLSupport.WrappedInputField::RectTransform()
 extern void WrappedInputField_RectTransform_mE20E8F1107E867CECF401422747BAA496B7C7FC4 (void);
-// 0x0000018B System.Void WebGLSupport.WrappedInputField::ActivateInputField()
+// 0x00000190 System.Void WebGLSupport.WrappedInputField::ActivateInputField()
 extern void WrappedInputField_ActivateInputField_mBD09C85BF60CB11504417E6DEAD10C4D56C198FF (void);
-// 0x0000018C System.Void WebGLSupport.WrappedInputField::DeactivateInputField()
+// 0x00000191 System.Void WebGLSupport.WrappedInputField::DeactivateInputField()
 extern void WrappedInputField_DeactivateInputField_m3DDAE08973436FF97C818C198A208DD95CBC9DDD (void);
-// 0x0000018D System.Void WebGLSupport.WrappedInputField::Rebuild()
+// 0x00000192 System.Void WebGLSupport.WrappedInputField::Rebuild()
 extern void WrappedInputField_Rebuild_m1549AF748A9F09DF0DFD0586AED6DDBDF1194B62 (void);
-// 0x0000018E System.Boolean WebGLSupport.WrappedTMPInputField::get_ReadOnly()
+// 0x00000193 System.Boolean WebGLSupport.WrappedTMPInputField::get_ReadOnly()
 extern void WrappedTMPInputField_get_ReadOnly_mF9D68CF930E1DC91966C1964444F436F2CC74ABE (void);
-// 0x0000018F System.String WebGLSupport.WrappedTMPInputField::get_text()
+// 0x00000194 System.String WebGLSupport.WrappedTMPInputField::get_text()
 extern void WrappedTMPInputField_get_text_m30A276CC91C71A8B0C49B1603F2FB74EA7B3D6EF (void);
-// 0x00000190 System.Void WebGLSupport.WrappedTMPInputField::set_text(System.String)
+// 0x00000195 System.Void WebGLSupport.WrappedTMPInputField::set_text(System.String)
 extern void WrappedTMPInputField_set_text_m255C93141017CDB6FE2ECC5A35785CF412FC4A0B (void);
-// 0x00000191 System.String WebGLSupport.WrappedTMPInputField::get_placeholder()
+// 0x00000196 System.String WebGLSupport.WrappedTMPInputField::get_placeholder()
 extern void WrappedTMPInputField_get_placeholder_m7E17D9F58450EADEEEE96D1851F92B27520C8AC2 (void);
-// 0x00000192 System.Int32 WebGLSupport.WrappedTMPInputField::get_fontSize()
+// 0x00000197 System.Int32 WebGLSupport.WrappedTMPInputField::get_fontSize()
 extern void WrappedTMPInputField_get_fontSize_m19AB001340391D3052E4E8D46C0622B2197D9F2D (void);
-// 0x00000193 WebGLSupport.ContentType WebGLSupport.WrappedTMPInputField::get_contentType()
+// 0x00000198 WebGLSupport.ContentType WebGLSupport.WrappedTMPInputField::get_contentType()
 extern void WrappedTMPInputField_get_contentType_mEDE81B1FCCDE8FCF3725DB627D0849053589391B (void);
-// 0x00000194 WebGLSupport.LineType WebGLSupport.WrappedTMPInputField::get_lineType()
+// 0x00000199 WebGLSupport.LineType WebGLSupport.WrappedTMPInputField::get_lineType()
 extern void WrappedTMPInputField_get_lineType_m43D88F0137CFE62CCB35DCDC3C162DE9161D71E6 (void);
-// 0x00000195 System.Int32 WebGLSupport.WrappedTMPInputField::get_characterLimit()
+// 0x0000019A System.Int32 WebGLSupport.WrappedTMPInputField::get_characterLimit()
 extern void WrappedTMPInputField_get_characterLimit_mF1082E5A0ED69901753DA6EFE87E89249A0DC79F (void);
-// 0x00000196 System.Int32 WebGLSupport.WrappedTMPInputField::get_caretPosition()
+// 0x0000019B System.Int32 WebGLSupport.WrappedTMPInputField::get_caretPosition()
 extern void WrappedTMPInputField_get_caretPosition_m89E28BF3229CA53AD3A1D6DCC928AC72E60144D8 (void);
-// 0x00000197 System.Boolean WebGLSupport.WrappedTMPInputField::get_isFocused()
+// 0x0000019C System.Boolean WebGLSupport.WrappedTMPInputField::get_isFocused()
 extern void WrappedTMPInputField_get_isFocused_mE061B9E101860D8790F743374F2CE50871C562A3 (void);
-// 0x00000198 System.Int32 WebGLSupport.WrappedTMPInputField::get_selectionFocusPosition()
+// 0x0000019D System.Int32 WebGLSupport.WrappedTMPInputField::get_selectionFocusPosition()
 extern void WrappedTMPInputField_get_selectionFocusPosition_mFAFC597085E072A6A7D6295220DA060109FA6E60 (void);
-// 0x00000199 System.Void WebGLSupport.WrappedTMPInputField::set_selectionFocusPosition(System.Int32)
+// 0x0000019E System.Void WebGLSupport.WrappedTMPInputField::set_selectionFocusPosition(System.Int32)
 extern void WrappedTMPInputField_set_selectionFocusPosition_mF20827AF277F800BAFF88C67EC422DB9A0F38A43 (void);
-// 0x0000019A System.Int32 WebGLSupport.WrappedTMPInputField::get_selectionAnchorPosition()
+// 0x0000019F System.Int32 WebGLSupport.WrappedTMPInputField::get_selectionAnchorPosition()
 extern void WrappedTMPInputField_get_selectionAnchorPosition_mB71EB01C4F4341A10D9F13BF827525B28919F8DB (void);
-// 0x0000019B System.Void WebGLSupport.WrappedTMPInputField::set_selectionAnchorPosition(System.Int32)
+// 0x000001A0 System.Void WebGLSupport.WrappedTMPInputField::set_selectionAnchorPosition(System.Int32)
 extern void WrappedTMPInputField_set_selectionAnchorPosition_m238A6F79627C225E96D91449FA2D2D34BC51F27A (void);
-// 0x0000019C System.Boolean WebGLSupport.WrappedTMPInputField::get_OnFocusSelectAll()
+// 0x000001A1 System.Boolean WebGLSupport.WrappedTMPInputField::get_OnFocusSelectAll()
 extern void WrappedTMPInputField_get_OnFocusSelectAll_m19D2E296A34AB1ACE52B9C2420CDE02902462CA6 (void);
-// 0x0000019D System.Void WebGLSupport.WrappedTMPInputField::.ctor(TMPro.TMP_InputField)
+// 0x000001A2 System.Void WebGLSupport.WrappedTMPInputField::.ctor(TMPro.TMP_InputField)
 extern void WrappedTMPInputField__ctor_m49EFEE6E620291860FF5AD8326B30CECFC04B376 (void);
-// 0x0000019E UnityEngine.RectTransform WebGLSupport.WrappedTMPInputField::RectTransform()
+// 0x000001A3 UnityEngine.RectTransform WebGLSupport.WrappedTMPInputField::RectTransform()
 extern void WrappedTMPInputField_RectTransform_mE55D08BD175986C02FFFF23BBF4990FF46AD03EB (void);
-// 0x0000019F System.Void WebGLSupport.WrappedTMPInputField::ActivateInputField()
+// 0x000001A4 System.Void WebGLSupport.WrappedTMPInputField::ActivateInputField()
 extern void WrappedTMPInputField_ActivateInputField_m73C0715DB5ED358D28837C5C84446197617EB2F7 (void);
-// 0x000001A0 System.Void WebGLSupport.WrappedTMPInputField::DeactivateInputField()
+// 0x000001A5 System.Void WebGLSupport.WrappedTMPInputField::DeactivateInputField()
 extern void WrappedTMPInputField_DeactivateInputField_mCC98F0B9E831FBBCC65D5C0A7B6DA07596584732 (void);
-// 0x000001A1 System.Void WebGLSupport.WrappedTMPInputField::Rebuild()
+// 0x000001A6 System.Void WebGLSupport.WrappedTMPInputField::Rebuild()
 extern void WrappedTMPInputField_Rebuild_m092708FA3026F8BD5F4B0A4E60955839D3437660 (void);
-// 0x000001A2 System.Boolean WebGLSupport.WrappedTMPInputField::rectOverlaps(UnityEngine.RectTransform,UnityEngine.RectTransform)
+// 0x000001A7 System.Boolean WebGLSupport.WrappedTMPInputField::rectOverlaps(UnityEngine.RectTransform,UnityEngine.RectTransform)
 extern void WrappedTMPInputField_rectOverlaps_m12401F1131F86345ED2050F47BFC94428A1ECD0D (void);
-// 0x000001A3 System.Void WebGLSupport.WebGLWindowPlugin::WebGLWindowOnFocus(System.Action)
+// 0x000001A8 System.Void WebGLSupport.WebGLWindowPlugin::WebGLWindowOnFocus(System.Action)
 extern void WebGLWindowPlugin_WebGLWindowOnFocus_m5321514BE0649086B40BF5A1307A6495F9BB4C21 (void);
-// 0x000001A4 System.Void WebGLSupport.WebGLWindowPlugin::WebGLWindowOnBlur(System.Action)
+// 0x000001A9 System.Void WebGLSupport.WebGLWindowPlugin::WebGLWindowOnBlur(System.Action)
 extern void WebGLWindowPlugin_WebGLWindowOnBlur_m390CEDD3C1C64E247B38EF6B52F54ABC00ADFDB3 (void);
-// 0x000001A5 System.Void WebGLSupport.WebGLWindowPlugin::WebGLWindowInjectFullscreen()
+// 0x000001AA System.Void WebGLSupport.WebGLWindowPlugin::WebGLWindowInjectFullscreen()
 extern void WebGLWindowPlugin_WebGLWindowInjectFullscreen_m0413F0CA36CBAF5F9978909C9803E15C1985E2F0 (void);
-// 0x000001A6 System.Boolean WebGLSupport.WebGLWindow::get_Focus()
+// 0x000001AB System.Boolean WebGLSupport.WebGLWindow::get_Focus()
 extern void WebGLWindow_get_Focus_m50E604A81287685CEB7F595CB49D656B66F2E814 (void);
-// 0x000001A7 System.Void WebGLSupport.WebGLWindow::set_Focus(System.Boolean)
+// 0x000001AC System.Void WebGLSupport.WebGLWindow::set_Focus(System.Boolean)
 extern void WebGLWindow_set_Focus_m07BCD85254E23DC8FE79B9A31CDB1EC1439FC9D2 (void);
-// 0x000001A8 System.Void WebGLSupport.WebGLWindow::add_OnFocusEvent(System.Action)
+// 0x000001AD System.Void WebGLSupport.WebGLWindow::add_OnFocusEvent(System.Action)
 extern void WebGLWindow_add_OnFocusEvent_mCE1AFE46E4B195DD596B93BF9F78C0617CBCA657 (void);
-// 0x000001A9 System.Void WebGLSupport.WebGLWindow::remove_OnFocusEvent(System.Action)
+// 0x000001AE System.Void WebGLSupport.WebGLWindow::remove_OnFocusEvent(System.Action)
 extern void WebGLWindow_remove_OnFocusEvent_m03F22A1BCE39C5531ED06FFDD08009E7A0336FE1 (void);
-// 0x000001AA System.Void WebGLSupport.WebGLWindow::add_OnBlurEvent(System.Action)
+// 0x000001AF System.Void WebGLSupport.WebGLWindow::add_OnBlurEvent(System.Action)
 extern void WebGLWindow_add_OnBlurEvent_mD4DE277A125D877830CC71E19678EF4C8D486B3D (void);
-// 0x000001AB System.Void WebGLSupport.WebGLWindow::remove_OnBlurEvent(System.Action)
+// 0x000001B0 System.Void WebGLSupport.WebGLWindow::remove_OnBlurEvent(System.Action)
 extern void WebGLWindow_remove_OnBlurEvent_mA027B246595DC893A39B4975B4240D7E00993B8D (void);
-// 0x000001AC System.Void WebGLSupport.WebGLWindow::Init()
+// 0x000001B1 System.Void WebGLSupport.WebGLWindow::Init()
 extern void WebGLWindow_Init_m0F5B39B2DC356885CD2CBA6B1A9D8628C4AC28B7 (void);
-// 0x000001AD System.Void WebGLSupport.WebGLWindow::OnWindowFocus()
+// 0x000001B2 System.Void WebGLSupport.WebGLWindow::OnWindowFocus()
 extern void WebGLWindow_OnWindowFocus_mDF3BCF57E58755668408E52641C23A3DE6223D01 (void);
-// 0x000001AE System.Void WebGLSupport.WebGLWindow::OnWindowBlur()
+// 0x000001B3 System.Void WebGLSupport.WebGLWindow::OnWindowBlur()
 extern void WebGLWindow_OnWindowBlur_mECA4DD39F5875724D053BD2275DB53CD77057E26 (void);
-// 0x000001AF System.Void WebGLSupport.WebGLWindow::RuntimeInitializeOnLoadMethod()
+// 0x000001B4 System.Void WebGLSupport.WebGLWindow::RuntimeInitializeOnLoadMethod()
 extern void WebGLWindow_RuntimeInitializeOnLoadMethod_m4BB96F7F8D54E851F46BDFE52C519E47988424C5 (void);
-// 0x000001B0 System.Void WebGLSupport.WebGLWindow::.cctor()
+// 0x000001B5 System.Void WebGLSupport.WebGLWindow::.cctor()
 extern void WebGLWindow__cctor_m4B1742ACF075FE60DF7E26870556AD24A3BC8821 (void);
-// 0x000001B1 System.Void WebGLSupport.WebGLWindow/<>c::.cctor()
+// 0x000001B6 System.Void WebGLSupport.WebGLWindow/<>c::.cctor()
 extern void U3CU3Ec__cctor_m59022266CA73A66238BC6FEC804437C57128A814 (void);
-// 0x000001B2 System.Void WebGLSupport.WebGLWindow/<>c::.ctor()
+// 0x000001B7 System.Void WebGLSupport.WebGLWindow/<>c::.ctor()
 extern void U3CU3Ec__ctor_mB9A28B0DC7B88C7D47F22C59FF64AEC54CEBAB14 (void);
-// 0x000001B3 System.Void WebGLSupport.WebGLWindow/<>c::<.cctor>b__14_0()
+// 0x000001B8 System.Void WebGLSupport.WebGLWindow/<>c::<.cctor>b__14_0()
 extern void U3CU3Ec_U3C_cctorU3Eb__14_0_m144E0450573AC5646CCF90EFDE4E2470B781B262 (void);
-// 0x000001B4 System.Void WebGLSupport.WebGLWindow/<>c::<.cctor>b__14_1()
+// 0x000001B9 System.Void WebGLSupport.WebGLWindow/<>c::<.cctor>b__14_1()
 extern void U3CU3Ec_U3C_cctorU3Eb__14_1_mE422FC2E84C2A7AE75C23CBA576A7D62F0BB7700 (void);
-// 0x000001B5 System.Void WebGLSupport.Detail.RebuildChecker::.ctor(WebGLSupport.IInputField)
+// 0x000001BA System.Void WebGLSupport.Detail.RebuildChecker::.ctor(WebGLSupport.IInputField)
 extern void RebuildChecker__ctor_mE651AE1B7960510453ACEA32289BD4F3C620F3FF (void);
-// 0x000001B6 System.Boolean WebGLSupport.Detail.RebuildChecker::NeedRebuild(System.Boolean)
+// 0x000001BB System.Boolean WebGLSupport.Detail.RebuildChecker::NeedRebuild(System.Boolean)
 extern void RebuildChecker_NeedRebuild_m6ADC7618A51B33F45A43A885F97045480306EAA7 (void);
-// 0x000001B7 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::Start()
+// 0x000001BC System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::Start()
 extern void ConnectAndJoinRandomLb_Start_m8784F9A942632995E527C9AAC79D40049C1B4421 (void);
-// 0x000001B8 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::Update()
+// 0x000001BD System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::Update()
 extern void ConnectAndJoinRandomLb_Update_m27F506BAFEF2C3264B9030218D0ADB86478750E2 (void);
-// 0x000001B9 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnConnected()
+// 0x000001BE System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnConnected()
 extern void ConnectAndJoinRandomLb_OnConnected_m5879B131543322FA6CC2D9FB2B4C196698680114 (void);
-// 0x000001BA System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnConnectedToMaster()
+// 0x000001BF System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnConnectedToMaster()
 extern void ConnectAndJoinRandomLb_OnConnectedToMaster_mCCF5E7C0A7A1A8486F3571F05B2E0662C7C939F2 (void);
-// 0x000001BB System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnDisconnected(Photon.Realtime.DisconnectCause)
+// 0x000001C0 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnDisconnected(Photon.Realtime.DisconnectCause)
 extern void ConnectAndJoinRandomLb_OnDisconnected_m2576DA0537A899046151D7FA51E25AC367F800A7 (void);
-// 0x000001BC System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnCustomAuthenticationResponse(System.Collections.Generic.Dictionary`2<System.String,System.Object>)
+// 0x000001C1 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnCustomAuthenticationResponse(System.Collections.Generic.Dictionary`2<System.String,System.Object>)
 extern void ConnectAndJoinRandomLb_OnCustomAuthenticationResponse_m8F6E456A2C572923AD8E720088C22588A1DB1459 (void);
-// 0x000001BD System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnCustomAuthenticationFailed(System.String)
+// 0x000001C2 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnCustomAuthenticationFailed(System.String)
 extern void ConnectAndJoinRandomLb_OnCustomAuthenticationFailed_m447EA30CA679C12865C767F01D060A3A2EF74C5B (void);
-// 0x000001BE System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnRegionListReceived(Photon.Realtime.RegionHandler)
+// 0x000001C3 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnRegionListReceived(Photon.Realtime.RegionHandler)
 extern void ConnectAndJoinRandomLb_OnRegionListReceived_m6F54D1CDC5C51EF9ED8C44E439E83210851CDA8E (void);
-// 0x000001BF System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnRoomListUpdate(System.Collections.Generic.List`1<Photon.Realtime.RoomInfo>)
+// 0x000001C4 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnRoomListUpdate(System.Collections.Generic.List`1<Photon.Realtime.RoomInfo>)
 extern void ConnectAndJoinRandomLb_OnRoomListUpdate_m91AEF2D4CB5CC06810FED71B26B736DDC2938DA0 (void);
-// 0x000001C0 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnLobbyStatisticsUpdate(System.Collections.Generic.List`1<Photon.Realtime.TypedLobbyInfo>)
+// 0x000001C5 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnLobbyStatisticsUpdate(System.Collections.Generic.List`1<Photon.Realtime.TypedLobbyInfo>)
 extern void ConnectAndJoinRandomLb_OnLobbyStatisticsUpdate_m02972ED26C4B5FCECE1E7A0B482A32E53363F2F7 (void);
-// 0x000001C1 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnJoinedLobby()
+// 0x000001C6 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnJoinedLobby()
 extern void ConnectAndJoinRandomLb_OnJoinedLobby_m171BA1094BCA0FC7A1D13EA07C858CD2D2F423EF (void);
-// 0x000001C2 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnLeftLobby()
+// 0x000001C7 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnLeftLobby()
 extern void ConnectAndJoinRandomLb_OnLeftLobby_m1BCA515302514D0EF88687D2216D67A9D724B0F4 (void);
-// 0x000001C3 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnFriendListUpdate(System.Collections.Generic.List`1<Photon.Realtime.FriendInfo>)
+// 0x000001C8 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnFriendListUpdate(System.Collections.Generic.List`1<Photon.Realtime.FriendInfo>)
 extern void ConnectAndJoinRandomLb_OnFriendListUpdate_m6E1EBEFEC84BA9FFA5296B547431BDB692E053DB (void);
-// 0x000001C4 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnCreatedRoom()
+// 0x000001C9 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnCreatedRoom()
 extern void ConnectAndJoinRandomLb_OnCreatedRoom_mB1906ADF16C593829B0DD191F319716A97B10583 (void);
-// 0x000001C5 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnCreateRoomFailed(System.Int16,System.String)
+// 0x000001CA System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnCreateRoomFailed(System.Int16,System.String)
 extern void ConnectAndJoinRandomLb_OnCreateRoomFailed_mD11765F8AA8A45B8AC5555207281A43ABA829D24 (void);
-// 0x000001C6 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnJoinedRoom()
+// 0x000001CB System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnJoinedRoom()
 extern void ConnectAndJoinRandomLb_OnJoinedRoom_mCE9BDE69A13EA84E9ACA73E064A695B9D3754E8B (void);
-// 0x000001C7 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnJoinRoomFailed(System.Int16,System.String)
+// 0x000001CC System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnJoinRoomFailed(System.Int16,System.String)
 extern void ConnectAndJoinRandomLb_OnJoinRoomFailed_m5622896774D36D4960735E32F353869D9D6DF94C (void);
-// 0x000001C8 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnJoinRandomFailed(System.Int16,System.String)
+// 0x000001CD System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnJoinRandomFailed(System.Int16,System.String)
 extern void ConnectAndJoinRandomLb_OnJoinRandomFailed_m4BCA35CBE444C5AD28D7D713E92E893198F91B69 (void);
-// 0x000001C9 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnLeftRoom()
+// 0x000001CE System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnLeftRoom()
 extern void ConnectAndJoinRandomLb_OnLeftRoom_m488901B35215F9B70BACC7A08ABB123F3B605137 (void);
-// 0x000001CA System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnRegionPingCompleted(Photon.Realtime.RegionHandler)
+// 0x000001CF System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::OnRegionPingCompleted(Photon.Realtime.RegionHandler)
 extern void ConnectAndJoinRandomLb_OnRegionPingCompleted_mD76EE8F39A7AE8EF7E071B9E1C5D1A52452FEF17 (void);
-// 0x000001CB System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::.ctor()
+// 0x000001D0 System.Void Photon.Realtime.Demo.ConnectAndJoinRandomLb::.ctor()
 extern void ConnectAndJoinRandomLb__ctor_mD06217DD59635BD5DC39E8E14274D6604FDF85C1 (void);
-// 0x000001CC System.Void Photon.Chat.UtilityScripts.EventSystemSpawner::OnEnable()
+// 0x000001D1 System.Void Photon.Chat.UtilityScripts.EventSystemSpawner::OnEnable()
 extern void EventSystemSpawner_OnEnable_m92046CF7C2B99309677158A5205E37FA11EE9302 (void);
-// 0x000001CD System.Void Photon.Chat.UtilityScripts.EventSystemSpawner::.ctor()
+// 0x000001D2 System.Void Photon.Chat.UtilityScripts.EventSystemSpawner::.ctor()
 extern void EventSystemSpawner__ctor_m6FCC0DAF89825B22BEDC803B5E02B42FB86CF331 (void);
-// 0x000001CE System.Void Photon.Chat.UtilityScripts.OnStartDelete::Start()
+// 0x000001D3 System.Void Photon.Chat.UtilityScripts.OnStartDelete::Start()
 extern void OnStartDelete_Start_m033082A59BA5941F5740FAD3CDD2D4501430DD33 (void);
-// 0x000001CF System.Void Photon.Chat.UtilityScripts.OnStartDelete::.ctor()
+// 0x000001D4 System.Void Photon.Chat.UtilityScripts.OnStartDelete::.ctor()
 extern void OnStartDelete__ctor_m0B816BC930476E7580303D8E9E8E07444F0C5270 (void);
-// 0x000001D0 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::Awake()
+// 0x000001D5 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::Awake()
 extern void TextButtonTransition_Awake_m5402B2656DCEF5F78D8BA1D3D7D77EBD7F07AC9E (void);
-// 0x000001D1 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::OnEnable()
+// 0x000001D6 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::OnEnable()
 extern void TextButtonTransition_OnEnable_mD3229078DB78111EDC0B823872D1E381F3C15A5F (void);
-// 0x000001D2 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::OnDisable()
+// 0x000001D7 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::OnDisable()
 extern void TextButtonTransition_OnDisable_mAB2CCC24F8B8F1D664154DC1D0D7E47A925A3B72 (void);
-// 0x000001D3 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::OnPointerEnter(UnityEngine.EventSystems.PointerEventData)
+// 0x000001D8 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::OnPointerEnter(UnityEngine.EventSystems.PointerEventData)
 extern void TextButtonTransition_OnPointerEnter_m28E7599E058554E4C13D7EA152521BCF4C104B07 (void);
-// 0x000001D4 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::OnPointerExit(UnityEngine.EventSystems.PointerEventData)
+// 0x000001D9 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::OnPointerExit(UnityEngine.EventSystems.PointerEventData)
 extern void TextButtonTransition_OnPointerExit_m25F271B30D439D9AD93483E1CC08FC198A3E9A02 (void);
-// 0x000001D5 System.Void Photon.Chat.UtilityScripts.TextButtonTransition::.ctor()
+// 0x000001DA System.Void Photon.Chat.UtilityScripts.TextButtonTransition::.ctor()
 extern void TextButtonTransition__ctor_m9E3AFEA1BEFD79F8F0D16DA749243B7D43B78570 (void);
-// 0x000001D6 System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnEnable()
+// 0x000001DB System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnEnable()
 extern void TextToggleIsOnTransition_OnEnable_mA240AFB3178800D5275FB5BD05D54449EC49BAF2 (void);
-// 0x000001D7 System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnDisable()
+// 0x000001DC System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnDisable()
 extern void TextToggleIsOnTransition_OnDisable_m824A3816D8873B0A5F86F4F401FF080163560404 (void);
-// 0x000001D8 System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnValueChanged(System.Boolean)
+// 0x000001DD System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnValueChanged(System.Boolean)
 extern void TextToggleIsOnTransition_OnValueChanged_m2C3DAB9655DD596BFC184D0A5B4F83D36C8B2FFB (void);
-// 0x000001D9 System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnPointerEnter(UnityEngine.EventSystems.PointerEventData)
+// 0x000001DE System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnPointerEnter(UnityEngine.EventSystems.PointerEventData)
 extern void TextToggleIsOnTransition_OnPointerEnter_m01E7951E3FE9C9C9A1FC1D5E26EFF4041799E0E5 (void);
-// 0x000001DA System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnPointerExit(UnityEngine.EventSystems.PointerEventData)
+// 0x000001DF System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::OnPointerExit(UnityEngine.EventSystems.PointerEventData)
 extern void TextToggleIsOnTransition_OnPointerExit_mBF6DDD1410475F0C6118F9C85F572E669FBB4C20 (void);
-// 0x000001DB System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::.ctor()
+// 0x000001E0 System.Void Photon.Chat.UtilityScripts.TextToggleIsOnTransition::.ctor()
 extern void TextToggleIsOnTransition__ctor_mA401C98E0CC8F9B8728B46138CCF941C6E471F04 (void);
-static Il2CppMethodPointer s_methodPointers[475] = 
+static Il2CppMethodPointer s_methodPointers[480] = 
 {
 	JoystickPlayerExample_FixedUpdate_m3D7D2B1BE8C20574423088EF0C338700444B04B2,
 	JoystickPlayerExample__ctor_mEE8014E341485D43F0629DE22DB9F407E47FC49B,
@@ -1247,6 +1257,11 @@ static Il2CppMethodPointer s_methodPointers[475] =
 	ViewportHandler_Update_m095A6FC126212367C8BDF30950FF8B94D3908577,
 	ViewportHandler_OnDrawGizmos_m83DBE3695ED4AF2DBF9BBD0108565C49BDE745B9,
 	ViewportHandler__ctor_m61F5D85E30048B2A38EB337E035433382CFC028D,
+	shootButton_Start_m7AD3D2B1917DAAD67A97C66058DAAD2602A5A3FF,
+	shootButton_shoot_m7F6829527F8BF7DB717D2C3C8A682D3E5E053A4D,
+	shootButton_Update_mFC60B1358A7C5ED9722DBEDF78244766C325A747,
+	shootButton__ctor_mAFCC00406BCB420DC102B15C334C099FC0E544CF,
+	shootButton__cctor_m3130D4617E1165AA663F54C07B9C0D9E5F290F39,
 	WebGLInputMobilePlugin_WebGLInputMobileRegister_m007C587A50494B444BACEC68CD1246D3DB67D9AA,
 	WebGLInputMobilePlugin_WebGLInputMobileOnFocusOut_m66F405C81605B292E31F8FCAFA9293368DC3EA3E,
 	WebGLInputMobilePlugin__ctor_m93A4B491E81F2D872B7AFAC7A27DCBF564B94072,
@@ -1430,7 +1445,7 @@ static Il2CppMethodPointer s_methodPointers[475] =
 	TextToggleIsOnTransition_OnPointerExit_mBF6DDD1410475F0C6118F9C85F572E669FBB4C20,
 	TextToggleIsOnTransition__ctor_mA401C98E0CC8F9B8728B46138CCF941C6E471F04,
 };
-static const int32_t s_InvokerIndices[475] = 
+static const int32_t s_InvokerIndices[480] = 
 {
 	2351,
 	2351,
@@ -1725,6 +1740,11 @@ static const int32_t s_InvokerIndices[475] =
 	2351,
 	2351,
 	2351,
+	2351,
+	2351,
+	2351,
+	2351,
+	3582,
 	3407,
 	3314,
 	2351,
@@ -1910,22 +1930,22 @@ static const int32_t s_InvokerIndices[475] =
 };
 static const Il2CppTokenIndexMethodTuple s_reversePInvokeIndices[9] = 
 {
-	{ 0x0600012B, 15,  (void**)&WebGLInputMobile_OnTouchEnd_m90B19075535C3E185CFF1575F439126B413DC73F_RuntimeMethod_var, 0 },
-	{ 0x0600012D, 14,  (void**)&WebGLInputMobile_OnFocusOut_mC86EEF882BE472EDC61CABCDF37C7E4581356E6C_RuntimeMethod_var, 0 },
-	{ 0x06000151, 11,  (void**)&WebGLInput_OnFocus_m26ABACDEFB45E9C81054A27D78A863FD8BB55BAF_RuntimeMethod_var, 0 },
-	{ 0x06000152, 9,  (void**)&WebGLInput_OnBlur_mB2CF5ED94DF27CA18C76BE9E94513D75F9B4DB18_RuntimeMethod_var, 0 },
-	{ 0x06000154, 13,  (void**)&WebGLInput_OnValueChange_m472D61D3230BFA2C53FA78B2FFE35423B84408A3_RuntimeMethod_var, 0 },
-	{ 0x06000155, 10,  (void**)&WebGLInput_OnEditEnd_mBD3602F61AC1F5EDA05AFF12658615A64D89A49F_RuntimeMethod_var, 0 },
-	{ 0x06000156, 12,  (void**)&WebGLInput_OnTab_mBC2521B52C021E7C8FE1A6C9E13A4F09EC81CC47_RuntimeMethod_var, 0 },
-	{ 0x060001AD, 17,  (void**)&WebGLWindow_OnWindowFocus_mDF3BCF57E58755668408E52641C23A3DE6223D01_RuntimeMethod_var, 0 },
-	{ 0x060001AE, 16,  (void**)&WebGLWindow_OnWindowBlur_mECA4DD39F5875724D053BD2275DB53CD77057E26_RuntimeMethod_var, 0 },
+	{ 0x06000130, 15,  (void**)&WebGLInputMobile_OnTouchEnd_m90B19075535C3E185CFF1575F439126B413DC73F_RuntimeMethod_var, 0 },
+	{ 0x06000132, 14,  (void**)&WebGLInputMobile_OnFocusOut_mC86EEF882BE472EDC61CABCDF37C7E4581356E6C_RuntimeMethod_var, 0 },
+	{ 0x06000156, 11,  (void**)&WebGLInput_OnFocus_m26ABACDEFB45E9C81054A27D78A863FD8BB55BAF_RuntimeMethod_var, 0 },
+	{ 0x06000157, 9,  (void**)&WebGLInput_OnBlur_mB2CF5ED94DF27CA18C76BE9E94513D75F9B4DB18_RuntimeMethod_var, 0 },
+	{ 0x06000159, 13,  (void**)&WebGLInput_OnValueChange_m472D61D3230BFA2C53FA78B2FFE35423B84408A3_RuntimeMethod_var, 0 },
+	{ 0x0600015A, 10,  (void**)&WebGLInput_OnEditEnd_mBD3602F61AC1F5EDA05AFF12658615A64D89A49F_RuntimeMethod_var, 0 },
+	{ 0x0600015B, 12,  (void**)&WebGLInput_OnTab_mBC2521B52C021E7C8FE1A6C9E13A4F09EC81CC47_RuntimeMethod_var, 0 },
+	{ 0x060001B2, 17,  (void**)&WebGLWindow_OnWindowFocus_mDF3BCF57E58755668408E52641C23A3DE6223D01_RuntimeMethod_var, 0 },
+	{ 0x060001B3, 16,  (void**)&WebGLWindow_OnWindowBlur_mECA4DD39F5875724D053BD2275DB53CD77057E26_RuntimeMethod_var, 0 },
 };
 extern const CustomAttributesCacheGenerator g_AssemblyU2DCSharp_AttributeGenerators[];
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	475,
+	480,
 	s_methodPointers,
 	0,
 	NULL,

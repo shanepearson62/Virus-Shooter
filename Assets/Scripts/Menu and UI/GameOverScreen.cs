@@ -29,10 +29,12 @@ public class GameOverScreen : MonoBehaviour
     }
 
     public void PlayAgain() {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2); 
+        PlayerScript.playerHealth = 10;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2); 
     }
 
     public void MainMenu() {
+        PlayerScript.playerHealth = 10;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 4);
     }
 

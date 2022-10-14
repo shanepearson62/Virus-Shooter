@@ -260,6 +260,7 @@ MonoBehaviour:
     type: 3}
   thrustSpeed: 2
   turnSpeed: 1
+  fireRate: 1
 --- !u!114 &7944380395735745251
 MonoBehaviour:
   m_ObjectHideFlags: 0
