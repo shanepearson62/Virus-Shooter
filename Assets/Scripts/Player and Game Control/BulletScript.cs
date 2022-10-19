@@ -6,7 +6,7 @@ using Photon.Pun;
 public class BulletScript : MonoBehaviour
 {
     private Rigidbody2D _rigidbody;
-    public float maxLifetime = 10.0f;
+    public float maxLifetime = 2.0f;
     public float speed = 500.0f;
     PhotonView view;
     public PlayerScript player;

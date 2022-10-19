@@ -9,11 +9,13 @@ public class CreateAndJoinRooms : MonoBehaviourPunCallbacks
 {
     public InputField createInput;
     public InputField joinInput;
+    
     // private LoadBalancingClient loadBalancingClient;
 
     public void CreateRoom(){
+        var strB = Random.Range(100, 999);
         // create a room using the create room input field text
-        PhotonNetwork.CreateRoom("123");
+        PhotonNetwork.CreateRoom(strB+"");
     }
 
     public void JoinRoom(){

@@ -13,69 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-10-14T17:41:03.131-04:00
-  initializedAtString: 2022-10-14T17:36:25.229-04:00
+  lastUpdatedAtString: 2022-10-19T17:32:27.692-04:00
+  initializedAtString: 2022-10-19T17:29:49.779-04:00
   entries:
-  - path: Assets/.DS_Store
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/.DS_Store
-    projectPath: Assets/.DS_Store
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Scenes/health maker.unity
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scenes/health maker.unity
-    projectPath: Assets/Scenes/health maker.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Scenes/health maker.unity.meta
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scenes/health maker.unity.meta
-    projectPath: Assets/Scenes/health maker.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Scenes/Loading.unity
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scenes/Loading.unity
-    projectPath: Assets/Scenes/Loading.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Scenes/Loading.unity.meta
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scenes/Loading.unity.meta
-    projectPath: Assets/Scenes/Loading.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Scenes/NotUsed/health maker.unity
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scenes/NotUsed/health
-      maker.unity
-    projectPath: Assets/Scenes/NotUsed/health maker.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/NotUsed/health maker.unity.meta
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scenes/NotUsed/health
-      maker.unity.meta
-    projectPath: Assets/Scenes/NotUsed/health maker.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/NotUsed/Loading.unity
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scenes/NotUsed/Loading.unity
-    projectPath: Assets/Scenes/NotUsed/Loading.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/NotUsed/Loading.unity.meta
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scenes/NotUsed/Loading.unity.meta
-    projectPath: Assets/Scenes/NotUsed/Loading.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/Player and Game Control/PlayerScript.cs
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/Scripts/Player and
-      Game Control/PlayerScript.cs
-    projectPath: Assets/Scripts/Player and Game Control/PlayerScript.cs
+  - path: .DS_Store
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/.DS_Store
+    projectPath: .DS_Store
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -91,114 +34,294 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/Artifacts/02/026146388bfe4538aad90bceb110b4e7
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/02/026146388bfe4538aad90bceb110b4e7
+    projectPath: Library/Artifacts/02/026146388bfe4538aad90bceb110b4e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/03/039fcb73b51ae3b3ae7bc0874b567dbc
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/03/039fcb73b51ae3b3ae7bc0874b567dbc
     projectPath: Library/Artifacts/03/039fcb73b51ae3b3ae7bc0874b567dbc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/06/06a2fb211eae8667ec56ceece1907a94
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/06/06a2fb211eae8667ec56ceece1907a94
-    projectPath: Library/Artifacts/06/06a2fb211eae8667ec56ceece1907a94
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/08/086a15b53b9d6dd0cf344c0d99f96761
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/08/086a15b53b9d6dd0cf344c0d99f96761
+    projectPath: Library/Artifacts/08/086a15b53b9d6dd0cf344c0d99f96761
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/1e/1edf389dda445cae1adb0224f9323a7e
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/1e/1edf389dda445cae1adb0224f9323a7e
-    projectPath: Library/Artifacts/1e/1edf389dda445cae1adb0224f9323a7e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0c/0ce6f960c12ca0ec166478a387d6508b
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/0c/0ce6f960c12ca0ec166478a387d6508b
+    projectPath: Library/Artifacts/0c/0ce6f960c12ca0ec166478a387d6508b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/21/21cc56b059d4c862595c7f90f8e80c1f
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/21/21cc56b059d4c862595c7f90f8e80c1f
-    projectPath: Library/Artifacts/21/21cc56b059d4c862595c7f90f8e80c1f
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/10/10d2e643cf7f4a6fb79c0bc434c137af
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/10/10d2e643cf7f4a6fb79c0bc434c137af
+    projectPath: Library/Artifacts/10/10d2e643cf7f4a6fb79c0bc434c137af
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/57/57dac2158028b779c04c9686cf73018f
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/57/57dac2158028b779c04c9686cf73018f
-    projectPath: Library/Artifacts/57/57dac2158028b779c04c9686cf73018f
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1d/1d7613134497128f1302c13c130b1551
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/1d/1d7613134497128f1302c13c130b1551
+    projectPath: Library/Artifacts/1d/1d7613134497128f1302c13c130b1551
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/60/60924952c506bedb93e7a57c77c16cc5
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/60/60924952c506bedb93e7a57c77c16cc5
-    projectPath: Library/Artifacts/60/60924952c506bedb93e7a57c77c16cc5
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1f/1fdec182f1df11b243430173e0fc0a07
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/1f/1fdec182f1df11b243430173e0fc0a07
+    projectPath: Library/Artifacts/1f/1fdec182f1df11b243430173e0fc0a07
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/63/633c2ec9cd5359750b3749044577ab6d
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/63/633c2ec9cd5359750b3749044577ab6d
-    projectPath: Library/Artifacts/63/633c2ec9cd5359750b3749044577ab6d
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1f/1fef6c655811765b0682122d9125cc79
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/1f/1fef6c655811765b0682122d9125cc79
+    projectPath: Library/Artifacts/1f/1fef6c655811765b0682122d9125cc79
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/69/69d6b7497d9ef4716656e9e1f53207d9
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/69/69d6b7497d9ef4716656e9e1f53207d9
-    projectPath: Library/Artifacts/69/69d6b7497d9ef4716656e9e1f53207d9
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/21/2160f0167639012d69839e0c9f72e3f3
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/21/2160f0167639012d69839e0c9f72e3f3
+    projectPath: Library/Artifacts/21/2160f0167639012d69839e0c9f72e3f3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6e/6e6a84f3930d31d112b6e3b5fe94ff36
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/6e/6e6a84f3930d31d112b6e3b5fe94ff36
-    projectPath: Library/Artifacts/6e/6e6a84f3930d31d112b6e3b5fe94ff36
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/25/254c3971ac9fac011287925973a795a7
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/25/254c3971ac9fac011287925973a795a7
+    projectPath: Library/Artifacts/25/254c3971ac9fac011287925973a795a7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/81/81ef05afddc310048bfa737085683196
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/81/81ef05afddc310048bfa737085683196
-    projectPath: Library/Artifacts/81/81ef05afddc310048bfa737085683196
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/29/29cc3f66ccaa26ed21b3c5cae65319a5
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/29/29cc3f66ccaa26ed21b3c5cae65319a5
+    projectPath: Library/Artifacts/29/29cc3f66ccaa26ed21b3c5cae65319a5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/83/839731ea4836036a500c16e19ed34e76
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/83/839731ea4836036a500c16e19ed34e76
-    projectPath: Library/Artifacts/83/839731ea4836036a500c16e19ed34e76
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/31/31ffbad7feac71b5befafbc5988da791
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/31/31ffbad7feac71b5befafbc5988da791
+    projectPath: Library/Artifacts/31/31ffbad7feac71b5befafbc5988da791
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/95/959b4a3cc004a486736e6cbdb067b035
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/95/959b4a3cc004a486736e6cbdb067b035
-    projectPath: Library/Artifacts/95/959b4a3cc004a486736e6cbdb067b035
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3e/3ee933276f3a06b310cbf453d721cc54
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/3e/3ee933276f3a06b310cbf453d721cc54
+    projectPath: Library/Artifacts/3e/3ee933276f3a06b310cbf453d721cc54
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ad/ad4429eeaf8bd2e08779cdaea88413f1
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/ad/ad4429eeaf8bd2e08779cdaea88413f1
-    projectPath: Library/Artifacts/ad/ad4429eeaf8bd2e08779cdaea88413f1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/44/4435187bd6d643e24e71519118d4c784
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/44/4435187bd6d643e24e71519118d4c784
+    projectPath: Library/Artifacts/44/4435187bd6d643e24e71519118d4c784
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b5/b543a4370e8322f530906019f5ae3f31
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/b5/b543a4370e8322f530906019f5ae3f31
-    projectPath: Library/Artifacts/b5/b543a4370e8322f530906019f5ae3f31
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/44/444ec2ff594d857f19700d6f53178002
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/44/444ec2ff594d857f19700d6f53178002
+    projectPath: Library/Artifacts/44/444ec2ff594d857f19700d6f53178002
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/bd/bd815536185fc447e34c5c6987deef49
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/bd/bd815536185fc447e34c5c6987deef49
-    projectPath: Library/Artifacts/bd/bd815536185fc447e34c5c6987deef49
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4d/4d63c60597d7e975fc9148cf4a416b76
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/4d/4d63c60597d7e975fc9148cf4a416b76
+    projectPath: Library/Artifacts/4d/4d63c60597d7e975fc9148cf4a416b76
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d4/d4f5ed503eff47abd202147565db7726
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/d4/d4f5ed503eff47abd202147565db7726
-    projectPath: Library/Artifacts/d4/d4f5ed503eff47abd202147565db7726
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4f/4fb7844a0bb7afcd4a24a6bb87143ca2
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/4f/4fb7844a0bb7afcd4a24a6bb87143ca2
+    projectPath: Library/Artifacts/4f/4fb7844a0bb7afcd4a24a6bb87143ca2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/da/da7da59e2ed7300d2164b02e0bd255df
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/da/da7da59e2ed7300d2164b02e0bd255df
-    projectPath: Library/Artifacts/da/da7da59e2ed7300d2164b02e0bd255df
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/52/52e3aeb0a36b1a770155fbf8a0c7532a
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/52/52e3aeb0a36b1a770155fbf8a0c7532a
+    projectPath: Library/Artifacts/52/52e3aeb0a36b1a770155fbf8a0c7532a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ec/ec38b74772195349bde83315bd140e49
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/ec/ec38b74772195349bde83315bd140e49
-    projectPath: Library/Artifacts/ec/ec38b74772195349bde83315bd140e49
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5b/5b636dcccfa89615aa68158adc1a3f44
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/5b/5b636dcccfa89615aa68158adc1a3f44
+    projectPath: Library/Artifacts/5b/5b636dcccfa89615aa68158adc1a3f44
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5d/5d0e0ae14b9bcaf38feb2cc8ba3228bf
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/5d/5d0e0ae14b9bcaf38feb2cc8ba3228bf
+    projectPath: Library/Artifacts/5d/5d0e0ae14b9bcaf38feb2cc8ba3228bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5d/5d501a2353ee86391f7fff197d81485e
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/5d/5d501a2353ee86391f7fff197d81485e
+    projectPath: Library/Artifacts/5d/5d501a2353ee86391f7fff197d81485e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/62/62f28bb33782061e743c4433430650bb
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/62/62f28bb33782061e743c4433430650bb
+    projectPath: Library/Artifacts/62/62f28bb33782061e743c4433430650bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/66/66df28c953786bd6674a89cde5ac0c30
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/66/66df28c953786bd6674a89cde5ac0c30
+    projectPath: Library/Artifacts/66/66df28c953786bd6674a89cde5ac0c30
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6d/6de4856aeeeaca939b3ff84479ed6262
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/6d/6de4856aeeeaca939b3ff84479ed6262
+    projectPath: Library/Artifacts/6d/6de4856aeeeaca939b3ff84479ed6262
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7e/7ee8dbb858bb37ebdd9d33056b790956
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/7e/7ee8dbb858bb37ebdd9d33056b790956
+    projectPath: Library/Artifacts/7e/7ee8dbb858bb37ebdd9d33056b790956
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/88/88edbb65614d6a7f0850881174896dfe
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/88/88edbb65614d6a7f0850881174896dfe
+    projectPath: Library/Artifacts/88/88edbb65614d6a7f0850881174896dfe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/89/89ad37e4497a85ef30b777264eb51a1e
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/89/89ad37e4497a85ef30b777264eb51a1e
+    projectPath: Library/Artifacts/89/89ad37e4497a85ef30b777264eb51a1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8a/8a3e0e72618804363443eb86d58bd8b3
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/8a/8a3e0e72618804363443eb86d58bd8b3
+    projectPath: Library/Artifacts/8a/8a3e0e72618804363443eb86d58bd8b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8e/8e01c431c12a0a1e128fe44dfb818617
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/8e/8e01c431c12a0a1e128fe44dfb818617
+    projectPath: Library/Artifacts/8e/8e01c431c12a0a1e128fe44dfb818617
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/93/931686c660face73f8f9c1bb9285c4f8
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/93/931686c660face73f8f9c1bb9285c4f8
+    projectPath: Library/Artifacts/93/931686c660face73f8f9c1bb9285c4f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/96/9608664caa381d962f1a583a467368c2
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/96/9608664caa381d962f1a583a467368c2
+    projectPath: Library/Artifacts/96/9608664caa381d962f1a583a467368c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a3/a36dc9663bc6a9ff10a386a36c6872c9
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/a3/a36dc9663bc6a9ff10a386a36c6872c9
+    projectPath: Library/Artifacts/a3/a36dc9663bc6a9ff10a386a36c6872c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a6/a6a49a82d29d7e7fbc46cd244d150012
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/a6/a6a49a82d29d7e7fbc46cd244d150012
+    projectPath: Library/Artifacts/a6/a6a49a82d29d7e7fbc46cd244d150012
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c2/c21cbd9dd1738224de86638e669c4e75
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/c2/c21cbd9dd1738224de86638e669c4e75
+    projectPath: Library/Artifacts/c2/c21cbd9dd1738224de86638e669c4e75
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c6/c6e33888c77f5d01260b54ff76893232
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/c6/c6e33888c77f5d01260b54ff76893232
+    projectPath: Library/Artifacts/c6/c6e33888c77f5d01260b54ff76893232
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c8/c8b55caaa759c6d5386ec227e27148d3
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/c8/c8b55caaa759c6d5386ec227e27148d3
+    projectPath: Library/Artifacts/c8/c8b55caaa759c6d5386ec227e27148d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c9/c9ddfa1fef1c4aa7e4e3f7d6e83af25d
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/c9/c9ddfa1fef1c4aa7e4e3f7d6e83af25d
+    projectPath: Library/Artifacts/c9/c9ddfa1fef1c4aa7e4e3f7d6e83af25d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d3/d390cc5b6c5b44b4be115e11a5ec886d
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/d3/d390cc5b6c5b44b4be115e11a5ec886d
+    projectPath: Library/Artifacts/d3/d390cc5b6c5b44b4be115e11a5ec886d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d3/d3cf3a13653c5276a16abd100aacd456
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/d3/d3cf3a13653c5276a16abd100aacd456
+    projectPath: Library/Artifacts/d3/d3cf3a13653c5276a16abd100aacd456
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/dc/dc4c3e90256bdeab43fdadd6c483cb4f
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/dc/dc4c3e90256bdeab43fdadd6c483cb4f
+    projectPath: Library/Artifacts/dc/dc4c3e90256bdeab43fdadd6c483cb4f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e4/e4f7e8a8e206dbc24166aeb73dc86c14
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/e4/e4f7e8a8e206dbc24166aeb73dc86c14
+    projectPath: Library/Artifacts/e4/e4f7e8a8e206dbc24166aeb73dc86c14
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e8/e84259739c6974dd2613d1e353c285ab
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/e8/e84259739c6974dd2613d1e353c285ab
+    projectPath: Library/Artifacts/e8/e84259739c6974dd2613d1e353c285ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e9/e982cbf28158b7518b0ef7b60785a8af
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/e9/e982cbf28158b7518b0ef7b60785a8af
+    projectPath: Library/Artifacts/e9/e982cbf28158b7518b0ef7b60785a8af
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ed/edf3a33b3ab850dd2301ac5ed5adb7e7
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/ed/edf3a33b3ab850dd2301ac5ed5adb7e7
+    projectPath: Library/Artifacts/ed/edf3a33b3ab850dd2301ac5ed5adb7e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f6/f6720790754257ca9f9abd3d5cd0c916
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/f6/f6720790754257ca9f9abd3d5cd0c916
+    projectPath: Library/Artifacts/f6/f6720790754257ca9f9abd3d5cd0c916
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f6/f6bcab02c2b9976c4454c242dcc0161d
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/f6/f6bcab02c2b9976c4454c242dcc0161d
+    projectPath: Library/Artifacts/f6/f6bcab02c2b9976c4454c242dcc0161d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/CollabSnapshot_31944524-b079-44c6-a216-7b42da8df1ef.txt
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Collab/CollabSnapshot_31944524-b079-44c6-a216-7b42da8df1ef.txt
+    projectPath: Library/Collab/CollabSnapshot_31944524-b079-44c6-a216-7b42da8df1ef.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/EditorInstance.json
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
@@ -229,48 +352,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/ShaderCache/1/14716994643c5c027a7cc91bcb17f43a.bin
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ShaderCache/1/14716994643c5c027a7cc91bcb17f43a.bin
-    projectPath: Library/ShaderCache/1/14716994643c5c027a7cc91bcb17f43a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/4/4f3c023f70bb4039fe7c0cd165cb2352.bin
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ShaderCache/4/4f3c023f70bb4039fe7c0cd165cb2352.bin
-    projectPath: Library/ShaderCache/4/4f3c023f70bb4039fe7c0cd165cb2352.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/5/54229ba6bb87201c5d772abd816d3944.bin
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ShaderCache/5/54229ba6bb87201c5d772abd816d3944.bin
-    projectPath: Library/ShaderCache/5/54229ba6bb87201c5d772abd816d3944.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/6/69a85d46fe7043eeedffe662a0f9c455.bin
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ShaderCache/6/69a85d46fe7043eeedffe662a0f9c455.bin
-    projectPath: Library/ShaderCache/6/69a85d46fe7043eeedffe662a0f9c455.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/b/bafb761298f27d2eb53e6fef6d4d5195.bin
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ShaderCache/b/bafb761298f27d2eb53e6fef6d4d5195.bin
-    projectPath: Library/ShaderCache/b/bafb761298f27d2eb53e6fef6d4d5195.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/c/c3acca6f0f0d816059d045eee41e6fa8.bin
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ShaderCache/c/c3acca6f0f0d816059d045eee41e6fa8.bin
-    projectPath: Library/ShaderCache/c/c3acca6f0f0d816059d045eee41e6fa8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/SourceAssetDB
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -283,30 +364,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs/ApiUpdaterCheck.txt
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Logs/ApiUpdaterCheck.txt
-    projectPath: Logs/ApiUpdaterCheck.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Logs/AssetImportWorker0.log
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Logs/AssetImportWorker0.log
     projectPath: Logs/AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Logs/AssetImportWorker0-prev.log
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Logs/AssetImportWorker0-prev.log
-    projectPath: Logs/AssetImportWorker0-prev.log
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Logs/shadercompiler-AssetImportWorker0.log
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Logs/shadercompiler-AssetImportWorker0.log
     projectPath: Logs/shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Logs/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs/shadercompiler-UnityShaderCompiler1.log
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Logs/shadercompiler-UnityShaderCompiler1.log
     projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
@@ -349,33 +424,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/ApiUpdater_CheckMovedFrom91506572073a24c35811854be62dd7f1
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Temp/ApiUpdater_CheckMovedFrom91506572073a24c35811854be62dd7f1
-    projectPath: Temp/ApiUpdater_CheckMovedFrom91506572073a24c35811854be62dd7f1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/CompilationLog.txt
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Temp/CompilationLog.txt
-    projectPath: Temp/CompilationLog.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp/UnityLockfile
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Temp/UnityLockfile
     projectPath: Temp/UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-7fcfd55f48aec4748bf04a7ab229435b
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Temp/UnityTempFile-7fcfd55f48aec4748bf04a7ab229435b
-    projectPath: Temp/UnityTempFile-7fcfd55f48aec4748bf04a7ab229435b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-f349fa758c4b5462c8a78329c80bd43f
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Temp/UnityTempFile-f349fa758c4b5462c8a78329c80bd43f
-    projectPath: Temp/UnityTempFile-f349fa758c4b5462c8a78329c80bd43f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

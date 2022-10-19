@@ -255,12 +255,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 3125ba780001da9459476e0246ea74f9, type: 3}
   currentHealth: 10
   healthBar: {fileID: 2186004395291353820}
-  rotateSpeed: 5
+  rotateSpeed: 8
   bulletPrefab: {fileID: 9047984639050163179, guid: c5ca53318b0f24ec18ad19adb35e3db0,
     type: 3}
   thrustSpeed: 2
-  turnSpeed: 1
-  fireRate: 1
+  turnSpeed: 1.5
 --- !u!114 &7944380395735745251
 MonoBehaviour:
   m_ObjectHideFlags: 0

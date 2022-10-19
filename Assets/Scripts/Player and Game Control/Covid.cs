@@ -109,14 +109,17 @@ public class Covid : MonoBehaviour
             if (this.size < 0.8f)
             {
                 pointEarned = 100;
+                PlayerScript.bulletNumber+=5;
             }
             else if (this.size < 1.2f)
             {
                 pointEarned = 50;
+                PlayerScript.bulletNumber+=3;
             }
             else if (this.size >= 1.2f)
             {
                 pointEarned = 25;
+                PlayerScript.bulletNumber+=2;
             }
             
             FindObjectOfType<GameManager>().CovidDestroyed(this, bullet.player, (int)(pointEarned * pointMultiplier));

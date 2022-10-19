@@ -49,7 +49,7 @@ public class GameManager : MonoBehaviour
         this.explosion.transform.position = this.player.transform.position;
         this.explosion.Play();
 
-        if (this.lives == 0) {
+        if (this.lives == 0 || PlayerScript.bulletNumber == 0) {
             GameOver();
         } else {
             Invoke(nameof(Respawn), respawnTime);

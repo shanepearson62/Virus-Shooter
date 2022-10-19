@@ -9,6 +9,7 @@ public class PlayerScript : MonoBehaviour
     private SpriteRenderer _spriteRenderer;
     public static int maxHealth = 10;
     public int currentHealth = 10;
+    public static int bulletNumber = 150;
     public static int playerHealth = 10;
     public HealthBar healthBar;
     public float rotateSpeed = 5f;
@@ -19,8 +20,8 @@ public class PlayerScript : MonoBehaviour
     private bool _thrusting;
     private float _turnDirection;
     private bool _touched = false;
-    public float fireRate = 0.8f;
-    private float lastShot = 0.0f;
+    private float fireRate = 0.2f;
+    private float nextFire = 0.0f;
 
     PhotonView view;
 
@@ -52,9 +53,10 @@ public class PlayerScript : MonoBehaviour
             // Move and shoot bullets with left mouse click
             if (Input.GetMouseButton(0))
             {
-                if (Time.time > fireRate + lastShot) {
+                if (Time.time > nextFire && bulletNumber>0) {
                     Shoot();
-                    lastShot = Time.time;
+                    nextFire = Time.time + fireRate;
+                    bulletNumber--;
                 }
                 // Locating mouse and player object
                 Vector3 mousePos = Input.mousePosition;
