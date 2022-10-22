@@ -35,6 +35,8 @@ public class PlayerScript : MonoBehaviour
     private void Start()
     {
         view = GetComponent<PhotonView>();
+        playerHealth = 10;
+        bulletNumber = 150;
     }
     private void Awake()
     {

@@ -14,8 +14,8 @@ public class CreateAndJoinRooms : MonoBehaviourPunCallbacks
 
     public void CreateRoom(){
         var strB = Random.Range(100, 999);
-        // create a room using the create room input field text
         PhotonNetwork.CreateRoom(strB+"");
+        //PhotonNetwork.LoadLevel("Game");
     }
 
     public void JoinRoom(){
@@ -26,7 +26,7 @@ public class CreateAndJoinRooms : MonoBehaviourPunCallbacks
     public override void OnJoinedRoom(){
         // called upon joining a room, transition to game scene
         PhotonNetwork.LoadLevel("Game");
-
+        Debug.Log("Joined room");
     }
 
     public void QuickMatch()

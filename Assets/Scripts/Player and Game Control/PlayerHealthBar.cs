@@ -9,7 +9,7 @@ public class PlayerHealthBar : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        _health.value = 10;
+        _health.value = PlayerScript.playerHealth;
     }
 
     // Update is called once per frame
