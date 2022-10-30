@@ -9,10 +9,13 @@ public class CreateAndJoinRooms : MonoBehaviourPunCallbacks
 {
     public InputField createInput;
     public InputField joinInput;
+
+
     
     // private LoadBalancingClient loadBalancingClient;
 
     public void CreateRoom(){
+        PhotonNetwork.OfflineMode = true;
         var strB = Random.Range(100, 999);
         PhotonNetwork.CreateRoom(strB+"");
         //PhotonNetwork.LoadLevel("Game");
