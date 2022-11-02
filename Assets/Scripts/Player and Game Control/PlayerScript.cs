@@ -9,7 +9,7 @@ public class PlayerScript : MonoBehaviour
     private SpriteRenderer _spriteRenderer;
     public static int maxHealth = 10;
     public int currentHealth = 10;
-    public static int bulletNumber = 150;
+    public static int bulletNumber = 200;
     public static int playerHealth = 10;
     public HealthBar healthBar;
     public float rotateSpeed = 5f;
@@ -36,7 +36,7 @@ public class PlayerScript : MonoBehaviour
     {
         view = GetComponent<PhotonView>();
         playerHealth = 10;
-        bulletNumber = 150;
+        bulletNumber = 200;
     }
     private void Awake()
     {

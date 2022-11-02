@@ -24445,6 +24445,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Covid_SetVariant_m1AC4CB5C349E9C2DA46037
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  Vector2_op_UnaryNegation_mA3AA3A53CD43237B0BA7AC57C09A0468A940D7C5_inline (Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  ___a0, const RuntimeMethod* method);
 // UnityEngine.Vector3 UnityEngine.Quaternion::op_Multiply(UnityEngine.Quaternion,UnityEngine.Vector3)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  Quaternion_op_Multiply_mDC5F913E6B21FEC72AB2CF737D34CC6C7A69803D (Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4  ___rotation0, Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  ___point1, const RuntimeMethod* method);
+// System.Void Photon.Pun.PhotonNetwork::set_OfflineMode(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhotonNetwork_set_OfflineMode_m183543B3C4F94808D5138941F86B392ECF3C7839 (bool ___value0, const RuntimeMethod* method);
 // System.Boolean Photon.Pun.PhotonNetwork::CreateRoom(System.String,Photon.Realtime.RoomOptions,Photon.Realtime.TypedLobby,System.String[])
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PhotonNetwork_CreateRoom_m364ACA83E6A534AC91C938B16FCF3A5DB1A0ED3D (String_t* ___roomName0, RoomOptions_t9923C5A201832F8328FFCA30828018311BA60A2F * ___roomOptions1, TypedLobby_tD368895EDDB4706F8B68ABCA542E3E697845B1C5 * ___typedLobby2, StringU5BU5D_tACEBFEDE350025B554CD507C9AE8FFE49359549A* ___expectedUsers3, const RuntimeMethod* method);
 // System.Boolean Photon.Pun.PhotonNetwork::JoinRoom(System.String,System.String[])
@@ -30299,6 +30301,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CreateAndJoinRooms_CreateRoom_mA2DB5EE34
 	String_t* G_B2_0 = NULL;
 	String_t* G_B1_0 = NULL;
 	{
+		// PhotonNetwork.OfflineMode = true;
+		IL2CPP_RUNTIME_CLASS_INIT(PhotonNetwork_tA2C1B90471C5934B55DF1921941466208D3054EC_il2cpp_TypeInfo_var);
+		PhotonNetwork_set_OfflineMode_m183543B3C4F94808D5138941F86B392ECF3C7839((bool)1, /*hidden argument*/NULL);
 		// var strB = Random.Range(100, 999);
 		int32_t L_0;
 		L_0 = Random_Range_m4B3A0037ACA057F33C94508F908546B9317D996A(((int32_t)100), ((int32_t)999), /*hidden argument*/NULL);
@@ -30311,14 +30316,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CreateAndJoinRooms_CreateRoom_mA2DB5EE34
 		if (L_2)
 		{
 			G_B2_0 = L_2;
-			goto IL_001d;
+			goto IL_0023;
 		}
 	}
 	{
 		G_B2_0 = _stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709;
 	}
 
-IL_001d:
+IL_0023:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(PhotonNetwork_tA2C1B90471C5934B55DF1921941466208D3054EC_il2cpp_TypeInfo_var);
 		bool L_3;
