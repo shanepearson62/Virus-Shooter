@@ -7,18 +7,28 @@ using TMPro;
 public class HighestScore : MonoBehaviour
 {
     public TextMeshProUGUI textmeshPro;
-    public int highestScore;
+    public static int highestScore;
+    public static int currentHighest;
     // Start is called before the first frame update
     void Start()
     {
-        highestScore = ScoringSystem.scoreValue;
-        textmeshPro.SetText("Your Highest Score: " + highestScore);
+        if(highestScore > currentHighest){
+            textmeshPro.SetText("Your Highest Score: " + highestScore);
+            currentHighest = highestScore;
+        } else{
+            textmeshPro.SetText("Your Highest Score: " + currentHighest);
+        }
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        highestScore = ScoringSystem.scoreValue;
-        textmeshPro.SetText("Your Highest Score: " + highestScore);
+        if(highestScore > currentHighest){
+            textmeshPro.SetText("Your Highest Score: " + highestScore);
+            currentHighest = highestScore;
+        } else{
+            textmeshPro.SetText("Your Highest Score: " + currentHighest);
+        }
     }
 }

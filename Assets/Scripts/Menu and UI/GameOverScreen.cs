@@ -9,7 +9,7 @@ using UnityEngine.SceneManagement;
 public class GameOverScreen : MonoBehaviour
 {
     public TextMeshProUGUI pointsText;
-    public int score;
+    public static int score;
     //public Text text;
     public void Setup (int score) {
         gameObject.SetActive(true);
@@ -20,7 +20,10 @@ public class GameOverScreen : MonoBehaviour
     }
 
     void Update() {
-        pointsText.SetText("Points: " + PlayerPrefs.GetInt("GameScore").ToString());
+        score = PlayerPrefs.GetInt("GameScore");
+        HighestScore.highestScore = score;
+        pointsText.SetText("Points: " + score.ToString());
+        //pointsText.SetText("Points: " + PlayerPrefs.GetInt("GameScore").ToString());
         pointsText.ForceMeshUpdate(true);
         if (Input.GetKey(KeyCode.Escape))
         {

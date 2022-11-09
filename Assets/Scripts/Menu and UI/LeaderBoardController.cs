@@ -22,7 +22,7 @@ public class LeaderBoardController : MonoBehaviour
         });
     }
     public void SubmitScore(){
-        LootLockerSDKManager.SubmitScore(MemberID.text, int.Parse(PlayerScore.text), ID, (response)=>
+        LootLockerSDKManager.SubmitScore(MemberID.text, HighestScore.currentHighest, ID, (response)=>
         {
             if(response.success)
             {   
