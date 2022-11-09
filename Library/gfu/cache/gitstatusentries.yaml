@@ -13,9 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-11-02T14:20:17.187-04:00
-  initializedAtString: 2022-11-02T14:20:17.187-04:00
+  lastUpdatedAtString: 2022-11-09T15:00:11.943-05:00
+  initializedAtString: 2022-11-09T14:56:33.045-05:00
   entries:
+  - path: Assets/HighestScore.cs
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/HighestScore.cs
+    projectPath: Assets/HighestScore.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/HighestScore.cs.meta
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Assets/HighestScore.cs.meta
+    projectPath: Assets/HighestScore.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/ArtifactDB
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ArtifactDB
     projectPath: Library/ArtifactDB
@@ -28,15 +40,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/3a/3aa3608e38659607f53b2bb74ea3b706
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/3a/3aa3608e38659607f53b2bb74ea3b706
-    projectPath: Library/Artifacts/3a/3aa3608e38659607f53b2bb74ea3b706
+  - path: Library/Artifacts/54/5409f067368020ab66ae5285a084e477
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/54/5409f067368020ab66ae5285a084e477
+    projectPath: Library/Artifacts/54/5409f067368020ab66ae5285a084e477
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/86/86a660c91e3b6daf28d1ee7050cd212b
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/86/86a660c91e3b6daf28d1ee7050cd212b
+    projectPath: Library/Artifacts/86/86a660c91e3b6daf28d1ee7050cd212b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library/Artifacts/d4/d4214f1a326360de5f010298fcf6c38f
-    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/d4/d4214f1a326360de5f010298fcf6c38f
-    projectPath: Library/Artifacts/d4/d4214f1a326360de5f010298fcf6c38f
+  - path: Library/Artifacts/e9/e94c0f2d0a6b1d4c1e6b931302e875f7
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/Artifacts/e9/e94c0f2d0a6b1d4c1e6b931302e875f7
+    projectPath: Library/Artifacts/e9/e94c0f2d0a6b1d4c1e6b931302e875f7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -46,12 +64,36 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/SceneVisibilityState.asset
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/SourceAssetDB
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -74,8 +116,8 @@ MonoBehaviour:
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Logs/AssetImportWorker0-prev.log
     projectPath: Logs/AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs/shadercompiler-AssetImportWorker0.log
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Logs/shadercompiler-AssetImportWorker0.log
     projectPath: Logs/shadercompiler-AssetImportWorker0.log
@@ -124,9 +166,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Temp/CompilationLog.txt
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp/UnityLockfile
     fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Temp/UnityLockfile
     projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8bd798ff425804daa8f731a6e9b64252
+    fullPath: /Users/chenkaitao/Documents/Virus-Shooter/Temp/UnityTempFile-8bd798ff425804daa8f731a6e9b64252
+    projectPath: Temp/UnityTempFile-8bd798ff425804daa8f731a6e9b64252
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

@@ -7,7 +7,7 @@ using TMPro;
 public class ScoringSystem : MonoBehaviour
 {
     public TextMeshProUGUI scoreText;
-    public int scoreValue; 
+    public static int scoreValue; 
     public AudioSource collectSound;
 
     void OnTriggerEnter(Collider other)
