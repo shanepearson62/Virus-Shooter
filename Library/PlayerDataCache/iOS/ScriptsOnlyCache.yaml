@@ -33,10 +33,6 @@ ScriptsOnlyBuild:
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
     - GitHub.Unity.EnvironmentCache
-    - GitHub.Unity.GitAheadBehindCache
-    - GitHub.Unity.GitLocksCache
-    - GitHub.Unity.GitStatusCache
-    - GitHub.Unity.RepositoryInfoCache
     PhotonUnityNetworking.Demos.dll:
     - Photon.Pun.Demo.Asteroids.Asteroid
     - Photon.Pun.Demo.Asteroids.Bullet

@@ -33346,8 +33346,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerScript_Start_m23E83EF89671F830F892
 		// playerHealth = 10;
 		IL2CPP_RUNTIME_CLASS_INIT(PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_il2cpp_TypeInfo_var);
 		((PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_StaticFields*)il2cpp_codegen_static_fields_for(PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_il2cpp_TypeInfo_var))->set_playerHealth_10(((int32_t)10));
-		// bulletNumber = 150;
-		((PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_StaticFields*)il2cpp_codegen_static_fields_for(PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_il2cpp_TypeInfo_var))->set_bulletNumber_9(((int32_t)150));
+		// bulletNumber = 200;
+		((PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_StaticFields*)il2cpp_codegen_static_fields_for(PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_il2cpp_TypeInfo_var))->set_bulletNumber_9(((int32_t)200));
 		// }
 		return;
 	}
@@ -33742,8 +33742,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerScript__cctor_m13B448577E4EB04D329
 	{
 		// public static int maxHealth = 10;
 		((PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_StaticFields*)il2cpp_codegen_static_fields_for(PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_il2cpp_TypeInfo_var))->set_maxHealth_7(((int32_t)10));
-		// public static int bulletNumber = 150;
-		((PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_StaticFields*)il2cpp_codegen_static_fields_for(PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_il2cpp_TypeInfo_var))->set_bulletNumber_9(((int32_t)150));
+		// public static int bulletNumber = 200;
+		((PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_StaticFields*)il2cpp_codegen_static_fields_for(PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_il2cpp_TypeInfo_var))->set_bulletNumber_9(((int32_t)200));
 		// public static int playerHealth = 10;
 		((PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_StaticFields*)il2cpp_codegen_static_fields_for(PlayerScript_t17CE78E87B42618DBFBECC97B568BDD319AEE805_il2cpp_TypeInfo_var))->set_playerHealth_10(((int32_t)10));
 		return;

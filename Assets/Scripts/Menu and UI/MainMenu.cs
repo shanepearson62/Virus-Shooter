@@ -32,4 +32,12 @@ public class MainMenu : MonoBehaviour
 	public void Instructions() {
 		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 6);
 	}
+
+	public void LeaderBoardBack(){
+		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 7);
+	}
+
+	public void LeaderBoardTo(){
+		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 7);
+	}
 }

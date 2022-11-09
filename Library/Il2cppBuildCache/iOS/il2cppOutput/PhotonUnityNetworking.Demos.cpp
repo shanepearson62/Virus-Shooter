@@ -24562,11 +24562,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Bullet_Start_m7BDD1AA506DED78330F820A3D3
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		// Destroy(gameObject, 3.0f);
+		// Destroy(gameObject, 1.5f);
 		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_0;
 		L_0 = Component_get_gameObject_m55DC35B149AFB9157582755383BA954655FE0C5B(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
-		Object_Destroy_mAAAA103F4911E9FA18634BF9605C28559F5E2AC7(L_0, (3.0f), /*hidden argument*/NULL);
+		Object_Destroy_mAAAA103F4911E9FA18634BF9605C28559F5E2AC7(L_0, (1.5f), /*hidden argument*/NULL);
 		// }
 		return;
 	}
