@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class PlayerScript : MonoBehaviour
 {
     public GameManager manager;
-    public Sprite[] sprites;
+    public Sprite sprites;
     private SpriteRenderer _spriteRenderer;
     public static int maxHealth = 10;
     public int currentHealth = 10;
@@ -22,13 +22,15 @@ public class PlayerScript : MonoBehaviour
     private bool _touched = false;
     private float fireRate = 0.2f;
     private float nextFire = 0.0f;
+    protected float bulletTimer;
+    public int DelayAmount = 5;
 
     PhotonView view;
 
     //this function is called in the spawner to change the color
     public void Color(int players, GameManager m) {
         Debug.Log("COLOR CHANGE CALLED");
-        _spriteRenderer.sprite = sprites[players % 4];
+        _spriteRenderer.sprite = sprites;
         manager = m;
     }
 
@@ -48,6 +50,12 @@ public class PlayerScript : MonoBehaviour
 
     private void Update()
     {
+        bulletTimer += Time.deltaTime;
+        if(bulletTimer > DelayAmount){
+            bulletTimer = 0;
+            bulletNumber ++;
+        }
+
         if (view.IsMine) //this is used for photon so that you only control one player
         {
             
