@@ -28,7 +28,8 @@ public class CovidSpawner : MonoBehaviour
             int variant = Random.Range(0, 3);
             Covid covid = covidobj.GetComponent<Covid>();
             covid.SetVariant(variant);
-            covid.size = Random.Range(covid.minSize, covid.maxSize);
+            covid.size = Random.Range(3, 6);
+            //covid.size = Random.Range(covid.minSize, covid.maxSize);
             covid.setTrajectory(rotation * -spawnDirection);
 
             /*Covid covid = covidobj.GetComponent<Covid>();

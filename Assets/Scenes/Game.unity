@@ -7170,7 +7170,7 @@ GameObject:
   - component: {fileID: 1403215342}
   - component: {fileID: 1403215340}
   m_Layer: 0
-  m_Name: Covid Spawner
+  m_Name: Mine Spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
