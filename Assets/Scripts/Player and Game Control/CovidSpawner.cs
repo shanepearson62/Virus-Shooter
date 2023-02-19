@@ -8,6 +8,7 @@ public class CovidSpawner : MonoBehaviour
    public float spawnDistance = 11.0f;
     public float trajectoryVariance = 15.0f;
     public GameObject covidPrefab;
+    public List<GameObject> enemyPrefabs = new List<GameObject>();
     public float spawnRate = 2.0f;
     public int spawnAmount = 1;
     public void Start() {
@@ -23,7 +24,9 @@ public class CovidSpawner : MonoBehaviour
             float variance = Random.Range(-this.trajectoryVariance, this.trajectoryVariance);
             Quaternion rotation = Quaternion.AngleAxis(variance, Vector3.forward);
 
-            GameObject covidobj = PhotonNetwork.Instantiate(this.covidPrefab.name, spawnpoint, rotation);
+            int enemyIndex = Random.Range(0, 2);
+            GameObject covidobj = PhotonNetwork.Instantiate(enemyPrefabs[enemyIndex].name, spawnpoint, rotation);
+            //GameObject covidobj = PhotonNetwork.Instantiate(this.covidPrefab.name, spawnpoint, rotation);
 
             int variant = Random.Range(0, 3);
             Covid covid = covidobj.GetComponent<Covid>();

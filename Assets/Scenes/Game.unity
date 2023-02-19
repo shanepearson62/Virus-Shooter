@@ -7170,7 +7170,7 @@ GameObject:
   - component: {fileID: 1403215342}
   - component: {fileID: 1403215340}
   m_Layer: 0
-  m_Name: Mine Spawner
+  m_Name: Ennemy Spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7220,6 +7220,9 @@ MonoBehaviour:
   trajectoryVariance: 15
   covidPrefab: {fileID: 1018751473113633715, guid: 005815f9ddd164244a43113f89f85afb,
     type: 3}
+  enemyPrefabs:
+  - {fileID: 1018751473113633715, guid: 005815f9ddd164244a43113f89f85afb, type: 3}
+  - {fileID: 1018751473113633715, guid: fcff728f6fdbd9146b39423ecc61399b, type: 3}
   spawnRate: 2
   spawnAmount: 1
 --- !u!1 &1422010509
