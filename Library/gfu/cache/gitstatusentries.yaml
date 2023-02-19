@@ -13,42 +13,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-02-19T09:59:08.650-08:00
-  initializedAtString: 2023-02-19T09:40:49.457-08:00
+  lastUpdatedAtString: 2023-02-19T10:49:21.127-08:00
+  initializedAtString: 2023-02-19T10:21:10.258-08:00
   entries:
-  - path: .gitignore
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\.gitignore
-    projectPath: .gitignore
+  - path: Assets\Resources\Fish 1.prefab
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\Fish
+      1.prefab
+    projectPath: Assets\Resources\Fish 1.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Resources\Fish 1.prefab.meta
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\Fish
+      1.prefab.meta
+    projectPath: Assets\Resources\Fish 1.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Fish 2.prefab
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\Fish
+      2.prefab
+    projectPath: Assets\Resources\Fish 2.prefab
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Fish 2.prefab.meta
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\Fish
+      2.prefab.meta
+    projectPath: Assets\Resources\Fish 2.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Resources\Fish.prefab
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\Fish.prefab
     projectPath: Assets\Resources\Fish.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Resources\Fish.prefab.meta
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\Fish.prefab.meta
     projectPath: Assets\Resources\Fish.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Resources\Mine.prefab
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\Mine.prefab
+    projectPath: Assets\Resources\Mine.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\tutorial image.png
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\tutorial
+      image.png
+    projectPath: Assets\Resources\tutorial image.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\tutorial image.png.meta
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Resources\tutorial
+      image.png.meta
+    projectPath: Assets\Resources\tutorial image.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -58,9 +82,29 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scenes\Instructions.unity
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Scenes\Instructions.unity
+    projectPath: Assets\Scenes\Instructions.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Menu.unity
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Scenes\Menu.unity
     projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Player and Game Control\Covid.cs
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Scripts\Player
+      and Game Control\Covid.cs
+    projectPath: Assets\Scripts\Player and Game Control\Covid.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Player and Game Control\Covid.cs.meta
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Scripts\Player
+      and Game Control\Covid.cs.meta
+    projectPath: Assets\Scripts\Player and Game Control\Covid.cs.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -77,102 +121,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\1d\1d32a27d4e4a3b54d9eddca36b84989a
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\1d\1d32a27d4e4a3b54d9eddca36b84989a
-    projectPath: Library\Artifacts\1d\1d32a27d4e4a3b54d9eddca36b84989a
+  - path: Library\Artifacts\29\294788daf9e65c72ed9fec08a2fbc49a
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\29\294788daf9e65c72ed9fec08a2fbc49a
+    projectPath: Library\Artifacts\29\294788daf9e65c72ed9fec08a2fbc49a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3c\3cfc0e74f9d31e87492f7f32d6f9237b
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\3c\3cfc0e74f9d31e87492f7f32d6f9237b
-    projectPath: Library\Artifacts\3c\3cfc0e74f9d31e87492f7f32d6f9237b
+  - path: Library\Artifacts\9c\9cbda8dca1ed339200826007ae53821d
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\9c\9cbda8dca1ed339200826007ae53821d
+    projectPath: Library\Artifacts\9c\9cbda8dca1ed339200826007ae53821d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\42\429e06dd38120bceb83c420097924cfe
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\42\429e06dd38120bceb83c420097924cfe
-    projectPath: Library\Artifacts\42\429e06dd38120bceb83c420097924cfe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5f\5f712e83d800c709afe170e0a3625693
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\5f\5f712e83d800c709afe170e0a3625693
-    projectPath: Library\Artifacts\5f\5f712e83d800c709afe170e0a3625693
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
-    projectPath: Library\Artifacts\8e\8e2b809a425bcc4780a3d7eaeb1165ff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a7\a7e09f89c83d9d2fd9f77a5ec52eaaf2
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\a7\a7e09f89c83d9d2fd9f77a5ec52eaaf2
-    projectPath: Library\Artifacts\a7\a7e09f89c83d9d2fd9f77a5ec52eaaf2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
-    projectPath: Library\Artifacts\a8\a8e298836570a6964e82ddd3dfd78697
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d0\d04a4433e2932787354c519d27e4d6c2
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\d0\d04a4433e2932787354c519d27e4d6c2
-    projectPath: Library\Artifacts\d0\d04a4433e2932787354c519d27e4d6c2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d4\d4a75bc0e23f427d82ad0088a921ef2b
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\d4\d4a75bc0e23f427d82ad0088a921ef2b
-    projectPath: Library\Artifacts\d4\d4a75bc0e23f427d82ad0088a921ef2b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\dc\dc6723e0742e38212e5b1e1c33737e30
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\dc\dc6723e0742e38212e5b1e1c33737e30
-    projectPath: Library\Artifacts\dc\dc6723e0742e38212e5b1e1c33737e30
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
-    projectPath: Library\Artifacts\df\df5b2aa126cfe895692d2bfb25a2ad2a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e0\e0b8394c9dd9d5b63e2e9ef731260783
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\e0\e0b8394c9dd9d5b63e2e9ef731260783
-    projectPath: Library\Artifacts\e0\e0b8394c9dd9d5b63e2e9ef731260783
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e8\e8220c71488ec76c32259c6361520c59
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\e8\e8220c71488ec76c32259c6361520c59
-    projectPath: Library\Artifacts\e8\e8220c71488ec76c32259c6361520c59
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
-    projectPath: Library\Artifacts\f3\f31b7d323e0477ddb64d1ca391d2e354
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\ff1c683ceae683fbadce72df23026aaa
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\ff\ff1c683ceae683fbadce72df23026aaa
-    projectPath: Library\Artifacts\ff\ff1c683ceae683fbadce72df23026aaa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -182,6 +142,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -203,426 +169,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\CHANGELOG.md
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\CHANGELOG.md
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\CHANGELOG.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\CONTRIBUTING.md
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\CONTRIBUTING.md
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\CONTRIBUTING.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\index.md
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\index.md
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\index.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\README.md
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\README.md
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\README.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\TableOfContents.md
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\TableOfContents.md
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\TableOfContents.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\using-visual-studio-editor.md
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\using-visual-studio-editor.md
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Documentation~\using-visual-studio-editor.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.pbxproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\contents.xcworkspacedata
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration\Info.plist
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\AppleEventIntegration\main.mm
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\howtobuild.txt
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\howtobuild.txt
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AppleEventIntegration~\howtobuild.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AssemblyInfo.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AssemblyInfo.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AssemblyInfo.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AsyncOperation.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AsyncOperation.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\AsyncOperation.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Cli.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Cli.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Cli.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\com.unity.ide.visualstudio.asmdef
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\com.unity.ide.visualstudio.asmdef
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\com.unity.ide.visualstudio.asmdef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\BStrHolder.h
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\BStrHolder.h
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\BStrHolder.h
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\CMakeLists.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\COMIntegration.cpp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\ComPtr.h
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\ComPtr.h
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\ComPtr.h
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\dte80a.tlh
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\dte80a.tlh
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\dte80a.tlh
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\howtobuild.txt
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\howtobuild.txt
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\COMIntegration\COMIntegration~\howtobuild.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Discovery.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Discovery.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Discovery.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\FileUtility.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\FileUtility.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\FileUtility.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Image.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Image.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Image.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\KnownAssemblies.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\KnownAssemblies.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\KnownAssemblies.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Deserializer.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Deserializer.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Deserializer.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\ExceptionEventArgs.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\ExceptionEventArgs.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\ExceptionEventArgs.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Message.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Message.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Message.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\MessageEventArgs.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\MessageEventArgs.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\MessageEventArgs.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\MessageType.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\MessageType.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\MessageType.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Messenger.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Messenger.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Messenger.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Serializer.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Serializer.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\Serializer.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\TcpClient.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\TcpClient.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\TcpClient.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\TcpListener.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\TcpListener.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\TcpListener.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\UdpSocket.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\UdpSocket.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Messaging\UdpSocket.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\.gitattributes
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\.gitattributes
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\.gitattributes
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\AppleEventIntegration.bundle\Contents\_CodeSignature\CodeResources
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Plugins\AppleEventIntegration.bundle\Contents\Info.plist
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProcessRunner.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProcessRunner.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProcessRunner.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\AssemblyNameProvider.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\AssemblyNameProvider.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\AssemblyNameProvider.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\FileIOProvider.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\FileIOProvider.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\FileIOProvider.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\GUIDProvider.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\GUIDProvider.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\GUIDProvider.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectGeneration.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectGeneration.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectGeneration.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectGenerationFlag.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectGenerationFlag.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectGenerationFlag.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectProperties.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectProperties.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\ProjectGeneration\ProjectProperties.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Solution.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Solution.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Solution.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionParser.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionParser.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionParser.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionProjectEntry.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionProjectEntry.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionProjectEntry.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionProperties.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionProperties.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\SolutionProperties.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Symbols.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Symbols.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Symbols.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestAdaptor.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestAdaptor.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestAdaptor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestResultAdaptor.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestResultAdaptor.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestResultAdaptor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestRunnerApiListener.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestRunnerApiListener.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestRunnerApiListener.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestRunnerCallbacks.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestRunnerCallbacks.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestRunnerCallbacks.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestStatusAdaptor.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestStatusAdaptor.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\Testing\TestStatusAdaptor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\UnityInstallation.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\UnityInstallation.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\UnityInstallation.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\UsageUtility.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\UsageUtility.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\UsageUtility.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VersionPair.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VersionPair.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VersionPair.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioEditor.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioEditor.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioInstallation.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioInstallation.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioInstallation.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioIntegration.cs
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioIntegration.cs
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\Editor\VisualStudioIntegration.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\LICENSE.md
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\LICENSE.md
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\LICENSE.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\package.json
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\package.json
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\package.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ThirdPartyNotices.md
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ThirdPartyNotices.md
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ThirdPartyNotices.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ValidationConfig.json
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ValidationConfig.json
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ValidationConfig.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ValidationExceptions.json
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ValidationExceptions.json
-    projectPath: Library\PackageCache\com.unity.ide.visualstudio@2.0.17\ValidationExceptions.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -641,21 +187,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -677,6 +229,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs\ApiUpdaterCheck.txt
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\ApiUpdaterCheck.txt
+    projectPath: Logs\ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
@@ -689,75 +247,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe12.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe12.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe12.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe13.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe13.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe13.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe14.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe14.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe14.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe15.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe15.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe15.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -773,201 +265,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe9.log
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe9.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PhotonChat.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PhotonChat.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PhotonChat.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PhotonRealtime.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PhotonRealtime.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PhotonRealtime.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PhotonUnityNetworking.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PhotonUnityNetworking.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PhotonUnityNetworking.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PhotonUnityNetworking.Demos.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Demos.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PhotonUnityNetworking.Demos.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PhotonUnityNetworking.Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PhotonUnityNetworking.Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PhotonUnityNetworking.Utilities.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Utilities.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PhotonUnityNetworking.Utilities.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PlayFab.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PlayFab.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PlayFab.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PlayFabEditorExtensions.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PlayFabEditorExtensions.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PlayFabEditorExtensions.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PlayFabSDKEditor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PlayFabSDKEditor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PlayFabSDKEditor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\PunDemos.DemoSlotcarEditor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\obj\Debug\PunDemos.DemoSlotcarEditor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\PunDemos.DemoSlotcarEditor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PhotonChat.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PhotonChat.csproj
-    projectPath: PhotonChat.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PhotonRealtime.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PhotonRealtime.csproj
-    projectPath: PhotonRealtime.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PhotonUnityNetworking.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PhotonUnityNetworking.csproj
-    projectPath: PhotonUnityNetworking.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PhotonUnityNetworking.Demos.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PhotonUnityNetworking.Demos.csproj
-    projectPath: PhotonUnityNetworking.Demos.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PhotonUnityNetworking.Editor.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PhotonUnityNetworking.Editor.csproj
-    projectPath: PhotonUnityNetworking.Editor.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PhotonUnityNetworking.Utilities.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PhotonUnityNetworking.Utilities.csproj
-    projectPath: PhotonUnityNetworking.Utilities.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PhotonUnityNetworking.Utilities.Culling.Editor.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PhotonUnityNetworking.Utilities.Culling.Editor.csproj
-    projectPath: PhotonUnityNetworking.Utilities.Culling.Editor.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj
-    projectPath: PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PlayFab.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PlayFab.csproj
-    projectPath: PlayFab.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PlayFabEditorExtensions.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PlayFabEditorExtensions.csproj
-    projectPath: PlayFabEditorExtensions.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PlayFabSDKEditor.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PlayFabSDKEditor.csproj
-    projectPath: PlayFabSDKEditor.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PunDemos.DemoHubEditor.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PunDemos.DemoHubEditor.csproj
-    projectPath: PunDemos.DemoHubEditor.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PunDemos.DemoSlotcarEditor.csproj
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\PunDemos.DemoSlotcarEditor.csproj
-    projectPath: PunDemos.DemoSlotcarEditor.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Virus-Shooter.sln
-    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Virus-Shooter.sln
-    projectPath: Virus-Shooter.sln
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

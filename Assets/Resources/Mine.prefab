@@ -162,6 +162,7 @@ MonoBehaviour:
   scoreText: {fileID: 0}
   scoreValue: 0
   splat: {fileID: 2147397592722997974}
+  player: {fileID: 0}
 --- !u!114 &-4601111047956371364
 MonoBehaviour:
   m_ObjectHideFlags: 0

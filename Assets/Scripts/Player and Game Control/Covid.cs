@@ -31,6 +31,8 @@ public class Covid : MonoBehaviour
     public int scoreValue;
     public AudioSource splat;
 
+    public Transform player;
+
     private void Awake()
     {
         _spriteRenderer = GetComponent<SpriteRenderer>();
@@ -56,8 +58,27 @@ public class Covid : MonoBehaviour
             startTime = currTime;
             speed += 2.0f;
         }
+
+        if (Vector3.Distance(transform.position, player.position) > 1f)
+        {
+            RotateTowardsTarget();
+        }
     }
 
+    public void getPlayer(Transform target)
+    {
+        player = target;
+    }
+
+    private void RotateTowardsTarget()
+    {
+        var offset = 90f;
+        Vector2 direction = player.position - transform.position;
+        direction.Normalize();
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;       
+        transform.rotation = Quaternion.Euler(Vector3.forward * (angle + offset));
+    }
+    
     public void SetVariant(int n)
     {
         variant = n;

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657815, g: 0.49641192, b: 0.57481617, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1416,7 +1416,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: 25}
-  m_SizeDelta: {x: 100, y: 50}
+  m_SizeDelta: {x: 116.792, y: 85.201}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &772900046
 MonoBehaviour:
@@ -1438,7 +1438,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 904d1ea189b0c498d8058dff6a566d0f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c1322034bc656774b93644b9c9161b16, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2113,7 +2113,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pointsText: {fileID: 84965097}
-  score: 0
 --- !u!114 &1217568780
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2414,7 +2413,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pointsText: {fileID: 84965097}
-  score: 0
 --- !u!114 &1321404893
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2660,7 +2658,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Shoot virus particles to survive and earn points
+  m_text: 'Shoot mines and fish to survive and earn points
 
 '
   m_isRightToLeft: 0
@@ -2999,7 +2997,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Tap repeatedly to shoot bullets at incoming virus particles.
+  m_text: Tap repeatedly to shoot bullets at incoming mines and fish.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b145ce07389464f96b49f6e2b147dfa4, type: 2}
   m_sharedMaterial: {fileID: -353085866991394323, guid: b145ce07389464f96b49f6e2b147dfa4,

@@ -7218,10 +7218,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnDistance: 14
   trajectoryVariance: 15
-  covidPrefab: {fileID: 1018751473113633715, guid: 005815f9ddd164244a43113f89f85afb,
-    type: 3}
+  player: {fileID: 7944380395735745250, guid: f940dd1aa4eba48e1a966399c098631e, type: 3}
   enemyPrefabs:
   - {fileID: 1018751473113633715, guid: 005815f9ddd164244a43113f89f85afb, type: 3}
+  - {fileID: 1018751473113633715, guid: 0e71ec247db7a994b92c142afd300780, type: 3}
   - {fileID: 1018751473113633715, guid: fcff728f6fdbd9146b39423ecc61399b, type: 3}
   spawnRate: 2
   spawnAmount: 1
