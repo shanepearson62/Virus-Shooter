@@ -13,23 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2023-02-19T09:59:31.701-08:00
-  initializedAtString: 2023-02-19T09:45:51.859-08:00
+  lastUpdatedAtString: 2023-02-20T02:14:43.998-06:00
+  initializedAtString: 2023-02-20T01:34:46.612-06:00
   localBranches:
   - name: master
     tracking: origin/master
-  - name: yufeng-branch
-    tracking: origin/yufeng-branch
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/master
-    tracking: '[None]'
-  - name: origin/yufeng-branch
-    tracking: '[None]'
-  - name: upstream/HEAD
-    tracking: '[None]'
-  - name: upstream/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -39,40 +29,21 @@ MonoBehaviour:
     host: 
     function: 0
     token: 
-  - name: upstream
-    url: https://github.com/kxc663/Virus-Shooter.git
-    login: 
-    user: 
-    host: 
-    function: 0
-    token: 
   localConfigBranches:
     keys:
     - master
-    - yufeng-branch
     values:
     - name: master
       remote:
         name: origin
         url: https://github.com/Evan-Lew/Virus-Shooter.git
       trackingBranch: master
-    - name: yufeng-branch
-      remote:
-        name: origin
-        url: https://github.com/Evan-Lew/Virus-Shooter.git
-      trackingBranch: yufeng-branch
   remoteConfigBranches:
     keys:
     - origin
-    - upstream
     subKeys:
     - Values:
       - HEAD
-      - master
-      - yufeng-branch
-    - Values:
-      - HEAD
-      - master
     subKeyValues:
     - Values:
       - name: HEAD
@@ -80,33 +51,9 @@ MonoBehaviour:
           name: origin
           url: https://github.com/Evan-Lew/Virus-Shooter.git
         trackingBranch: 
-      - name: master
-        remote:
-          name: origin
-          url: https://github.com/Evan-Lew/Virus-Shooter.git
-        trackingBranch: 
-      - name: yufeng-branch
-        remote:
-          name: origin
-          url: https://github.com/Evan-Lew/Virus-Shooter.git
-        trackingBranch: 
-    - Values:
-      - name: HEAD
-        remote:
-          name: upstream
-          url: https://github.com/kxc663/Virus-Shooter.git
-        trackingBranch: 
-      - name: master
-        remote:
-          name: upstream
-          url: https://github.com/kxc663/Virus-Shooter.git
-        trackingBranch: 
   configRemotes:
     keys:
     - origin
-    - upstream
     values:
     - name: origin
       url: https://github.com/Evan-Lew/Virus-Shooter.git
-    - name: upstream
-      url: https://github.com/kxc663/Virus-Shooter.git
