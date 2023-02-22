@@ -13,24 +13,48 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-02-20T14:30:28.106-06:00
-  initializedAtString: 2023-02-20T14:27:27.786-06:00
+  lastUpdatedAtString: 2023-02-21T23:20:45.310-06:00
+  initializedAtString: 2023-02-21T22:42:25.203-06:00
   entries:
-  - path: Assets\New Resources\Underwater Diving\Animations\Bubbles.anim
-    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Animations\Bubbles.anim
-    projectPath: Assets\New Resources\Underwater Diving\Animations\Bubbles.anim
+  - path: Assets\New Resources\Underwater Diving\Animations\EnemyDeath.controller
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Animations\EnemyDeath.controller
+    projectPath: Assets\New Resources\Underwater Diving\Animations\EnemyDeath.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\Bubbles.prefab
-    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\Bubbles.prefab
-    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\Bubbles.prefab
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishBig.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishBig.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishBig.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\Game.unity
-    fullPath: D:\unityProjects\Virus-Shooter\Assets\Scenes\Game.unity
-    projectPath: Assets\Scenes\Game.unity
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishDart.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishDart.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishDart.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishMid.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishMid.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishMid.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\Mine.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\Mine.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\Mine.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineBig.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineBig.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineBig.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineSmall.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineSmall.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineSmall.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,48 +64,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\2f\2fabc73f89de3103263b5959f1074ae0
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\2f\2fabc73f89de3103263b5959f1074ae0
-    projectPath: Library\Artifacts\2f\2fabc73f89de3103263b5959f1074ae0
+  - path: Library\Artifacts\a2\a2682df00a0045923c6e6382f1ad8b78
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\a2\a2682df00a0045923c6e6382f1ad8b78
+    projectPath: Library\Artifacts\a2\a2682df00a0045923c6e6382f1ad8b78
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\54\54004469b04a534c572ead889e4fe2f7
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\54\54004469b04a534c572ead889e4fe2f7
-    projectPath: Library\Artifacts\54\54004469b04a534c572ead889e4fe2f7
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\unityProjects\Virus-Shooter\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\95\95ea80ad4784a7e73513d400aa9e0951
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\95\95ea80ad4784a7e73513d400aa9e0951
-    projectPath: Library\Artifacts\95\95ea80ad4784a7e73513d400aa9e0951
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\99\99234885d31112bd5ae5a093a8d95d40
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\99\99234885d31112bd5ae5a093a8d95d40
-    projectPath: Library\Artifacts\99\99234885d31112bd5ae5a093a8d95d40
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c4\c468983ef3947968cc0c2b77354364a7
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\c4\c468983ef3947968cc0c2b77354364a7
-    projectPath: Library\Artifacts\c4\c468983ef3947968cc0c2b77354364a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c4\c4a765c51a2c86d3f27d247d1ad6824b
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\c4\c4a765c51a2c86d3f27d247d1ad6824b
-    projectPath: Library\Artifacts\c4\c4a765c51a2c86d3f27d247d1ad6824b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ec\ec08eb714b716c38af0a4acfc500cc8a
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\ec\ec08eb714b716c38af0a4acfc500cc8a
-    projectPath: Library\Artifacts\ec\ec08eb714b716c38af0a4acfc500cc8a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: D:\unityProjects\Virus-Shooter\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -106,15 +100,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: D:\unityProjects\Virus-Shooter\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Library\PackageManager\ProjectCache
+    fullPath: D:\unityProjects\Virus-Shooter\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\unityProjects\Virus-Shooter\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: Library\SceneVisibilityState.asset
+    fullPath: D:\unityProjects\Virus-Shooter\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -127,6 +121,12 @@ MonoBehaviour:
   - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     fullPath: D:\unityProjects\Virus-Shooter\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\PrefabStageHierarchy\43\4359e055ccdb6564231f44c027a89497.json
+    fullPath: D:\unityProjects\Virus-Shooter\Library\StateCache\PrefabStageHierarchy\43\4359e055ccdb6564231f44c027a89497.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\43\4359e055ccdb6564231f44c027a89497.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
