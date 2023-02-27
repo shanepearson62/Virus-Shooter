@@ -28,6 +28,8 @@ public class PlayerScript : MonoBehaviour
     private float nextFire = 0.0f;
     protected float bulletTimer;
     public int DelayAmount = 5;
+    
+    public AudioSource audioSource;
 
     PhotonView view;
 
@@ -153,6 +155,7 @@ public class PlayerScript : MonoBehaviour
     {
         if (collision.gameObject.tag == "Asteroid")
         {
+            audioSource.Play();
             _rigidbody.velocity = Vector3.zero;
             _rigidbody.angularVelocity = 0.0f;
             currentHealth -= 2;

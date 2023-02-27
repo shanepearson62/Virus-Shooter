@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2023-02-20T13:53:57.853-06:00
-  initializedAtString: 2023-02-20T12:35:42.107-06:00
+  lastUpdatedAtString: 2023-02-26T15:35:38.848-08:00
+  initializedAtString: 2023-02-26T15:35:38.848-08:00
   currentGitRemote:
     name: origin
     url: https://github.com/Evan-Lew/Virus-Shooter.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: yufeng2
-    tracking: origin/yufeng2
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: yufeng2
+    name: master
     remote:
       name: origin
       url: https://github.com/Evan-Lew/Virus-Shooter.git
-    trackingBranch: yufeng2
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/Evan-Lew/Virus-Shooter.git

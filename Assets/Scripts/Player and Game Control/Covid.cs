@@ -35,6 +35,7 @@ public class Covid : MonoBehaviour
 
     private void Awake()
     {
+        //splat.Play();
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _rigidbody = GetComponent<Rigidbody2D>();
     }
@@ -115,10 +116,10 @@ public class Covid : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        splat.Play();
+        //splat.Play();
         if (collision.gameObject.tag == "Vax") //the bullet tag is Vax
-
         {
+            splat.Play();
             if (variant == 0 && this.size * 0.5f >= this.minSize)
             {
                 CreateSplit();
@@ -148,6 +149,7 @@ public class Covid : MonoBehaviour
         }
         if (collision.gameObject.tag == "Player")
         {
+            splat.Play();
             PlayerScript player = collision.gameObject.GetComponent<PlayerScript>();
             FindObjectOfType<GameManager>().CovidDestroyed(this, player, -75);
             Destroy(this.gameObject);
