@@ -20,6 +20,8 @@ public class GameManager : MonoBehaviour
     public int score = 0;
     public TextMeshProUGUI scoreText;
     public PlayfabManager playfabmanager;
+
+    public AudioSource ExplosionAudioSource;
     
     public void AddPlayer(PlayerScript newPlayer)
     {
@@ -28,11 +30,12 @@ public class GameManager : MonoBehaviour
     }
     
     public void CovidDestroyed(Covid asteroid, PlayerScript killer, int point) {
+        ExplosionAudioSource.Play();
         this.explosion.transform.position = asteroid.transform.position;
         this.explosion.SetActive(false);
         this.explosion.SetActive(true);
 
-        if(killer == this.player){
+        if (killer == this.player){
             this.score += point;
             if (this.score < 0)
             {

@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 2560
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 7}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 16
+  controlID: 145
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 17
+  controlID: 146
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,7 +278,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 18
+  controlID: 147
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,22 +344,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 23}
-    m_SelectedIDs: 4a5a0000
-    m_LastClickedID: 23114
-    m_ExpandedIDs: 00000000265a0000285a0000465a0000
+    m_SelectedIDs: 4e5a0000
+    m_LastClickedID: 23118
+    m_ExpandedIDs: 000000004c5a00004e5a0000665a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000265a0000285a0000
+    m_ExpandedIDs: 000000004c5a00004e5a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -510,9 +510,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 885b0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2efffeff5cfffeff82fffeffdcfffeff5c00ffff8c00ffffd200ffffc603ffffac0effffde0effff020fffff300fffff540fffff800fffffc813ffff9e21ffffc621ffffe221ffff9225ffff742bffff7839ffff743bffffac40ffff8843ffff1470ffff3a75ffffe2a3ffff96aaffff42b5ffffe4c6ffffecc7ffff84caffff54faffff36fbfffff4ffffff506b00003c72000048730000128f0000309000006294000080950000c0990000cc9a00002ea3000010e80000a6f90000d80a0100001f0100c2290100d6290100e0290100b42a0100be2a0100c82a0100d22a0100f02a0100
+      m_ExpandedIDs: c466ffffc06effff54a4ffffb2aeffff02afffff1cafffff9eb1ffffa8b2ffff8ab3ffffdac1ffffdacdffff4ccfffff1adcffff42dcffff1adfffff24e0fffff8e0ffffbaf6ffffd2f7ffff7af8ffffacfaffffb0630000b0640000b07b0000c07c0000fe870000fe880000948d0000a48e00000098000022990000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

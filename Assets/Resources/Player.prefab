@@ -261,7 +261,7 @@ MonoBehaviour:
   thrustSpeed: 2
   turnSpeed: 1.5
   DelayAmount: 1
-  audioSource: {fileID: -8772891439872164858}
+  CollisionAudioSource: {fileID: -8772891439872164858}
 --- !u!114 &7944380395735745251
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -328,7 +328,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: bdd8c4de6fa8e5f44a1d35ba936b41f3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 28d48a322f5167f46bb8664206207498, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
