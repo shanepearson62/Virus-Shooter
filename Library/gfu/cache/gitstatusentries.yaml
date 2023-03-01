@@ -13,18 +13,414 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-03-01T13:54:40.949-06:00
-  initializedAtString: 2023-03-01T13:36:48.644-06:00
+  lastUpdatedAtString: 2023-03-01T15:05:58.188-06:00
+  initializedAtString: 2023-03-01T14:21:09.458-06:00
   entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\unityProjects\Virus-Shooter\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Animations\Bubbles.anim
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Animations\Bubbles.anim
+    projectPath: Assets\New Resources\Underwater Diving\Animations\Bubbles.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Animations\FishDart.controller
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Animations\FishDart.controller
+    projectPath: Assets\New Resources\Underwater Diving\Animations\FishDart.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\Bubbles.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\Bubbles.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\Bubbles.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\Bullet.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Resources\Bullet.prefab
+    projectPath: Assets\Resources\Bullet.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\Fish 2.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Resources\Fish 2.prefab
+    projectPath: Assets\Resources\Fish 2.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Resources\Player.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Resources\Player.prefab
+    projectPath: Assets\Resources\Player.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Game.unity
     fullPath: D:\unityProjects\Virus-Shooter\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\Menu and UI\CameraFollow.cs
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Scripts\Menu and UI\CameraFollow.cs
+    projectPath: Assets\Scripts\Menu and UI\CameraFollow.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Player and Game Control\Bubbles.cs
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Scripts\Player and Game Control\Bubbles.cs
+    projectPath: Assets\Scripts\Player and Game Control\Bubbles.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Player and Game Control\Bubbles.cs.meta
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Scripts\Player and Game Control\Bubbles.cs.meta
+    projectPath: Assets\Scripts\Player and Game Control\Bubbles.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Player and Game Control\PlayerHealthBar.cs
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Scripts\Player and Game Control\PlayerHealthBar.cs
+    projectPath: Assets\Scripts\Player and Game Control\PlayerHealthBar.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Player and Game Control\PlayerScript.cs
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Scripts\Player and Game Control\PlayerScript.cs
+    projectPath: Assets\Scripts\Player and Game Control\PlayerScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\onHit.png
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Sprites\onHit.png
+    projectPath: Assets\Sprites\onHit.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\onHit.png.meta
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Sprites\onHit.png.meta
+    projectPath: Assets\Sprites\onHit.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\unityProjects\Virus-Shooter\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: D:\unityProjects\Virus-Shooter\Library\ArtifactDB
     projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB-lock
+    fullPath: D:\unityProjects\Virus-Shooter\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\01\01173ca62c7391252869fea8997d37b5
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\01\01173ca62c7391252869fea8997d37b5
+    projectPath: Library\Artifacts\01\01173ca62c7391252869fea8997d37b5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\03\0311fa854efbcbcf59af0941b3186e97
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\03\0311fa854efbcbcf59af0941b3186e97
+    projectPath: Library\Artifacts\03\0311fa854efbcbcf59af0941b3186e97
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\06\06dbfdfa1b02fea15ad3450aa724553a
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\06\06dbfdfa1b02fea15ad3450aa724553a
+    projectPath: Library\Artifacts\06\06dbfdfa1b02fea15ad3450aa724553a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0d\0d0081b74f76aa9df57723b0a4dbea82
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\0d\0d0081b74f76aa9df57723b0a4dbea82
+    projectPath: Library\Artifacts\0d\0d0081b74f76aa9df57723b0a4dbea82
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\13\1380364217872d92881152d12199c155
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\13\1380364217872d92881152d12199c155
+    projectPath: Library\Artifacts\13\1380364217872d92881152d12199c155
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\14\14a9185f57a77cfdfa025503a9cdd7f7
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\14\14a9185f57a77cfdfa025503a9cdd7f7
+    projectPath: Library\Artifacts\14\14a9185f57a77cfdfa025503a9cdd7f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1c\1c35552fed2dc8287f007d77d6223dda
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\1c\1c35552fed2dc8287f007d77d6223dda
+    projectPath: Library\Artifacts\1c\1c35552fed2dc8287f007d77d6223dda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\25\2540fec48d3512b4385e38e650eba3c0
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\25\2540fec48d3512b4385e38e650eba3c0
+    projectPath: Library\Artifacts\25\2540fec48d3512b4385e38e650eba3c0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\27\27d8afc9c46b06f06fc4ae951871824f
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\27\27d8afc9c46b06f06fc4ae951871824f
+    projectPath: Library\Artifacts\27\27d8afc9c46b06f06fc4ae951871824f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    projectPath: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\39\39093ca57276f205ff61ef3175057112
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\39\39093ca57276f205ff61ef3175057112
+    projectPath: Library\Artifacts\39\39093ca57276f205ff61ef3175057112
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\39\39245501fb438991b35e6e2e38c49243
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\39\39245501fb438991b35e6e2e38c49243
+    projectPath: Library\Artifacts\39\39245501fb438991b35e6e2e38c49243
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3d\3dbbc339b38bc58f4b912fd7db516162
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\3d\3dbbc339b38bc58f4b912fd7db516162
+    projectPath: Library\Artifacts\3d\3dbbc339b38bc58f4b912fd7db516162
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\40\40ab1d1035ba7c7a81adf025dffe2030
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\40\40ab1d1035ba7c7a81adf025dffe2030
+    projectPath: Library\Artifacts\40\40ab1d1035ba7c7a81adf025dffe2030
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\56\56b6dde9263fb53b8fc4c44b6bbe5648
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\56\56b6dde9263fb53b8fc4c44b6bbe5648
+    projectPath: Library\Artifacts\56\56b6dde9263fb53b8fc4c44b6bbe5648
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\57\570b3c74894e6d426a7ea9489c1d5317
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\57\570b3c74894e6d426a7ea9489c1d5317
+    projectPath: Library\Artifacts\57\570b3c74894e6d426a7ea9489c1d5317
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\63\633c2ec9cd5359750b3749044577ab6d
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\63\633c2ec9cd5359750b3749044577ab6d
+    projectPath: Library\Artifacts\63\633c2ec9cd5359750b3749044577ab6d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\66\66a54f6358cd57394b717d7e7639ba26
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\66\66a54f6358cd57394b717d7e7639ba26
+    projectPath: Library\Artifacts\66\66a54f6358cd57394b717d7e7639ba26
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\69\69d6b7497d9ef4716656e9e1f53207d9
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\69\69d6b7497d9ef4716656e9e1f53207d9
+    projectPath: Library\Artifacts\69\69d6b7497d9ef4716656e9e1f53207d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
+    projectPath: Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6e\6e6a84f3930d31d112b6e3b5fe94ff36
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\6e\6e6a84f3930d31d112b6e3b5fe94ff36
+    projectPath: Library\Artifacts\6e\6e6a84f3930d31d112b6e3b5fe94ff36
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\75\75b07dacc189ae5fcbb3016aff6583e3
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\75\75b07dacc189ae5fcbb3016aff6583e3
+    projectPath: Library\Artifacts\75\75b07dacc189ae5fcbb3016aff6583e3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\78\789408e282eea4f95965cd2470b21173
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\78\789408e282eea4f95965cd2470b21173
+    projectPath: Library\Artifacts\78\789408e282eea4f95965cd2470b21173
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\81\81ef05afddc310048bfa737085683196
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\81\81ef05afddc310048bfa737085683196
+    projectPath: Library\Artifacts\81\81ef05afddc310048bfa737085683196
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\82\82afe13716cc6282852ac74c1f6b41a9
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\82\82afe13716cc6282852ac74c1f6b41a9
+    projectPath: Library\Artifacts\82\82afe13716cc6282852ac74c1f6b41a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\88\8864d6c4848220988ec45002051f915f
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\88\8864d6c4848220988ec45002051f915f
+    projectPath: Library\Artifacts\88\8864d6c4848220988ec45002051f915f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8b\8b2a20afcd4188d9aeeb0066529f5397
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\8b\8b2a20afcd4188d9aeeb0066529f5397
+    projectPath: Library\Artifacts\8b\8b2a20afcd4188d9aeeb0066529f5397
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8b\8b850e85e6a6bfc01a0081f1214b2d5a
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\8b\8b850e85e6a6bfc01a0081f1214b2d5a
+    projectPath: Library\Artifacts\8b\8b850e85e6a6bfc01a0081f1214b2d5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\95\959b4a3cc004a486736e6cbdb067b035
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\95\959b4a3cc004a486736e6cbdb067b035
+    projectPath: Library\Artifacts\95\959b4a3cc004a486736e6cbdb067b035
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\98\98b1b0c5671058fc953fb9a31809bff1
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\98\98b1b0c5671058fc953fb9a31809bff1
+    projectPath: Library\Artifacts\98\98b1b0c5671058fc953fb9a31809bff1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a7\a76304e951550f8b9525799958e69ce5
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\a7\a76304e951550f8b9525799958e69ce5
+    projectPath: Library\Artifacts\a7\a76304e951550f8b9525799958e69ce5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ac\ac2c2a3426bb5813aee97838c919b14d
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\ac\ac2c2a3426bb5813aee97838c919b14d
+    projectPath: Library\Artifacts\ac\ac2c2a3426bb5813aee97838c919b14d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b1\b1557a0d5fca960d8e616a21ee790e97
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\b1\b1557a0d5fca960d8e616a21ee790e97
+    projectPath: Library\Artifacts\b1\b1557a0d5fca960d8e616a21ee790e97
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b5\b543a4370e8322f530906019f5ae3f31
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\b5\b543a4370e8322f530906019f5ae3f31
+    projectPath: Library\Artifacts\b5\b543a4370e8322f530906019f5ae3f31
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bd\bd815536185fc447e34c5c6987deef49
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\bd\bd815536185fc447e34c5c6987deef49
+    projectPath: Library\Artifacts\bd\bd815536185fc447e34c5c6987deef49
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c7\c79e05b497682b8b7cd2a7303e841914
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\c7\c79e05b497682b8b7cd2a7303e841914
+    projectPath: Library\Artifacts\c7\c79e05b497682b8b7cd2a7303e841914
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cc\cc51ebec4114fc7e0da4f492a453ee81
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\cc\cc51ebec4114fc7e0da4f492a453ee81
+    projectPath: Library\Artifacts\cc\cc51ebec4114fc7e0da4f492a453ee81
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cf\cf6474e09328b068ddedaba30e399288
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\cf\cf6474e09328b068ddedaba30e399288
+    projectPath: Library\Artifacts\cf\cf6474e09328b068ddedaba30e399288
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d1\d1d66543fdfe3eadf8ccb29fcb901b1d
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\d1\d1d66543fdfe3eadf8ccb29fcb901b1d
+    projectPath: Library\Artifacts\d1\d1d66543fdfe3eadf8ccb29fcb901b1d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\da\da7da59e2ed7300d2164b02e0bd255df
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\da\da7da59e2ed7300d2164b02e0bd255df
+    projectPath: Library\Artifacts\da\da7da59e2ed7300d2164b02e0bd255df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\da\da82d31e4e19d889800855337a665171
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\da\da82d31e4e19d889800855337a665171
+    projectPath: Library\Artifacts\da\da82d31e4e19d889800855337a665171
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e3\e30a309bf28718d4b3b078e74654f6a3
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\e3\e30a309bf28718d4b3b078e74654f6a3
+    projectPath: Library\Artifacts\e3\e30a309bf28718d4b3b078e74654f6a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
+    projectPath: Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e3\e38b43f0bd8761524dadc1875d9ce39e
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\e3\e38b43f0bd8761524dadc1875d9ce39e
+    projectPath: Library\Artifacts\e3\e38b43f0bd8761524dadc1875d9ce39e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f1\f115f856f98293bf230563b5ec2d677b
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\f1\f115f856f98293bf230563b5ec2d677b
+    projectPath: Library\Artifacts\f1\f115f856f98293bf230563b5ec2d677b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f5\f507d1e9302ab18f6b7c7bbeb7ce593c
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\f5\f507d1e9302ab18f6b7c7bbeb7ce593c
+    projectPath: Library\Artifacts\f5\f507d1e9302ab18f6b7c7bbeb7ce593c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f5\f529a6cdaa7332d2b578dfdbf815ed32
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\f5\f529a6cdaa7332d2b578dfdbf815ed32
+    projectPath: Library\Artifacts\f5\f529a6cdaa7332d2b578dfdbf815ed32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f6\f6f4b7c97fddbff72fce816df35a355c
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\f6\f6f4b7c97fddbff72fce816df35a355c
+    projectPath: Library\Artifacts\f6\f6f4b7c97fddbff72fce816df35a355c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    projectPath: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: D:\unityProjects\Virus-Shooter\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -70,6 +466,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\unityProjects\Virus-Shooter\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\unityProjects\Virus-Shooter\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: D:\unityProjects\Virus-Shooter\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
@@ -82,75 +490,399 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\SourceAssetDB-lock
+    fullPath: D:\unityProjects\Virus-Shooter\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: D:\unityProjects\Virus-Shooter\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: D:\unityProjects\Virus-Shooter\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
+  - path: obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+  - path: obj\Debug\PhotonChat.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PhotonChat.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PhotonChat.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+  - path: obj\Debug\PhotonRealtime.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PhotonRealtime.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PhotonRealtime.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+  - path: obj\Debug\PhotonUnityNetworking.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PhotonUnityNetworking.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PhotonUnityNetworking.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+  - path: obj\Debug\PhotonUnityNetworking.Demos.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Demos.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PhotonUnityNetworking.Demos.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+  - path: obj\Debug\PhotonUnityNetworking.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PhotonUnityNetworking.Editor.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+  - path: obj\Debug\PhotonUnityNetworking.Utilities.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Utilities.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PhotonUnityNetworking.Utilities.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+  - path: obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PhotonUnityNetworking.Utilities.Culling.Editor.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe9.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe9.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
+  - path: obj\Debug\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PlayFab.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PlayFab.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PlayFab.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PlayFabEditorExtensions.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PlayFabEditorExtensions.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PlayFabEditorExtensions.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PlayFabSDKEditor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PlayFabSDKEditor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PlayFabSDKEditor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PsdPlugin.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PsdPlugin.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PsdPlugin.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PunDemos.DemoSlotcarEditor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\PunDemos.DemoSlotcarEditor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\PunDemos.DemoSlotcarEditor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.Animation.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.Animation.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.Animation.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.Animation.Runtime.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.Animation.Runtime.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.Animation.Runtime.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.Animation.Triangle.Runtime.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.Animation.Triangle.Runtime.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.Animation.Triangle.Runtime.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.Common.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.Common.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.Common.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.Common.Runtime.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.Common.Runtime.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.Common.Runtime.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.IK.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.IK.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.IK.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.IK.Runtime.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.IK.Runtime.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.IK.Runtime.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.Path.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.Path.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.Path.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.PixelPerfect.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.PixelPerfect.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.PixelPerfect.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.PixelPerfect.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.PixelPerfect.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.PixelPerfect.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.Psdimporter.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.Psdimporter.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.Psdimporter.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.SpriteShape.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.SpriteShape.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.SpriteShape.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.2D.SpriteShape.Runtime.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.2D.SpriteShape.Runtime.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.2D.SpriteShape.Runtime.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.CollabProxy.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.CollabProxy.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.CollabProxy.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.InternalAPIEditorBridge.001.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.InternalAPIEditorBridge.001.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.InternalAPIEditorBridge.001.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.InternalAPIEditorBridge.005.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.InternalAPIEditorBridge.005.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.InternalAPIEditorBridge.005.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.InternalAPIEngineBridge.001.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.InternalAPIEngineBridge.001.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.InternalAPIEngineBridge.001.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.Mathematics.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.Mathematics.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.Mathematics.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.Mathematics.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.Mathematics.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.Mathematics.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.PlasticSCM.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.PlasticSCM.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.PlasticSCM.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.Rider.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.Rider.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.Rider.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.Subsystem.Registration.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.Subsystem.Registration.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.Subsystem.Registration.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.TextMeshPro.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.TextMeshPro.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.TextMeshPro.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.TextMeshPro.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.Timeline.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.Timeline.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.Timeline.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.VisualScripting.Core.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.VisualScripting.Core.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.VisualScripting.Core.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.VisualScripting.Core.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.VisualScripting.Core.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.VisualScripting.Core.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.VisualScripting.Flow.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.VisualScripting.Flow.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.VisualScripting.Flow.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.VisualScripting.State.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.VisualScripting.State.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.VisualScripting.State.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.VisualScripting.State.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.VisualScripting.State.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.VisualScripting.State.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.VisualStudio.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.VisualStudio.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.VisualStudio.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.VSCode.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.VSCode.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.VSCode.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.XR.ARFoundation.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.XR.ARFoundation.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.XR.ARFoundation.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.XR.ARFoundation.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.XR.ARFoundation.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.XR.ARFoundation.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.XR.ARSubsystems.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.XR.ARSubsystems.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.XR.ARSubsystems.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.XR.ARSubsystems.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.XR.ARSubsystems.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.XR.ARSubsystems.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.XR.Management.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.XR.Management.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.XR.Management.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Unity.XR.Management.Editor.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\Unity.XR.Management.Editor.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Unity.XR.Management.Editor.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\UnityEditor.SpatialTracking.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\UnityEditor.SpatialTracking.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\UnityEditor.SpatialTracking.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\UnityEditor.XR.LegacyInputHelpers.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\UnityEditor.XR.LegacyInputHelpers.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\UnityEditor.XR.LegacyInputHelpers.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\UnityEngine.SpatialTracking.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\UnityEngine.SpatialTracking.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\UnityEngine.SpatialTracking.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\UnityEngine.XR.LegacyInputHelpers.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\UnityEngine.XR.LegacyInputHelpers.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\UnityEngine.XR.LegacyInputHelpers.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\VSSettingsProvider.csproj.AssemblyReference.cache
+    fullPath: D:\unityProjects\Virus-Shooter\obj\Debug\VSSettingsProvider.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\VSSettingsProvider.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

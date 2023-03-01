@@ -7,7 +7,7 @@ public class PlayerScript : MonoBehaviour
     [SerializeField]
     private float topBound = 20;
     [SerializeField]
-    private float botBound = 0;
+    private float botBound = -5;
     public GameManager manager;
     public Sprite sprites;
     private SpriteRenderer _spriteRenderer;
