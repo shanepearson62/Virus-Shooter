@@ -13,60 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-03-01T13:36:49.248-06:00
+  lastUpdatedAtString: 2023-03-01T13:54:40.949-06:00
   initializedAtString: 2023-03-01T13:36:48.644-06:00
   entries:
-  - path: Assets\Sprites\Ships\white ship.png
-    fullPath: D:\unityProjects\Virus-Shooter\Assets\Sprites\Ships\white ship.png
-    projectPath: Assets\Sprites\Ships\white ship.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sprites\Ships\white ship.png.meta
-    fullPath: D:\unityProjects\Virus-Shooter\Assets\Sprites\Ships\white ship.png.meta
-    projectPath: Assets\Sprites\Ships\white ship.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ArtifactDB
-    fullPath: D:\unityProjects\Virus-Shooter\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
+  - path: Assets\Scenes\Game.unity
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\89\89a4fb0b2e27c38d7dd9a3c4a8306d4b
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\89\89a4fb0b2e27c38d7dd9a3c4a8306d4b
-    projectPath: Library\Artifacts\89\89a4fb0b2e27c38d7dd9a3c4a8306d4b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9a\9acbf05a7d82fa3cd2afc77d64a86305
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\9a\9acbf05a7d82fa3cd2afc77d64a86305
-    projectPath: Library\Artifacts\9a\9acbf05a7d82fa3cd2afc77d64a86305
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a5\a5647dedbf002741b6bf7c87f2adb3e3
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\a5\a5647dedbf002741b6bf7c87f2adb3e3
-    projectPath: Library\Artifacts\a5\a5647dedbf002741b6bf7c87f2adb3e3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ae\ae24c63c7130b0c9e553a4377cfc7c3e
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\ae\ae24c63c7130b0c9e553a4377cfc7c3e
-    projectPath: Library\Artifacts\ae\ae24c63c7130b0c9e553a4377cfc7c3e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f2\f265470300165a21f7f7b21984c9ed8e
-    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\f2\f265470300165a21f7f7b21984c9ed8e
-    projectPath: Library\Artifacts\f2\f265470300165a21f7f7b21984c9ed8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: D:\unityProjects\Virus-Shooter\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+  - path: Library\ArtifactDB
+    fullPath: D:\unityProjects\Virus-Shooter\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -79,6 +37,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: D:\unityProjects\Virus-Shooter\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\unityProjects\Virus-Shooter\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -100,21 +64,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache
-    fullPath: D:\unityProjects\Virus-Shooter\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache.md5
-    fullPath: D:\unityProjects\Virus-Shooter\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: D:\unityProjects\Virus-Shooter\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\unityProjects\Virus-Shooter\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -124,24 +82,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\AssetImportWorker0.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\AssetImportWorker0.log
-    projectPath: Logs\AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker0-prev.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -211,6 +151,12 @@ MonoBehaviour:
   - path: Logs\shadercompiler-UnityShaderCompiler.exe9.log
     fullPath: D:\unityProjects\Virus-Shooter\Logs\shadercompiler-UnityShaderCompiler.exe9.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: D:\unityProjects\Virus-Shooter\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
