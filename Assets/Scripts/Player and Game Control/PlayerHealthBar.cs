@@ -7,6 +7,7 @@ public class PlayerHealthBar : MonoBehaviour
 {
     public Slider _health;
     public Image onHit;
+    private bool onHitPlaying;
     
     // Start is called before the first frame update
     void Start()
@@ -21,7 +22,9 @@ public class PlayerHealthBar : MonoBehaviour
         _health.value = PlayerScript.playerHealth;
     }
     public void TakeDamage() {
-        StopCoroutine(HandleTakeDamage());
+        if (onHitPlaying) {
+           StopCoroutine(HandleTakeDamage()); 
+        }
         onHit.gameObject.SetActive(false);
         onHit.gameObject.SetActive(true);
         onHit.color = new Vector4(onHit.color.r, onHit.color.g, onHit.color.b, 0f);
@@ -29,6 +32,7 @@ public class PlayerHealthBar : MonoBehaviour
     }
     private IEnumerator HandleTakeDamage()
     {
+        onHitPlaying = true;
         float transparency = 0f;
         for(float i = 0; i < 0.4f; i += Time.deltaTime)
         {
@@ -44,5 +48,6 @@ public class PlayerHealthBar : MonoBehaviour
         }
         onHit.color = new Vector4(onHit.color.r, onHit.color.g, onHit.color.b, 0);
         onHit.gameObject.SetActive(false);
+        onHitPlaying = false;
     }
 }

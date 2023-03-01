@@ -17,5 +17,9 @@ public class EnemyFollow : MonoBehaviour
     void Update()
     {
         transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+        Vector2 displacement = target.position- transform.position;
+        if (Mathf.Abs(Vector2.SignedAngle(Vector2.Dot(Vector2.right, displacement)*Vector2.right, displacement)) < 60f) {
+            transform.right = Vector2.Dot(Vector2.right, displacement) * Vector2.right;
+        }
     }
 }

@@ -59,10 +59,10 @@ public class Covid : MonoBehaviour
             speed += 2.0f;
         }
 
-        if (Vector3.Distance(transform.position, player.position) > 1f)
-        {
-            RotateTowardsTarget();
-        }
+        // if (Vector3.Distance(transform.position, player.position) > 1f)
+        // {
+        //     RotateTowardsTarget();
+        // }
     }
 
     public void getPlayer(Transform target)
