@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 1747477229375978443}
   - component: {fileID: -4601111047956371364}
   - component: {fileID: -1970636091570902789}
+  - component: {fileID: 712197547758133718}
   m_Layer: 9
   m_Name: Fish 2
   m_TagString: Asteroid
@@ -200,3 +201,22 @@ MonoBehaviour:
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
+--- !u!95 &712197547758133718
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018751473113633715}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 87d42cf954c2d1449a04e85c2f2eac9b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

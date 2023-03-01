@@ -547,13 +547,13 @@
         <HintPath>D:\UnityEditor2020.3.24f1\2020.3.18f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>D:\unityProjects\Virus-Shooter\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
+        <HintPath>D:\unityProjects\v3\Virus-Shooter\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>D:\unityProjects\Virus-Shooter\Library\PackageCache\com.unity.collab-proxy@1.7.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+        <HintPath>D:\unityProjects\v3\Virus-Shooter\Library\PackageCache\com.unity.collab-proxy@1.7.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\unityProjects\Virus-Shooter\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\unityProjects\v3\Virus-Shooter\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>D:\UnityEditor2020.3.24f1\2020.3.18f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -904,10 +904,10 @@
         <HintPath>D:\UnityEditor2020.3.24f1\2020.3.18f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:\unityProjects\Virus-Shooter\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>D:\unityProjects\v3\Virus-Shooter\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:\unityProjects\Virus-Shooter\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>D:\unityProjects\v3\Virus-Shooter\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -250,7 +250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topBound: 20
-  botBound: 0
+  botBound: -5
   manager: {fileID: 0}
   sprites: {fileID: 21300000, guid: dae05b2eb9ee83e4fa764438390506f3, type: 3}
   currentHealth: 10
@@ -1020,7 +1020,7 @@ ParticleSystem:
     gravityModifier:
       serializedVersion: 2
       minMaxState: 0
-      scalar: -0.1
+      scalar: -0.2
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -1279,7 +1279,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 20
+      scalar: 40
       minScalar: 10
       maxCurve:
         serializedVersion: 2

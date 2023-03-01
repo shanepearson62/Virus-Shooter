@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4537175568883932}
   - component: {fileID: 212314428252964188}
   - component: {fileID: 95179231269673472}
+  - component: {fileID: 3264969668643053150}
   m_Layer: 0
   m_Name: Bubbles
   m_TagString: Untagged
@@ -102,3 +103,15 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &3264969668643053150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1801604868145782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d1372dd7aef12b468d087bc4f87dbcd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

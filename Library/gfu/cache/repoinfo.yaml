@@ -13,13 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< HEAD
-  lastUpdatedAtString: 2023-02-27T10:17:25.267-08:00
-  initializedAtString: 2023-02-27T10:17:25.267-08:00
-=======
-  lastUpdatedAtString: 2023-02-21T22:42:24.604-06:00
-  initializedAtString: 2023-02-21T22:42:24.604-06:00
->>>>>>> yufeng2
+  lastUpdatedAtString: 2023-03-01T16:08:29.783-06:00
+  initializedAtString: 2023-03-01T16:08:29.783-06:00
   currentGitRemote:
     name: origin
     url: https://github.com/Evan-Lew/Virus-Shooter.git
