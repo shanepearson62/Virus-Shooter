@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2023-02-27T10:40:17.677-08:00
   initializedAtString: 2023-02-27T10:17:27.931-08:00
   entries:
@@ -90,6 +91,50 @@ MonoBehaviour:
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Assets\Scripts\Player
       and Game Control\PlayerScript.cs
     projectPath: Assets\Scripts\Player and Game Control\PlayerScript.cs
+=======
+  lastUpdatedAtString: 2023-02-21T23:20:45.310-06:00
+  initializedAtString: 2023-02-21T22:42:25.203-06:00
+  entries:
+  - path: Assets\New Resources\Underwater Diving\Animations\EnemyDeath.controller
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Animations\EnemyDeath.controller
+    projectPath: Assets\New Resources\Underwater Diving\Animations\EnemyDeath.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishBig.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishBig.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishBig.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishDart.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishDart.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishDart.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishMid.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishMid.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\FishMid.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\Mine.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\Mine.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\Mine.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineBig.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineBig.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineBig.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineSmall.prefab
+    fullPath: D:\unityProjects\Virus-Shooter\Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineSmall.prefab
+    projectPath: Assets\New Resources\Underwater Diving\Prefabs\Sprites\MineSmall.prefab
+>>>>>>> yufeng2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -99,9 +144,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Library\Artifacts\06\06d1d06fe2fc77675866ff504ad0c487
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\Artifacts\06\06d1d06fe2fc77675866ff504ad0c487
     projectPath: Library\Artifacts\06\06d1d06fe2fc77675866ff504ad0c487
+=======
+  - path: Library\Artifacts\a2\a2682df00a0045923c6e6382f1ad8b78
+    fullPath: D:\unityProjects\Virus-Shooter\Library\Artifacts\a2\a2682df00a0045923c6e6382f1ad8b78
+    projectPath: Library\Artifacts\a2\a2682df00a0045923c6e6382f1ad8b78
+>>>>>>> yufeng2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -117,12 +168,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+>>>>>>> yufeng2
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -141,9 +195,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Library\InspectorExpandedItems.asset
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
+=======
+  - path: Library\PackageManager\ProjectCache
+    fullPath: D:\unityProjects\Virus-Shooter\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+>>>>>>> yufeng2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -153,6 +213,7 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -969,6 +1030,8 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+>>>>>>> yufeng2
   - path: Library\SourceAssetDB
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -981,6 +1044,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
+=======
+  - path: Library\StateCache\PrefabStageHierarchy\43\4359e055ccdb6564231f44c027a89497.json
+    fullPath: D:\unityProjects\Virus-Shooter\Library\StateCache\PrefabStageHierarchy\43\4359e055ccdb6564231f44c027a89497.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\43\4359e055ccdb6564231f44c027a89497.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: D:\unityProjects\Virus-Shooter\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+>>>>>>> yufeng2
   - path: Logs\AssetImportWorker0.log
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
@@ -1011,9 +1089,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: UserSettings\EditorUserSettings.asset
     fullPath: C:\Users\evanm\Berkeley Pharma Tech\Virus-Shooter\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+>>>>>>> yufeng2
