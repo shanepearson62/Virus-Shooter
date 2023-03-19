@@ -154,14 +154,15 @@ MonoBehaviour:
   interval: 2
   speed: 100
   size: 1
-  minSize: 0.5
-  maxLifetime: 30
+  minSize: 2
+  maxLifetime: 10
   maxSize: 1.5
+  halfMultiplier: 0.5
   variant: 0
   pointMultiplier: 0
-  scoreText: {fileID: 0}
   scoreValue: 0
   player: {fileID: 0}
+  stayHorizontal: 1
 --- !u!114 &-4601111047956371364
 MonoBehaviour:
   m_ObjectHideFlags: 0

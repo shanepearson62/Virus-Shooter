@@ -466,10 +466,10 @@ MonoBehaviour:
   playerPrefab: {fileID: 7944380395735745273, guid: f940dd1aa4eba48e1a966399c098631e,
     type: 3}
   manager: {fileID: 1757882779}
-  minX: -4
-  maxX: 4
-  minY: -7.3
-  maxY: 7.3
+  minX: 2
+  maxX: 6
+  minY: -3
+  maxY: 5
 --- !u!4 &163866982
 Transform:
   m_ObjectHideFlags: 0
@@ -7957,7 +7957,9 @@ MonoBehaviour:
   - {fileID: 1018751473113633715, guid: 0e71ec247db7a994b92c142afd300780, type: 3}
   - {fileID: 1018751473113633715, guid: fcff728f6fdbd9146b39423ecc61399b, type: 3}
   spawnRate: 2
+  maxSpawnAmount: 5
   spawnAmount: 1
+  currSpawnAmount: 0
 --- !u!1 &1422010509
 GameObject:
   m_ObjectHideFlags: 0

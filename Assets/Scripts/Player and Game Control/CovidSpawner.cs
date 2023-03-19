@@ -11,15 +11,24 @@ public class CovidSpawner : MonoBehaviour
     public Transform player;
     public List<GameObject> enemyPrefabs = new List<GameObject>();
     public float spawnRate = 2.0f;
+    public int maxSpawnAmount = 10;
     public int spawnAmount = 1;
+    public int currSpawnAmount;
+    private float startTime = 0f;
     public void Start() {
+        startTime = Time.time;
         InvokeRepeating(nameof(Spawn), this.spawnRate, this.spawnRate);
+    }
+    void Update() {
+        float duration = Time.time - startTime;
+        float coeff = Mathf.Min(1f, duration/60f);
+        currSpawnAmount = Mathf.RoundToInt(coeff*(maxSpawnAmount) + (1-coeff) * spawnAmount);
     }
 
     public void Spawn() {
-        for (int i = 0; i < this.spawnAmount; i++) {
+        for (int i = 0; i < this.currSpawnAmount; i++) {
             Vector2 spawnDirection = Random.insideUnitCircle.normalized;
-            Vector3 spawnpoint = this.spawnDistance * spawnDirection;
+            Vector3 spawnpoint = this.spawnDistance * spawnDirection + (Vector2)Camera.main.transform.position;
 
 
             float variance = Random.Range(-this.trajectoryVariance, this.trajectoryVariance);
