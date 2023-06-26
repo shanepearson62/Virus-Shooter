@@ -9,7 +9,7 @@ using TMPro;
 public class GameManager : MonoBehaviour
 {
     public PlayerScript player;
-    public ParticleSystem explosion;
+    public GameObject explosion;
     public int lives = 1;
     public float respawnInvulnerabilityTime = 3.0f;
     public float respawnTime = 3.0f;
@@ -20,6 +20,8 @@ public class GameManager : MonoBehaviour
     public int score = 0;
     public TextMeshProUGUI scoreText;
     public PlayfabManager playfabmanager;
+
+    public AudioSource ExplosionAudioSource;
     
     public void AddPlayer(PlayerScript newPlayer)
     {
@@ -28,10 +30,12 @@ public class GameManager : MonoBehaviour
     }
     
     public void CovidDestroyed(Covid asteroid, PlayerScript killer, int point) {
+        ExplosionAudioSource.Play();
         this.explosion.transform.position = asteroid.transform.position;
-        this.explosion.Play();
+        this.explosion.SetActive(false);
+        this.explosion.SetActive(true);
 
-        if(killer == this.player){
+        if (killer == this.player){
             this.score += point;
             if (this.score < 0)
             {
@@ -47,7 +51,8 @@ public class GameManager : MonoBehaviour
     public void PlayerDied() {
         this.lives--;
         this.explosion.transform.position = this.player.transform.position;
-        this.explosion.Play();
+        this.explosion.SetActive(false);
+        this.explosion.SetActive(true);
 
         if (this.lives == 0 || PlayerScript.bulletNumber == 0) {
             GameOver();

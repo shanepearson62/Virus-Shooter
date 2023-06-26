@@ -4,6 +4,10 @@ using UnityEngine.UI;
 
 public class PlayerScript : MonoBehaviour
 {
+    [SerializeField]
+    private float topBound = 20;
+    [SerializeField]
+    private float botBound = 0;
     public GameManager manager;
     public Sprite sprites;
     private SpriteRenderer _spriteRenderer;
@@ -19,11 +23,13 @@ public class PlayerScript : MonoBehaviour
     private Rigidbody2D _rigidbody;
     private bool _thrusting;
     private float _turnDirection;
-    private bool _touched = false;
+    //private bool _touched = false; not used
     private float fireRate = 0.2f;
     private float nextFire = 0.0f;
     protected float bulletTimer;
     public int DelayAmount = 5;
+    
+    public AudioSource CollisionAudioSource;
 
     PhotonView view;
 
@@ -86,6 +92,7 @@ public class PlayerScript : MonoBehaviour
                 Vector3 targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
                 targetPos.z = 0;
                 transform.position = Vector3.MoveTowards(transform.position, targetPos, thrustSpeed * Time.deltaTime);
+                transform.position = new Vector3(transform.position.x, Mathf.Clamp(transform.position.y, botBound, topBound), transform.position.z);
             }
             
             // Shooting function (only shoot once per click and not hold down)
@@ -148,6 +155,7 @@ public class PlayerScript : MonoBehaviour
     {
         if (collision.gameObject.tag == "Asteroid")
         {
+            CollisionAudioSource.Play();
             _rigidbody.velocity = Vector3.zero;
             _rigidbody.angularVelocity = 0.0f;
             currentHealth -= 2;
