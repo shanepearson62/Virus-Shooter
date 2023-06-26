@@ -9,7 +9,7 @@ public class CameraFollow : MonoBehaviour
     public float smoothSpeed = 0.125f;
     public Vector3 offset;
 
-    public float Xmax, Xmin, Ymax, Ymin;
+    public float Ymax, Ymin;
 
     // void FixedUpdate()
     // {
@@ -38,6 +38,7 @@ public class CameraFollow : MonoBehaviour
     {
         if(target != null) {
             transform.position = target.position + offset;
+            transform.position = new Vector3(transform.position.x, Mathf.Clamp(transform.position.y, Ymin, Ymax), transform.position.z);
         }
         
     }

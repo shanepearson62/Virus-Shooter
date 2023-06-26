@@ -4,6 +4,10 @@ using UnityEngine.UI;
 
 public class PlayerScript : MonoBehaviour
 {
+    [SerializeField]
+    private float topBound = 20;
+    [SerializeField]
+    private float botBound = -5;
     public GameManager manager;
     public Sprite sprites;
     private SpriteRenderer _spriteRenderer;
@@ -86,6 +90,7 @@ public class PlayerScript : MonoBehaviour
                 Vector3 targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
                 targetPos.z = 0;
                 transform.position = Vector3.MoveTowards(transform.position, targetPos, thrustSpeed * Time.deltaTime);
+                transform.position = new Vector3(transform.position.x, Mathf.Clamp(transform.position.y, botBound, topBound), transform.position.z);
             }
             
             // Shooting function (only shoot once per click and not hold down)
