@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":6.4181108474731449,"y":-0.3381189703941345,"z":0.42461657524108889},"rotation":{"x":-0.042290929704904559,"y":0.01708112470805645,"z":-0.0007234035292640328,"w":-0.9989671111106873},"size":4.6476945877075199,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":594.3870849609375,"y":1203.8179931640625,"z":-7.078866004943848},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":1102.0450439453125,"orthographic":true}
+>>>>>>> parent of 1ca004e7 (Finish Leaderboard)

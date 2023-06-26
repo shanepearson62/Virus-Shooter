@@ -10,14 +10,17 @@ public class LeaderBoardController : MonoBehaviour
     public int ID;
     public TextMeshProUGUI userID;
     public TextMeshProUGUI userScore;
-    int maxScores = 5;
+    private bool getData;
 
+    private void Awake(){
+
+    }
     private void Start(){
+        getData = false;
         LootLockerSDKManager.StartSession("virus1", (response)=>
         {
             if(response.success)
             {   
-                ShowScores();
                 Debug.Log("Success");
             } else
             {
@@ -26,42 +29,37 @@ public class LeaderBoardController : MonoBehaviour
         });
     }
 
-    public void ShowScores(){
-        string playerNames = "";
-        string playerScores = "";
-        LootLockerSDKManager.GetScoreList(ID, maxScores, (response) => {
-            if(response.success)
-            {   
-                LootLockerLeaderboardMember[] scores = response.items;
-                for (int i = 0; i < scores.Length; i++){
-                    playerNames += scores[i].member_id;
-                    playerNames = playerNames + "\n" + "\n";
-                    playerScores += scores[i].score;
-                    playerScores = playerScores + "\n" + "\n";
-                }
-                if(scores.Length<maxScores){
-                    for (int i = scores.Length; i < maxScores; i++){
-                        playerNames += "-";
-                        playerNames = playerNames + "\n" + "\n";
-                        playerScores += "-";
-                        playerScores = playerScores + "\n" + "\n";
-                    }
-                }
-                userID.text = playerNames;  
-                userScore.text = playerScores;
-            } else
+
+    private void Update(){
+        if (!getData){
+            LootLockerSDKManager.GetScoreListMain(ID, 5, 0, (response) =>
             {
-                Debug.Log("Failed");
-            }
-        });
-        
+                if(response.success){
+                    string playerNames = "";
+                    string playerScores = "Scores\n";
+
+                    LootLockerLeaderboardMember [] members = response.items;
+
+                    for (int i = 0; i<members.Length; i++){
+                        if (members[i].player.name != ""){
+                            playerNames += members[i].player.name;
+                        }
+                    }
+                    userID.text = playerNames;  
+                }else{
+                    Debug.Log("Failed get data");
+                    userID.text = "12334";
+                }
+                getData = true;
+            });
+        }
     }
+
     public void SubmitScore(){
         LootLockerSDKManager.SubmitScore(PlayerPrefs.GetString("ID"), HighestScore.currentHighest, ID, (response)=>
         {
             if(response.success)
             {   
-                ShowScores();
                 Debug.Log("Success");
             } else
             {
